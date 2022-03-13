@@ -1,0 +1,14 @@
+{
+  "title": "工具修复",
+  "image": {
+    "file": "tconstruct:book/images/repair.png",
+    "width": 87,
+    "height": 56
+  },
+  "text": [
+    {
+      "text": "修理你的工具这件事很重要，除非你想让你的工具坏掉。在匠作站或匠作砧上，放上你的工具以及头部或大板对应的材料，工具便会修复。或者你也可以使用修补件来修复工具，使用工作台即可！",
+      "paragraph": true
+    }
+	]
+}
