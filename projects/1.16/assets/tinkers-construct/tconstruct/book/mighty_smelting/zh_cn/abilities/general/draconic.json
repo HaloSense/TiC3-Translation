@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:draconic",
+  "text": [
+    {
+      "text": "是时候在比赛中领§o头§r了！"
+    }
+  ],
+  "effects": [
+    "增加一个能力槽",
+    "单个等级",
+    "不需要能力槽"
+  ]
+}
