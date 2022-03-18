@@ -1,0 +1,11 @@
+{
+  "title": "冶炼炉控制器",
+  "image": {
+    "file": "tconstruct:book/images/scontroller.png"
+  },
+  "text": [
+    {
+      "text": "往加热器上浇注4定量的熔融铜就能得到冶炼炉控制器了。"
+    }
+  ]
+}

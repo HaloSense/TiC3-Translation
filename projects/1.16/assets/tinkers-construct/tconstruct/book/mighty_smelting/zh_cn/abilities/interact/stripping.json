@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:stripping",
+  "text": [
+    {
+      "text": "你说这不是那种“stripping”？真是大！失！所！望！"
+    }
+  ],
+  "effects": [
+    "允许使用该工具为原木去皮",
+    "单个等级",
+    "需要1个能力槽"
+  ]
+}

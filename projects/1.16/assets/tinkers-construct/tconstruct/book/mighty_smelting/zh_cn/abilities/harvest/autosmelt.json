@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:autosmelt",
+  "text": [
+    {
+      "text": "The fires of hell are useful for turning up the heat."
+    }
+  ],
+  "effects": [
+    "方块的所有掉落物若可被烧炼则直接被烧炼",
+    "单个等级",
+    "需要1个能力槽"
+  ]
+}
