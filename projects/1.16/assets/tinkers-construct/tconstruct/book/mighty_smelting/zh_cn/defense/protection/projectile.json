@@ -2,7 +2,7 @@
   "modifier_id": "tconstruct:projectile_protection",
   "text": [
     {
-      "text": "这对“我膝盖中了一箭”这种远程伤害不具防护能力。"
+      "text": "对“我膝盖中了一箭”这种远程伤害不具防护能力。"
     }
   ],
   "more_text_space": true,
