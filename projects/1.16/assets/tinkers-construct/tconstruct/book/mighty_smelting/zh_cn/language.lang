@@ -28,7 +28,7 @@ abilities.group_harvest=收集能力
 abilities.group_weapon=武器能力
 abilities.group_interact=交互能力
 abilities.group_armor=盔甲能力
-abilities.unarmed=卸甲
+abilities.unarmed=赤手空拳
 upgrades.subtext=工具可被升级强化，虽然一柄工具只能接受有限个升级。
 
 defense=防御
