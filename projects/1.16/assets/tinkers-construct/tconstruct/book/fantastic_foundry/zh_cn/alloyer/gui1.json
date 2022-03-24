@@ -1,5 +1,5 @@
 {
-  "title": "Alloyer GUI",
+  "title": "合金炉GUI",
   "image": {
     "file": "tconstruct:book/images/alloyergui.png",
     "width": 166,
@@ -7,7 +7,7 @@
   },
   "text": [
     {
-      "text": "Your basic Alloyer GUI, except there could be more or less",
+      "text": "最基本的合金炉GUI，不过槽位数量可能会有出入",
       "paragraph": true
     }
 	]
