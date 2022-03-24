@@ -1,15 +1,15 @@
 {
-  "title": "Byproducts",
+  "title": "副产物",
   "text": [
     {
-      "text": "My Fantastic Foundry will give you byproducts from your ores. You may be asking 'But Nemea what are these byproducts?' Well just read a bit further and find out."
+      "text": "我这奇妙的熔铸炉在冶炼矿物的时候也会产出一些副产物。你可能会问“那Nemea，这些副产物都是什么呢？”接着往下看你就知道了。"
     },
     {
-      "text": "Byproducts are the hidden extras inside your ores that you would not normally be able to achieve with a simple furnace. A bit of extra material of some other kind that is hidden in the rock.",
+      "text": "副产物是在你的矿物方块内部隐藏的额外成分，你用普通的熔炉是没法获取到这些副产物的。在石头里可能隐藏着一些其他的材料。",
       "paragraph": true
     },
     {
-      "text": "A couple of examples: copper ore gives gold as a byproduct, and cobalt ore gives iron as a byproduct.",
+      "text": "举几个例子：熔炼铜矿的副产物是金，熔炼钴矿的副产物则是铁。",
       "paragraph": true
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "title": "Bartering",
+  "title": "猪灵交易",
   "image": {
     "file": "tconstruct:book/images/bartering.png",
     "width": 128,
@@ -7,7 +7,7 @@
   },
   "text": [
     {
-      "text": "What, you a non-violent type? Well, I have seen some of those piglins carrying lanterns filled with some blazing liquid, think they use it for lighting. They might part with it for a price.",
+      "text": "哦，你是和平主义者？这样的话，我看到过那些猪灵带着一些装着烈焰血的灯笼，我觉得是拿来照明用的。没准它们会拿这个跟你交换呢。",
       "paragraph": true
     }
   ]

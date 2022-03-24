@@ -1,11 +1,11 @@
 {
-  "title": "Scorched Blocks",
+  "title": "焦褐方块",
   "item": {
     "tag": "tconstruct:scorched_blocks"
   },
   "text": [
     {
-      "text": "These blocks can be used for any part of the foundry, as floors or walls. They are also useful for decorating your base.",
+      "text": "这些方块可用于构建熔铸炉的任意位置，例如底板和侧壁。它们也可用于装饰你的基地。",
       "paragraph": true
     }
   ]

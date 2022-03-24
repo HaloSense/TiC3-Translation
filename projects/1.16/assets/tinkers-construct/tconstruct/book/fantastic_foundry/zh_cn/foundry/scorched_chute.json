@@ -1,11 +1,11 @@
 {
-  "title": "Scorched Chute",
+  "title": "焦褐滑槽",
   "item": {
     "id": "tconstruct:scorched_chute"
   },
   "text": [
     {
-      "text": "The scorched chute is your way to input/output items in and out of the foundry. Best placed somewhere easily accessible by a hopper.",
+      "text": "焦褐滑槽是向熔铸炉输入或从熔铸炉输出物品的设备。最好是放在能连上漏斗的地方。",
       "paragraph": true
     }
 	]

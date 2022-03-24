@@ -1,19 +1,19 @@
 {
-  "title": "Structure Requirements",
+  "title": "结构要求",
   "text": [
     {
-      "text": "Your foundry has some requirements, bigger is not always better."
+      "text": "你的熔铸炉有一些搭建要求。越大有的时候不一定越好。"
     },
 	{
-      "text": "Your foundry must have a floor made of acceptable foundry blocks excluding glass. Acceptable blocks will be showcased in a few pages! Your foundry also must be rectangular, it can not be L shaped, circle shaped, or dodecahedron shaped.",
+      "text": "你的熔铸炉必须要有一层由合法熔铸炉方块（不含焦褐玻璃）搭建成的底板。几页后会有一张合法方块列表。熔铸炉也必须是长方体，不能是L形，不能是圆形，更不能是十二面体形的。",
 	  "paragraph": true
     },
 	{
-      "text": "The max size of your foundry is 16x16x65 external. or 14x14x64 internal.",
+      "text": "熔铸炉最大体积为外部16x16x65，或内部14x14x64。",
 	  "paragraph": true
     },
 	{
-      "text": "The foundry must have corners and edges in order to function correctly.",
+      "text": "熔铸炉的边和角上必须有方块才算搭建成功。",
 	  "paragraph": true
     }
   ]
