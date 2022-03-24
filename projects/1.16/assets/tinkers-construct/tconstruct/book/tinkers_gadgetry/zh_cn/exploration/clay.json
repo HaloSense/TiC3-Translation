@@ -1,0 +1,13 @@
+{
+  "title": "黏土岛",
+  "image": {
+	"file": "tconstruct:book/images/islands/clay.png",
+    "width": 180,
+    "height": 87
+  },
+  "text": [
+    {
+      "text": "和其他的岛屿相比，黏土岛确实是特立独行的一个，与在主世界生成的其他黏液岛截然不同。而且这些岛屿有时会产生一种奇怪的黏土史莱姆，我称它为\"黏土怪\"。"
+    }
+  ]
+}

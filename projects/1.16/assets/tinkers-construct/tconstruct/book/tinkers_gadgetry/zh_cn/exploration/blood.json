@@ -1,0 +1,13 @@
+{
+  "title": "黏血岛",
+  "image": {
+	"file": "tconstruct:book/images/islands/blood.png",
+    "width": 180,
+    "height": 87
+  },
+  "text": [
+    {
+      "text": "这些血红色的岛屿偶尔会生成在地狱的岩浆海之上。此地生成的岩浆怪的几率将高于下界的其他地方，并且这个地方还会生成一种真菌的变种，似乎是灵浆这种材料的来源。"
+    }
+  ]
+}

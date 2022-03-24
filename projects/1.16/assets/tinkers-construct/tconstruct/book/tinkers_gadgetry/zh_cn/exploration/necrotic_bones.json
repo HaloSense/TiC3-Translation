@@ -1,0 +1,12 @@
+{
+  "title": "腐骸",
+  "item": {
+    "id": "tconstruct:necrotic_bone"
+  },
+  "text": [
+    {
+      "text": "与普通骨头相比，腐骸似乎具有独特的特性。Selena和Nemea成功地用这种材料制造了工具，Thruul在一些强大的强化中使用了它。而我一直在研究生产一种类似骨粉的粉末，因为我想看看注入腐骸中对植物的影响如何。",
+      "paragraph": true
+    }
+  ]
+}
