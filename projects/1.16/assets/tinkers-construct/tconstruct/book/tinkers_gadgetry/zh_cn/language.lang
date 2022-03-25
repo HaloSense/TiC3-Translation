@@ -1,32 +1,32 @@
 // Sections
-intro=Introduction
+intro=介绍
 
-gadgets=Gadgets
-gadgets.slimesling=Slimeslings
-gadgets.cake=Slime Cake
-gadgets.piggybackpack=Piggybackpack
-gadgets.flint_shuriken=Flint Shuriken
-gadgets.quartz_shuriken=Quartz Shuriken
+gadgets=小部件
+gadgets.slimesling=黏液弹弓
+gadgets.cake=黏液蛋糕
+gadgets.piggybackpack=肩托架
+gadgets.flint_shuriken=燧石手里剑
+gadgets.quartz_shuriken=石英手里剑
 gadgets.efln=EFLN
-gadgets.glowball=Glowball
-gadgets.fancy_frames=Fancy Frames
+gadgets.glowball=荧光球
+gadgets.fancy_frames=花哨的物品展示框
 
-modifiers=Odd Modifiers
-modifiers.remove_modifiers=Remove Modifiers
-modifiers.damage_tools=Damage Tools
+modifiers=怪异的强化
+modifiers.remove_modifiers=移除强化
+modifiers.damage_tools=工具损坏
 
-exploration=Exploration
-exploration.skyslime=Skyslime Island
-exploration.earthslime=Earthslime Island
-exploration.clay=Clay Island
-exploration.grass_seeds=Slimy Grass Seeds
-exploration.blood=Blood Island
-exploration.necrotic_bones=Necrotic Bones
-exploration.enderslime=Enderslime Island
-exploration.dragon_scales=Dragon Scales
+exploration=探索
+exploration.skyslime=碧空黏液岛
+exploration.earthslime=大地黏液岛
+exploration.clay=黏土岛
+exploration.grass_seeds=黏性种子
+exploration.blood=黏血岛
+exploration.necrotic_bones=腐骸
+exploration.enderslime=末影黏液岛
+exploration.dragon_scales=龙鳞
 
-armor=Armor
-armor.subtext=Mixing slime with various mob parts produces an interesting set of armor. Its not the most defensive, but it can really enhance your abilities.
+armor=盔甲
+armor.subtext=把黏液和各种怪物的身体部位混合在一起，可以制造出一套有趣的盔甲。这虽然没有多少防护，但它确实可以提高你的能力。
 
-skull_materials=Skull Materials
-skull_materials.subtext=Placing one of these skulls in a casting basin and adding enderslime can enhance their ability as a helmet.
+skull_materials=头颅材料
+skull_materials.subtext=将这些头颅中的一个放在铸造盆中，加入末影黏液可以增强它们作为头盔的能力。

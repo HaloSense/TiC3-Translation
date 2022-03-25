@@ -1,5 +1,5 @@
 {
-  "title": "Damage Tools",
+  "title": "工具损坏",
   "image": {
     "file": "tconstruct:book/images/damage_tools.png",
     "width": 135,
@@ -7,7 +7,7 @@
   },
   "text": [
     {
-      "text": "Apparently tools do not react well to certain potions. Thick and mundane potions appear to do minor damage to the tool, while potions of harming, especially splash potions, do quite a bit more damage to the tool. Now if I could just find some dragon's breath to test with a lingering potion of harming..."
+      "text": "显然，工具对某些药水的反应并不好。浓稠和平凡的药水似乎对工具造成轻微伤害，而伤害药水，尤其是喷溅型药水，对工具造成的伤害要大得多。现在，如果我能找到一些龙息，用一种滞留型伤害药剂来测试……"
     }
   ]
 }

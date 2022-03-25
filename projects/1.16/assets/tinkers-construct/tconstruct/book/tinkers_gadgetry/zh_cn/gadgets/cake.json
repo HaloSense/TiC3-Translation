@@ -1,5 +1,5 @@
 {
-  "title": "Slime Cake",
+  "title": "黏液蛋糕",
   "image": {
 	"file": "tconstruct:book/images/cake.png",
     "width": 180,
@@ -7,7 +7,7 @@
   },
   "text": [
     {
-      "text": "I have found slimegrass works great as an alternative to wheat in cake, and liquid slime can be turned into a uniquely flavored frosting. While they are not the most tasty cakes, it seems I jump higher shortly after eating skyslime cake, and magma cake makes fire bother me less. I wonder what enderslime or earthslime does when consumed..."
+      "text": "我发现，黏性草丛可以作为蛋糕之中草的代替品，而黏液则能作为一种有独特风味的糖霜。尽管他们并不是最可口的蛋糕，但看起来我在吃下碧空黏液蛋糕之后，我看起来跳得更高了！而当我吃下岩浆蛋糕之后，火似乎对我的影响少了些，而我更想知道的是末影黏液蛋糕和大地黏液蛋糕吃下后会发生什么。"
     }
   ]
 }

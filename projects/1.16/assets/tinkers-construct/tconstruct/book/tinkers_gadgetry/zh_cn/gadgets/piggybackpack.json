@@ -1,5 +1,5 @@
 {
-  "title": "Piggybackpack",
+  "title": "肩驮架",
   "image": {
 	"file": "tconstruct:book/images/piggybackpack.png",
     "width": 140,
@@ -7,7 +7,7 @@
   },
   "text": [
     {
-      "text": "Using a piggybackpack on a mob lets you pick them up to ride you, perfect for when your pig gets tired on long journeys. They are also good for tossing monsters into your smeltery. I have successfully worn up to 3 piggybackpacks at one time, though its hard to walk with so many riders."
+      "text": "在一些生物上使用肩驮架，你可以把他们驮起来。而当你的猪在长途旅行中感到疲惫时，这就非常适合。它们也适合把生物扔进冶炼厂。我有一次成功地穿上了多达3个肩托架，尽管有这么多肩托架之后，正常走路很困难。"
     }
   ]
 }

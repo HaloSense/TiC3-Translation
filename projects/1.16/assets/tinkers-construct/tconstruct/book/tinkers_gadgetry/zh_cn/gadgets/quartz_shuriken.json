@@ -1,11 +1,11 @@
 {
-  "title": "Quartz Shuriken",
+  "title": "石英手里剑",
   "item": {
     "id": "tconstruct:quartz_shuriken"
   },
   "text": [
     {
-      "text": "Quartz is far lighter than flint, and far sharper. Shurikens carved from quartz I was finding were causing monsters much more damage, though less knockback.",
+      "text": "石英比燧石轻得多，而且锋利得多。我发现用石英制作而成的手里剑对怪物造成的伤害要大得多，但却少了些击退。",
       "paragraph": true
     }
   ]

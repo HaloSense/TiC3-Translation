@@ -1,5 +1,5 @@
 {
-  "title": "Fancy Item Frames",
+  "title": "花哨的物品展示框",
   "image": {
     "file": "tconstruct:book/images/fancy_frames.png",
     "width": 140,
@@ -7,7 +7,7 @@
   },
   "text": [
     {
-      "text": "Making use of rarer metals, I have managed to create variant of items frames with unique properties."
+      "text": "利用更稀有的材料，我成功地创造了各种具有独特属性的各种物品展示框。"
     }
   ]
 }

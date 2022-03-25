@@ -1,14 +1,14 @@
 {
-  "title": "Fancy Item Frames",
+  "title": "花哨的物品展示框",
   "text": [
-    { "text": "• Clear: Turn invisible when an item is placed inside, and allow interacting with the block behind when filled and not sneaking." },
+    { "text": "• 通透玻璃：当物品放在里面时，物品展示框会被隐藏，并允许在填充时与后面的方块交互，而不是偷偷的拿。" },
     { "text": "\n" },
-    { "text": "• Gold: Gradually rotates the item automatically. Crafting with a redstone torch reverses the direction." },
+    { "text": "• 金：逐渐自动旋转处在物品展示框当中的物品。而用红石火把和他制作可以改变其转动的方向。" },
     { "text": "\n" },
-    { "text": "• Diamond: Gradually reduces the rotation until the item is upright. Supports more rotations than a standard frame." },
+    { "text": "• 钻石：逐渐减少旋转的角度，直到物品竖直。支持比普通物品展示框更多的旋转角度。" },
     { "text": "\n" },
-    { "text": "• Manyullyn: Always appears fully lit, even in darkness." },
+    { "text": "• 玛玉灵：即使在黑暗之中，自身依旧明亮。" },
     { "text": "\n" },
-    { "text": "• Netherite: Resistant to fire and explosions." }
+    { "text": "• 下界合金：抗火，防爆" }
   ]
 }
