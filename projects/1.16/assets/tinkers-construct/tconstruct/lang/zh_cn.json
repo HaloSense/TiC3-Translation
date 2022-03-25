@@ -886,7 +886,7 @@
   "_comment": "Tinkers Smeltery",
 
   "block.tconstruct.grout": "砖泥",
-  "block.tconstruct.grout.tooltip": "哪里需要搬哪里！",
+  "block.tconstruct.grout.tooltip": "我是一块砖！……",
 
   "block.tconstruct.seared_stone": "焦黑石头",
   "block.tconstruct.seared_stone.tooltip": "构造冶炼炉的建材，安全可靠的装饰材料。",
@@ -973,7 +973,7 @@
   "_comment": "Tinkers Foundry",
 
   "block.tconstruct.nether_grout": "下界砖泥",
-  "block.tconstruct.nether_grout.tooltip": "哪里需要搬哪里！",
+  "block.tconstruct.nether_grout.tooltip": "……哪里需要哪里搬！……",
 
   "block.tconstruct.scorched_stone": "焦褐石",
   "block.tconstruct.scorched_stone.tooltip": "构造熔铸炉的建材，安全可靠的装饰材料。",
@@ -1274,7 +1274,7 @@
   "material.tconstruct.iron.skull_encyclopedia": "近战攻击会将攻击者携带的所有负面效果复制到攻击目标身上",
 
   "material.tconstruct.seared_stone": "焦黑石",
-  "material.tconstruct.seared_stone.flavor": "火热的渣渣。",
+  "material.tconstruct.seared_stone.flavor": "……就算赴汤蹈火也在所不辞！",
   "material.tconstruct.seared_stone.encyclopedia": "每级使工具在炎热地带+2.5点攻击伤害，在寒冷地带-2.5点攻击伤害",
 
   "material.tconstruct.scorched_stone": "焦褐石",
@@ -1318,7 +1318,7 @@
   "material.tconstruct.slimesteel.encyclopedia": "增加25点黏液覆层，每级会在此基础上增加50%",
 
   "material.tconstruct.nahuatl": "纳瓦特尔",
-  "material.tconstruct.nahuatl.flavor": "这真的不是黑曜石，如果是的话我会把它的名字改成“黑曜石”的。",
+  "material.tconstruct.nahuatl.flavor": "这真的不是黑曜石，如果是的话上面就会写着“黑曜石”了。",
   "material.tconstruct.nahuatl.encyclopedia": "有50%几率在一段时间内造成总共5点伤害。每级升级会增加伤害总量。",
 
   "material.tconstruct.tinkers_bronze": "工匠青铜",
@@ -1335,11 +1335,11 @@
 
   "__comment": "Tier Nether Materials",
   "material.tconstruct.cobalt": "钴",
-  "material.tconstruct.cobalt.flavor": "钴，这是一个笑话罢了。不会真的有人尝试去用“红军”这个烂梗来强行解释吧？",
+  "material.tconstruct.cobalt.flavor": "雄关漫道真如钴，而今迈上红尘路。",
   "material.tconstruct.cobalt.encyclopedia": "每级提升7%的攻击速度和挖掘速度",
 
   "material.tconstruct.manyullyn": "玛玉灵",
-  "material.tconstruct.manyullyn.flavor": "没几个工匠能叫对这材料的名字。也被叫做能斩断星辰的材料。",
+  "material.tconstruct.manyullyn.flavor": "没几个工匠能叫对这材料的名字。他们说这材料能够斩断星辰。",
   "material.tconstruct.manyullyn.encyclopedia": "每级使8次连击后的伤害+2",
 
   "material.tconstruct.hepatizon": "黑色科林斯青铜",
@@ -1381,7 +1381,7 @@
   "material.tconstruct.spider.skull_encyclopedia": "使正面效果药水的持续时间延长25%",
 
   "material.tconstruct.venom": "毒液",
-  "material.tconstruct.venom.skull_flavor": "高智商战斗必备，对那些需要一喝决对错的决斗来说更是如此。",
+  "material.tconstruct.venom.skull_flavor": "高智商战斗必备，对那些需要一喝决胜负的决斗来说更是如此。",
   "material.tconstruct.venom.skull_encyclopedia": "使穿戴者免疫中毒，但不会取消已有中毒效果",
 
   "material.tconstruct.rotten_flesh": "腐肉",
@@ -1553,7 +1553,7 @@
 
   "_comment": "Weapon",
   "modifier.tconstruct.knockback": "击退",
-  "modifier.tconstruct.knockback.flavor": "Weeeeee!",
+  "modifier.tconstruct.knockback.flavor": "芜湖！",
   "modifier.tconstruct.knockback.description": "被击中的东西会被远远地弹飞！",
   "modifier.tconstruct.padded": "护垫",
   "modifier.tconstruct.padded.flavor": "毛茸茸！",
@@ -2011,7 +2011,7 @@
 
   "__comment": "Tier 3 Mod Compat Traits",
   "modifier.tconstruct.ductile": "可塑",
-  "modifier.tconstruct.ductile.flavor": "延性出众！",
+  "modifier.tconstruct.ductile.flavor": "延展性出众！",
   "modifier.tconstruct.ductile.description": "工具更加耐用，采掘速度更快，伤害更高",
   "modifier.tconstruct.maintained_2": "持久",
   "modifier.tconstruct.maintained_2.flavor": "更简易的磨砺方式！",
