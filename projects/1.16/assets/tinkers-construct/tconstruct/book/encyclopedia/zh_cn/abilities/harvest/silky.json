@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:silky",
   "text": [
     {
-      "text": "Causes mined blocks to drop themselves unmodified. Additionally allows shearing mobs for swords, cleavers, scythes, and daggers."
+      "text": "工具所开采的方块将掉落其自身。也可以应用于剑、劈刀、镰刀和匕首，使这些工具可以用来修剪生物。"
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Maximum of 1 level",
-    "Requires 1 ability slot"
+    "单个等级",
+    "需要1个能力槽"
   ]
 }

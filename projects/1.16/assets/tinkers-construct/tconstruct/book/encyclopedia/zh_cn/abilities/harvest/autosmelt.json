@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:autosmelt",
   "text": [
     {
-      "text": "Causes items dropped from mined blocks to be smelted, as if in a furnace."
+      "text": "自动熔炼工具所采掘的方块，和放在熔炉里烧炼效果相同。"
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Maximum of 1 level",
-    "Requires 1 ability slot"
+    "单个等级",
+    "需要1个能力槽"
   ]
 }
