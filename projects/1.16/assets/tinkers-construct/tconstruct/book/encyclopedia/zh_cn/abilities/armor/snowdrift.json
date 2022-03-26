@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:snowdrift",
   "text": [
     {
-      "text": "Leaves a trail of snow in cool biomes like a snow golem. Radius of trail can be boosted using expanded."
+      "text": "在非炎热群系中，可以在身后留下一层雪。延展强化可以扩大其作用范围。"
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Maximum of 1 level",
-    "Requires 1 ability slot"
+    "单个等级",
+    "需要1个能力槽"
   ]
 }

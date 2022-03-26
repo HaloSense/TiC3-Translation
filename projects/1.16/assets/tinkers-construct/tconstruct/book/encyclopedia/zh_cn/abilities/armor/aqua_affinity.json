@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:aqua_affinity",
   "text": [
     {
-      "text": "Allows mining at full speed underwater, instead of at 20% speed."
+      "text": "在水下挖掘方块的速度加快。"
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Maximum of 1 level",
-    "Requires 1 ability slot"
+    "单个等级",
+    "需要1个能力槽"
   ]
 }

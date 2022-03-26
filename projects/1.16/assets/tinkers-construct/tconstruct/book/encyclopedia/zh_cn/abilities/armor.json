@@ -1,10 +1,10 @@
 {
-  "title": "Armor Abilities",
+  "title": "护甲能力",
   "text": [
-    { "text": "Armor abilities are typically effective on a single type of armor. Each type of armor has a different special attribute:" },
-    { "text": "\n- Helmets can be controlled using a keybinding for special effects." },
-    { "text": "\n- Chestplates can receive interaction abilities that are used when hands are empty. Most are covered in the interaction section." },
-    { "text": "\n- Leggings have inventory based abilities and passive boosts to the player." },
-    { "text": "\n- Boots provide movement and jump based abilities." }
+    { "text": "一般来说，护甲能力只对某一特定栏位的护甲起作用。不同栏位的护甲效果也有所不同：" },
+    { "text": "\n- 头盔可以通过绑定按键触发特殊效果。" },
+    { "text": "\n- 胸甲在空手的时候会获得一些特别的交互能力，在交互能力一章已经提到过了。" },
+    { "text": "\n- 护腿可以获得一些与物品栏有关的能力，同时也会给予玩家一些被动加成。" },
+    { "text": "\n- 靴子可以提供移动和跳跃相关的能力。" }
   ]
 }

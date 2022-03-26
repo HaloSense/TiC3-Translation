@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:path_maker",
   "text": [
     {
-      "text": "Flattens grass as you step, leaving a path behind. Expanded increases the area of effect."
+      "text": "踩平你走过的草方块，并留下一条草径。延展强化可以扩大其作用范围。"
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Maximum of 1 level",
-    "Requires 1 ability slot"
+    "单个等级",
+    "需要1个能力槽"
   ]
 }

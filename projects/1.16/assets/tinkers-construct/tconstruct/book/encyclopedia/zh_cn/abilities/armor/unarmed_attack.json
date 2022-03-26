@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:unarmed",
   "text": [
     {
-      "text": "Allows applying modifiers to boost the damage of an empty hand, and allows punching with the offhand."
+      "text": "可以通过添加强化的形式增强空手攻击伤害，同时允许你用副手进行攻击。"
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Maximum of 1 level",
-    "Requires 1 ability slot"
+    "单个等级",
+    "需要1个能力槽"
   ]
 }

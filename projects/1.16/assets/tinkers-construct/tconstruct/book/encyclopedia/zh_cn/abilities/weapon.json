@@ -1,7 +1,7 @@
 {
-  "title": "Weapon Abilities",
+  "title": "武器能力",
   "text": [
-    { "text": "Weapon abilities are most effective on tools built for combat, whether it's a sword or a repurposed harvest tool." },
-    { "text": "Some weapon abilities also work on chestplates, requring the unarmed modifier to be applied first. These will only affect attacks performed from an empty hand.", "paragraph": true }
+    { "text": "武器能力对那些用于战斗的工具最为有效，可以是一把剑，也可以是一把拿来砍人的采掘工具。" },
+    { "text": "一些武器能力在胸甲上也有效，但是需要“赤手空拳”作为前置，并且只对空手伤害有效果。", "paragraph": true }
   ]
 }
