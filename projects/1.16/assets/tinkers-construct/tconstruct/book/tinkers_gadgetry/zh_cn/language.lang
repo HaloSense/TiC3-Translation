@@ -11,7 +11,7 @@ gadgets.efln=EFLN
 gadgets.glowball=荧光球
 gadgets.fancy_frames=花哨的物品展示框
 
-modifiers=怪异的强化
+modifiers=奇怪的强化
 modifiers.remove_modifiers=移除强化
 modifiers.damage_tools=工具损坏
 
