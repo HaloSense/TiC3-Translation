@@ -1,13 +1,13 @@
 {
   "tool": "tconstruct:travelers_chestplate",
   "text": [
-    { "text": "Traveler's Vest is a balanced chestplate, with medium protection, and average upgrade and defense slots." }
+    { "text": "旅行者背心是一件较为平衡的胸部防具，提供较低防御力，升级和防御槽的数量较为平均。" }
   ],
   "properties": [
-    "160 Durability",
-    "+5 Armor",
-    "3 Upgrade Slots",
-    "2 Defense Slots",
-    "1 Ability Slot"
+    "160 耐久值",
+    "+5 护甲值",
+    "3个升级槽",
+    "2个防御槽",
+    "1个能力槽"
   ]
 }

@@ -1,14 +1,14 @@
 {
   "tool": "tconstruct:slime_leggings",
   "text": [
-    { "text": "The slimeshell harnesses the power of the shulker, increasing inventory and defense." },
-    { "text": "They are created by pouring enderslime on a shulker shell, and repaired with popped chorus.", "paragraph": true }
+    { "text": "黏液壳的能力源自潜影贝，能够在提供储存空间的同时增强防御能力。" },
+    { "text": "可以通过向潜影壳浇注末影黏液的方式合成，并可以用爆裂紫颂果修复耐久。", "paragraph": true }
   ],
   "properties": [
-    "630 Durability",
-    "5 Upgrade Slots",
-    "0 Defense Slots",
-    "1 Ability Slot",
-    "Protection I"
+    "630 耐久值",
+    "5个升级槽",
+    "无防御槽",
+    "1个能力槽",
+    "保护 I"
   ]
 }
