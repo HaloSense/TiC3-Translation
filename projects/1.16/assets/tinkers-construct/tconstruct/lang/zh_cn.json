@@ -1234,7 +1234,7 @@
   "material.tconstruct.wood.encyclopedia": "每级使各个部件修理效率提高50%",
 
   "material.tconstruct.stone": "石",
-  "material.tconstruct.stone.flavor": "保证硬的和石头一样",
+  "material.tconstruct.stone.flavor": "保证坚如磐石",
   "material.tconstruct.stone.encyclopedia": "按失去耐久度平方根的一半加快工具的采掘速度",
 
   "material.tconstruct.flint": "燧石",
@@ -1248,7 +1248,7 @@
   "material.tconstruct.bone.skull_encyclopedia": "饮用牛奶后获得1分钟抗性提升",
 
   "material.tconstruct.necrotic_bone": "噬生",
-  "material.tconstruct.necrotic_bone.flavor": "你是故意挑我骨头是吧？",
+  "material.tconstruct.necrotic_bone.flavor": "你是故意挑我骨头是不是？",
   "material.tconstruct.necrotic_bone.encyclopedia": "每级最高恢复所造成伤害5%的生命值",
   "material.tconstruct.necrotic_bone.skull_flavor": "惊悚恐怖骷髅头！",
   "material.tconstruct.necrotic_bone.skull_encyclopedia": "普通攻击给予敌人凋零效果。饮用牛奶后可给予凋零II。",
@@ -1331,9 +1331,9 @@
   "material.tconstruct.pig_iron.skull_flavor": "惹恼我可没有好下场！",
   "material.tconstruct.pig_iron.skull_encyclopedia": "受到来自其他生物的伤害时获得15秒力量效果",
 
-  "material.tconstruct.darkthread": "暗线",
-  "material.tconstruct.darkthread.flavor": "这是我们的线人",
-  "material.tconstruct.darkthread.encyclopedia": "增加怪物的掉落几率，可与“幸运”强化同时存在",
+  "material.tconstruct.darkthread": "黑曜丝线",
+  "material.tconstruct.darkthread.flavor": "这是我们的暗线",
+  "material.tconstruct.darkthread.encyclopedia": "增加怪物掉落物的掉落几率，可与“幸运”强化同时存在",
 
 
   "__comment": "Tier Nether Materials",
@@ -1346,11 +1346,12 @@
   "material.tconstruct.manyullyn.encyclopedia": "8次连击后，每级伤害+2",
 
   "material.tconstruct.hepatizon": "黑色科林斯青铜",
-  "material.tconstruct.hepatizon.flavor": "-科什么斯啊？\n-科林斯啊。\n-什么林斯啊？\n-科林斯啊！\n-科林什么啊\n-行了你先歇着吧。",
+  "material.tconstruct.hepatizon.flavor": "-科什么斯啊？\n-科林斯啊。\n-什么林斯啊？\n-科林斯啊！\n-科林什么啊？\n-行了你先歇着吧。",
+
   "material.tconstruct.hepatizon.encyclopedia": "在连续挖掘32个方块后，每级增加25%挖掘速度",
 
   "material.tconstruct.queens_slime": "皇后史莱姆",
-  "material.tconstruct.queens_slime.flavor": "公主都不是什么善茬，去找个皇后吧。",
+  "material.tconstruct.queens_slime.flavor": "公主都不是什么善茬，去找个皇后吧",
   "material.tconstruct.queens_slime.encyclopedia": "每级减少15%耐久度，其中的66%转化为黏液覆层",
 
   "material.tconstruct.blazing_bone": "烈焰之骨",
@@ -1363,7 +1364,8 @@
 
   "material.tconstruct.ancient_hide": "古法兽皮",
   "material.tconstruct.ancient_hide.flavor": "用最古老的石头鞣制的皮革",
-  "material.tconstruct.ancient_hide.encyclopedia": "增加方块的掉落几率，可与“幸运”强化同时存在",
+  "material.tconstruct.ancient_hide.encyclopedia": "增加挖掘方块时的掉落几率，可与“幸运”强化同时存在",
+
 
 
   "__comment": "Tier End Materials",
@@ -1444,7 +1446,8 @@
 
   "material.tconstruct.whitestone": "白石",
   "material.tconstruct.whitestone.flavor": "拿走你那毫无用处的白色金属，做个有用的工具吧。",
-  "material.tconstruct.whitestone.encyclopedia": "采掘石头时有几率获得+5石盾，每级增加25%概率。",
+  "material.tconstruct.whitestone.encyclopedia": "采掘石头时有几率获得+3石盾，每级增加25%概率。",
+
 
 
   "__comment": "Tier 3 Integration Materials",
@@ -1853,7 +1856,7 @@
   "modifier.tconstruct.tank.description": "工具拥有一个可存储流体的内部储罐",
   "modifier.tconstruct.bucketing": "装桶",
   "modifier.tconstruct.bucketing.flavor": "呲溜！",
-  "modifier.tconstruct.bucketing.description": "工具可在潜行时收集/放出流体",
+  "modifier.tconstruct.bucketing.description": "工具可以右键收集流体，潜行右键可以放出流体",
   "modifier.tconstruct.spilling": "泼洒",
   "modifier.tconstruct.spilling.flavor": "液体四溅！",
   "modifier.tconstruct.spilling.description": "武器中的液体会被喷洒到攻击目标上，根据液体造成不同的额外效果",
@@ -1884,7 +1887,8 @@
   "modifier.tconstruct.gilded": "镶金",
   "modifier.tconstruct.gilded.flavor": "等价交换！",
   "modifier.tconstruct.gilded.description": "以一个能力槽换取两个升级槽！",
-  "modifier.tconstruct.draconic": "龙素",
+
+  "modifier.tconstruct.draconic": "龙族",
   "modifier.tconstruct.draconic.flavor": "统领末地！",
   "modifier.tconstruct.draconic.description": "这颗来自巨兽的头颅，为你的工具带来了第二个能力槽！",
 
@@ -2007,7 +2011,7 @@
   "modifier.tconstruct.dense.flavor": "几乎没有变形",
   "modifier.tconstruct.dense.description": "工具耐久更多，但是也越难修复",
   "modifier.tconstruct.sharpweight": "锋利之重",
-  "modifier.tconstruct.sharpweight.flavor": "As opposed to a dumbweight",
+  "modifier.tconstruct.sharpweight.flavor": "顽钝之重的反义词",
   "modifier.tconstruct.sharpweight.description": "挖掘速度更快，但是移动变的更加困难",
   "modifier.tconstruct.lustrous": "光泽",
   "modifier.tconstruct.lustrous.flavor": "闪闪亮的矿石！",
