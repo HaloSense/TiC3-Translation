@@ -2,17 +2,17 @@
   "modifier_id": "tconstruct:luck",
   "text": [
     {
-      "text": "Increases drop rates from both blocks and monsters. Luck requires a different recipe for each level, applied in order."
+      "text": "增加挖掘方块和杀死怪物时的掉落。每一级幸运的配方都不同，并需要按顺序升级。"
     },
     {
-      "text": "Leggings can receive a single level of luck, which boosts drops from mobs and drops from blocks when using tinker tools.",
+      "text": "护腿也能使用幸运升级（至多一次），能够在使用匠魂的工具或武器时增加方块和怪物的掉落。",
       "paragraph": true
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Maximum of 3 levels",
-    "First level requires 1 ability slot",
-    "Second and third levels are slotless"
+    "最高3级",
+    "第1级需要1个能力槽",
+    "第2级和第3级无需槽位"
   ]
 }

@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:reach",
   "text": [
     {
-      "text": "Increases the maximum distance from the player this tool can mine or place blocks by 1 block per level. On chestplates, increases reach of your held tool."
+      "text": "该升级应用在工具上时，每级增加一格触及距离。应用在胸甲上时，会增加所持工具的触及距离。"
     }
   ],
   "more_text_space": true,
   "effects": [
-    "No max level",
-    "Requires 1 ability slot per level"
+    "无等级上限",
+    "每级需要1个能力槽"
   ]
 }
