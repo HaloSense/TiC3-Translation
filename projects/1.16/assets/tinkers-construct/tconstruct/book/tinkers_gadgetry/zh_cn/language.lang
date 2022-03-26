@@ -9,7 +9,7 @@ gadgets.flint_shuriken=燧石手里剑
 gadgets.quartz_shuriken=石英手里剑
 gadgets.efln=EFLN
 gadgets.glowball=荧光球
-gadgets.fancy_frames=花哨的物品展示框
+gadgets.fancy_frames=精致物品展示框
 
 modifiers=奇怪的强化
 modifiers.remove_modifiers=移除强化
