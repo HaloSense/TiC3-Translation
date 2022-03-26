@@ -13,7 +13,7 @@ gadgets.fancy_frames=花哨的物品展示框
 
 modifiers=奇怪的强化
 modifiers.remove_modifiers=移除强化
-modifiers.damage_tools=工具损坏
+modifiers.damage_tools=损坏工具
 
 exploration=探索
 exploration.skyslime=碧空黏液岛
