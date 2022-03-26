@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:firestarter",
   "text": [
     {
-      "text": "Allows the tool to create fires on use, consuming 1 durability."
+      "text": "工具右击可以生成火焰，每次消耗1点耐久度。"
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Maximum of 1 level",
-    "Requires 1 ability slot"
+    "单个等级",
+    "需要1个能力槽"
   ]
 }
