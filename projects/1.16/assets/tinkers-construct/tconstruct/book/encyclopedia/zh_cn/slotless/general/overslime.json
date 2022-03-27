@@ -2,16 +2,16 @@
   "modifier_id": "tconstruct:overslime",
   "text": [
     {
-      "text": "Overslime grants tools a second durability bar, which is consumed before the main durability bar. By default, tools start with 50 max overslime, multiplied by its durability modifier."
+      "text": "黏液覆层会为工具增加第二条耐久值条，并且其消耗优先于原耐久值。默认情况下，工具的基准黏液覆层最高耐久为50点，会受到工具的耐久modifier加成。"
     },
     {
-      "text": "Tools with no slime-based parts have attack damage and mining speed reduced by 10%.",
+      "text": "如果工具上没有黏液相关材料制成的部件的话，攻击伤害和挖掘速度将会减少10%。",
       "paragraph": true
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Multi-use",
-    "Slotless"
+    "多次使用",
+    "无需槽位"
   ]
 }
