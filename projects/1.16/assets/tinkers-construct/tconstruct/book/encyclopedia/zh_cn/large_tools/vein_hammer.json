@@ -1,15 +1,15 @@
 {
   "tool": "tconstruct:vein_hammer",
   "text": [
-    { "text": "The Vein Hammer mines stone blocks and adjacent blocks of the same type, up to 2 blocks away." },
-    { "text": "Each expander increases the max distance of a block by 1.", "paragraph": true }
+    { "text": "矿脉锤可以开采石头方块以及相邻的同种方块，最远范围为2格。" },
+    { "text": "每一级“延展”强化能够增加1格开掘范围。", "paragraph": true }
   ],
   "properties": [
-    "+3 Attack Damage",
-    "125% Attack Modifier",
-    "1.1 Attack Speed",
-    "30% Mining Modifier",
-    "500% Durability",
-    "Piercing II"
+    "+3 攻击力",
+    "125% 攻击强化",
+    "1.1 攻击速度",
+    "30% 挖掘强化",
+    "500% 耐久强化",
+    "穿刺 II"
   ]
 }

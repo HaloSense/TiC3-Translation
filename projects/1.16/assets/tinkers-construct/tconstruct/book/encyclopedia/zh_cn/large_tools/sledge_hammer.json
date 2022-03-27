@@ -1,15 +1,15 @@
 {
   "tool": "tconstruct:sledge_hammer",
   "text": [
-    { "text": "The Sledge Hammer is a broad mining tool, effective on stone in a 3x3 range." },
-    { "text": "Expanders alternate between increasing width and height.", "paragraph": true }
+    { "text": "大锤是一种范围挖掘工具，可以挖掘3x3范围的石头。" },
+    { "text": "“延展”强化会交替增加挖掘宽度和深度。", "paragraph": true }
   ],
   "properties": [
-    "+3 Attack Damage",
-    "135% Attack Modifier",
-    "0.75 Attack Speed",
-    "40% Mining Modifier",
-    "400% Durability Modifier",
-    "Smite II"
+    "+3 攻击力",
+    "135% 攻击强化",
+    "0.75 攻击速度",
+    "40% 挖掘强化",
+    "400% 耐久强化",
+    "亡灵杀手 II"
   ]
 }

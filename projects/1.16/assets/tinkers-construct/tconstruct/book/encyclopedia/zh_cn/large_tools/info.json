@@ -1,7 +1,7 @@
 {
-  "title": "Tool Information",
+  "title": "工具信息",
   "text": [
-    { "text": "All broad tools require the Tinker's Anvil to be created, and to swap parts. Most require 4 tool parts, and start with only 2 upgrade slots and 1 ability slot." },
-    { "text": "Large tools have both attack bonuses and modifiers like small tools, and many more have traits. In addition, many tools have a durability or a mining speed modifier that act similarly to the attack modifier, affecting both base stats and stat bonuses from modifiers. Finally, all broad tools have the \"two handed\" trait, which prevents use of the offhand unless a modifier such as offhanded is applied.", "paragraph": true }
+    { "text": "所有宽型工具都需要用到工匠砧进行制作和部件替换。大部分宽型工具需要用到4个部件，并且自带2个升级槽和1个能力槽。" },
+    { "text": "和小型工具一样，宽型工具既有攻击力加成也有攻击强化，并且很多宽型工具有自己的属性。除此之外，很多宽型工具会有一个耐久度或挖掘速度的加成，并对基础数值和各种强化带来的额外数值有影响，这个影响和攻击力加成的影响类似。所有的宽型工具都具有“双手持握”属性，意味着如果你不给工具添加“副手持握”之类的强化的话，你是不能在副手使用宽型工具的。", "paragraph": true }
   ]
 }
