@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:shiny",
   "text": [
     {
-      "text": "Makes the tool glow as if enchanted. Thats is it, it is just decorative."
+      "text": "让工具获得附魔一般的发光效果。没别的了，就只是好看而已。"
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Single use",
-    "Slotless"
+    "单次使用",
+    "无需槽位"
   ]
 }

@@ -1,13 +1,13 @@
 {
-  "title": "Bonus",
+  "title": "额外无槽位强化",
   "text": [
-    { "text": "Bonus modifiers are a group of slotless modifiers that grant additional modifier slots." },
+    { "text": "额外无槽位强化是一系列强化的总称，这些强化能够为你的工具增加额外槽位。" },
     {
-      "text": "By default, most small tools start with 3 upgrade slots, and most broad tools start with 2. Modifiers can add an additional 4 slots to the tool.",
+      "text": "默认情况下，大部分小型工具自带3个升级槽，大部分宽型工具自带2个升级槽。额外无槽位强化可以为你的工具额外添加总共4个升级槽。",
       "paragraph": true
     },
     {
-      "text": "In addition, most tools start with 1 ability slot. Modifiers can add an additional ability slot to the tool.",
+      "text": "此外，大部分工具自带1个能力槽。额外无槽位强化可以为你的工具额外添加1个能力槽。",
       "paragraph": true
     }
   ]
