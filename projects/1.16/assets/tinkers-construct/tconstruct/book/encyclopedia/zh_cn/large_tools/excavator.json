@@ -1,16 +1,16 @@
 {
   "tool": "tconstruct:excavator",
   "text": [
-    { "text": "The Excavator is a broad digging tool, effective on dirt, gravel, and sand in a 3x3 range." },
-    { "text": "Expanders alternate between increasing width and height.", "paragraph": true }
+    { "text": "开掘铲使一种范围挖掘工具，可以快速挖掘3x3大小的泥土、沙砾和沙子。" },
+    { "text": "“延展”强化会交替增加挖掘宽度和深度。", "paragraph": true }
   ],
   "properties": [
-    "+1.5 Attack Damage",
-    "120% Attack Modifier",
-    "1.0 Attack Speed",
-    "30% Mining Modifier",
-    "375% Durability Modifier",
-    "Knockback II",
-    "Makes path"
+    "+1.5 攻击力",
+    "120% 攻击强化",
+    "1.0 攻击速度",
+    "30% 挖掘强化",
+    "375% 耐久强化",
+    "击退 II",
+    "可以制造草径"
   ]
 }

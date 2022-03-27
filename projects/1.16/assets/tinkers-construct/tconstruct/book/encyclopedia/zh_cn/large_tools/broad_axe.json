@@ -1,15 +1,15 @@
 {
   "tool": "tconstruct:broad_axe",
   "text": [
-    { "text": "The Broad Axe can mine a single column of a tree, or 6 blocks in a vertical column." },
-    { "text": "Expanders alternate between width and depth.", "paragraph": true }
+    { "text": "板斧可以一次砍掉一整棵树干，或者一次挖掉竖直方向上的6个方块。" },
+    { "text": "“延展”强化会交替增加挖掘宽度和深度。", "paragraph": true }
   ],
   "properties": [
-    "+5 Attack Damage",
-    "150% Attack Modifier",
-    "0.6 Attack Speed",
-    "30% Mining Modifier",
-    "425% Durability Modifier",
-    "Strips wood"
+    "+5 攻击力",
+    "150% 攻击强化",
+    "0.6 攻击速度",
+    "30% 挖掘强化",
+    "425% 耐久强化",
+    "可以给原木去皮"
   ]
 }
