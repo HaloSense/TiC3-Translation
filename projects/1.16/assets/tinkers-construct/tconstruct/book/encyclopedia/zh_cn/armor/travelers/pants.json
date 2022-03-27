@@ -1,13 +1,13 @@
 {
   "tool": "tconstruct:travelers_leggings",
   "text": [
-    { "text": "Traveler's Pants are a balanced set of leggings, with medium protection, and average upgrade and defense slots." }
+    { "text": "旅行者护腿是一件较为平衡的腿部防具，提供较低防御力，升级和防御槽的数量较为平均。" }
   ],
   "properties": [
-    "150 Durability",
-    "+4 Armor",
-    "3 Upgrade Slots",
-    "2 Defense Slots",
-    "1 Ability Slot"
+    "150 耐久值",
+    "+4 护甲值",
+    "3个升级槽",
+    "2个防御槽",
+    "1个能力槽"
   ]
 }
