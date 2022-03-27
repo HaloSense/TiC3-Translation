@@ -2,15 +2,15 @@
   "modifier_id": "tconstruct:turtle_shell",
   "text": [
     {
-      "text": "Grants +8% resistance when underwater. Caps at 80% across the whole set, or 10 levels."
+      "text": "在水下提供+8%的抗性。所有盔甲的总上限为80%，也就是10级强化。"
     },
     {
-      "text": "Increases swim speed by 5% per level.", "paragraph": true
+      "text": "增加游泳速度，每级增加5%。", "paragraph": true
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Can apply levels incrementally",
-    "Requires 1 defense slot"
+    "能够逐级强化",
+    "需要1个防御槽"
   ]
 }
