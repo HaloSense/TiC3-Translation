@@ -831,7 +831,8 @@
 
     "item.tconstruct.dagger.description": "匕首是一种轻型武器，无论主副手持握，皆可施展快速攻击。",
     "item.tconstruct.sword.description": "剑是一种泛用型武器，其横扫攻击能阻截成群结队的敌人。\n还能高效清理蜘蛛网！",
-    "item.tconstruct.cleaver.description": "劈刀是冶炼术大师必备的武器。再坚韧的敌人在高范围攻击的劈刀面前也难以脱身。",
+    "item.tconstruct.cleaver.description": "劈刀是冶炼术大师必备的武器。再坚硬的敌人在高伤害范围攻击的劈刀面前也难以脱身。",
+
 
 
     "_comment": "Smeltery shared",
