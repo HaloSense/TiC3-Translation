@@ -1,8 +1,8 @@
 {
-  "title": "入门冶炼术",
-  "recipe": "tconstruct:common/puny_smelting",
-  "grid_size": "small",
-  "description": [
-    { "text": "这是给初学者阅读的冶炼和铸造指南。同时也是Thruul M'Gon在此系列中第一本介绍冶炼厂的书籍。" }
-  ]
+    "title": "入门熔炼术",
+    "recipe": "tconstruct:common/puny_smelting",
+    "grid_size": "small",
+    "description": [
+        { "text": "初学者的冶炼和铸造指南，Thruul M'Gon所著系列中，首本探讨冶炼炉的书籍。" }
+    ]
 }
