@@ -1732,7 +1732,7 @@
     "modifier.tconstruct.pockets": "行囊",
     "modifier.tconstruct.pockets.flavor": "真是奇妙的发明！",
     "modifier.tconstruct.pockets.description": "这护腿是有口袋的，能让你存储一些额外的物品，这些物品在潜行时按下“护腿交互”键时能够拿取",
-    "modifier.tconstruct.shield_strap": "护带",
+    "modifier.tconstruct.shield_strap": "副手套环",
     "modifier.tconstruct.shield_strap.flavor": "保护与攻击的理想之选",
     "modifier.tconstruct.shield_strap.description": "按下“护腿交互”键能够交换护副手物品",
     "modifier.tconstruct.tool_belt": "工具带",
