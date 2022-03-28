@@ -2008,7 +2008,7 @@
 
 
     "__comment": "Tier 2 Mod Compat Traits",
-    "modifier.tconstruct.dense": "稠密",
+    "modifier.tconstruct.dense": "致密",
     "modifier.tconstruct.dense.flavor": "几乎没有变形",
     "modifier.tconstruct.dense.description": "工具耐久更多，但是也越难修复",
     "modifier.tconstruct.sharpweight": "千斤利器",
