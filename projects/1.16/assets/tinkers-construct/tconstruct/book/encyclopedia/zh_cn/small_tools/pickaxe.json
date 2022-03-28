@@ -1,12 +1,12 @@
 {
   "tool": "tconstruct:pickaxe",
   "text": [
-    { "text": "The Pickaxe is a precise mining tool, effective on stone, metal, and ores." },
-    { "text": "Expanders alternate between increasing depth and increasing height.", "paragraph": true }
+    { "text": "镐是一种精准挖矿工具，可以快速==用来挖掘石头、金属和矿物。" },
+    { "text": "“延展”强化会交替增加挖掘区域的深度和高度。", "paragraph": true }
   ],
   "properties": [
-    "+0 Attack Damage",
-    "1.2 Attack Speed",
-    "Piercing I"
+    "+0 攻击力",
+    "1.2 攻击速度",
+    "穿刺 I"
   ]
 }

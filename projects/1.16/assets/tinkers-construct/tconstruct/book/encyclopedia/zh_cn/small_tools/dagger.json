@@ -1,15 +1,15 @@
 {
   "tool": "tconstruct:dagger",
   "text": [
-    { "text": "The Dagger is a quick precise weapon, usable in both hands." },
-    { "text": "Silky grants shearing.", "paragraph": true }
+    { "text": "匕首是一种快速而精准的武器，主副手均可使用。" },
+    { "text": "“丝触”强化能赋予匕首修剪能力。", "paragraph": true }
   ],
   "properties": [
-    "+2 Attack Damage",
-    "50% Attack Modifier",
-    "2.0 Attack Speed",
-    "75% Durability",
-	"Padded I",
-    "Offhand attack"
+    "+2 攻击力",
+    "50% 攻击系数",
+    "2.0 攻击速度",
+    "75% 耐久值",
+	  "护垫 I",
+    "副手攻击"
   ]
 }

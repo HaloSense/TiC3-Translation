@@ -1,12 +1,12 @@
 {
   "tool": "tconstruct:hand_axe",
   "text": [
-    { "text": "The Hand Axe is a precision chopping tool, effective on wood, plants, and leaves." },
-    { "text": "Expanders increase the circular radius of the axe.", "paragraph": true }
+    { "text": "短柄斧是一种精准的砍伐工具，可以用来砍木头、破坏植物以及清理树叶。" },
+    { "text": "“延展”强化可以增加短柄斧的破坏半径。", "paragraph": true }
   ],
   "properties": [
-    "+6 Attack Damage",
-    "0.9 Attack Speed",
-    "Strips wood"
+    "+6 攻击力",
+    "0.9 攻击速度",
+    "可以给原木去皮"
   ]
 }
