@@ -1740,7 +1740,8 @@
     "modifier.tconstruct.tool_belt.description": "按下护腿交互键能够交换快捷栏",
     "modifier.tconstruct.pocket_chain": "锁链行囊",
     "modifier.tconstruct.pocket_chain.flavor": "一链连双方",
-    "modifier.tconstruct.pocket_chain.description": "潜行按下交互键时，能够访问工具带或护带所有槽位，还能增加一格槽位",
+    "modifier.tconstruct.pocket_chain.description": "潜行按下“护腿交互”键时，能够访问工具带或护带所有槽位，还能增加一格槽位",
+
     "recipe.tconstruct.modifier.pocket_chain": "“锁链行囊”需要“护带”或“工具带”作为前置",
 
     "modifier.tconstruct.inventory_cannot_remove": "进行此更改将会删除此工具中存储的所有物品",
