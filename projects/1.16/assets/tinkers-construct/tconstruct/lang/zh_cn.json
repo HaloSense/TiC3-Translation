@@ -1164,7 +1164,7 @@
     "block.tconstruct.blood_slime_sapling.tooltip": "只能在黏液菌岩上生长",
     "block.tconstruct.ichor_slime_sapling": "灵浆树苗",
     "block.tconstruct.ichor_slime_sapling.tooltip": "只能在黏液菌岩上生长",
-    "block.tconstruct.ender_slime_sapling": "末影史莱姆树苗",
+    "block.tconstruct.ender_slime_sapling": "末影黏液树苗",
     "block.tconstruct.ender_slime_sapling.tooltip": "只能在黏液泥土或黏液草方块上生长",
 
     "block.tconstruct.ender_slime_vine": "黏液藤蔓",
