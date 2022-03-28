@@ -1595,7 +1595,7 @@
     "modifier.tconstruct.bane_of_sssss": "嘶嘶杀手",
     "modifier.tconstruct.bane_of_sssss.flavor": "你这吱吱蛛真不错啊！",
     "modifier.tconstruct.bane_of_sssss.description": "工具会对蜘蛛、苦力怕和其他嘶嘶叫瘆死个人的虫子造成额外伤害！",
-    "modifier.tconstruct.bane_of_sssss.attack_damage": "对嘶嘶叫的伤害",
+    "modifier.tconstruct.bane_of_sssss.attack_damage": "对嘶嘶叫生物的伤害",
     "modifier.tconstruct.antiaquatic": "水生杀手",
     "modifier.tconstruct.antiaquatic.flavor": "基本上就是一根钓鱼竿了！",
     "modifier.tconstruct.antiaquatic.description": "工具会对水栖生物造成额外伤害！",
