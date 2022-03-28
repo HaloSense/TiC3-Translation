@@ -1697,7 +1697,7 @@
     "modifier.tconstruct.slurping": "咕噜",
     "modifier.tconstruct.slurping.flavor": "咕咕咕咕咕咕噜！",
     "modifier.tconstruct.slurping.description": "按下“头盔交互”键时能饮用头盔内的流体",
-    "modifier.tconstruct.aqua_affinity": "水性",
+    "modifier.tconstruct.aqua_affinity": "水下速掘",
     "modifier.tconstruct.aqua_affinity.flavor": "与海融为一体！",
     "modifier.tconstruct.aqua_affinity.description": "在水下挖掘时不再受到挖掘速度影响",
     "modifier.tconstruct.item_frame": "物品展示框",
