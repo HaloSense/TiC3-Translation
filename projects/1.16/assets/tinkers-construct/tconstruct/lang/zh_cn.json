@@ -413,15 +413,16 @@
 
     "_comment": "Rock",
 
-    "block.tconstruct.seared_stone_fluid": "焦黑石头",
-    "fluid.tconstruct.seared_stone": "焦黑石头",
-    "fluid.tconstruct.flowing_seared_stone": "流动的焦黑石头",
-    "item.tconstruct.seared_stone_bucket": "焦黑石头桶",
+    "block.tconstruct.seared_stone_fluid": "焦黑熔石",
+    "fluid.tconstruct.seared_stone": "焦黑熔石",
+    "fluid.tconstruct.flowing_seared_stone": "流动的焦黑熔石",
+    "item.tconstruct.seared_stone_bucket": "焦黑熔石桶",
 
-    "block.tconstruct.scorched_stone_fluid": "焦褐石头",
-    "fluid.tconstruct.scorched_stone": "焦褐石头",
-    "fluid.tconstruct.flowing_scorched_stone": "流动的焦褐石头",
-    "item.tconstruct.scorched_stone_bucket": "焦褐石头桶",
+
+    "block.tconstruct.scorched_stone_fluid": "焦褐熔石",
+    "fluid.tconstruct.scorched_stone": "焦褐熔石",
+    "fluid.tconstruct.flowing_scorched_stone": "流动的焦褐熔石",
+    "item.tconstruct.scorched_stone_bucket": "焦褐熔石桶",
 
     "block.tconstruct.molten_clay_fluid": "熔融黏土",
     "fluid.tconstruct.molten_clay": "熔融黏土",
@@ -730,7 +731,8 @@
     "block.tconstruct.tinkers_anvil": "工匠砧",
     "block.tconstruct.scorched_anvil": "工匠砧",
 
-    "block.tconstruct.part_builder": "部件制造桌",
+    "block.tconstruct.part_builder": "部件制造台",
+
 
     "block.tconstruct.part_chest": "部件箱",
     "block.tconstruct.part_chest.tooltip": "可容纳256个不同的工具部件",
@@ -848,8 +850,9 @@
     "block.tconstruct.channel.down.out": "允许向下流动",
     "block.tconstruct.channel.down.none": "禁止向下流动",
 
-    "death.attack.tconstruct.smeltery_heat": "%1$s试图制作熔融的玩家",
-    "death.attack.tconstruct.smeltery_heat.player": "%1$s在与%2$s战斗时试图制作熔融的玩家",
+    "death.attack.tconstruct.smeltery_heat": "%1$s试图制作熔融玩家",
+    "death.attack.tconstruct.smeltery_heat.player": "%1$s在与%2$s战斗时试图制作熔融玩家",
+
     "death.attack.tconstruct.smeltery_magic": "%1$s与冶炼炉融为一体",
     "death.attack.tconstruct.smeltery_magic.player": "%1$s在与%2$s战斗时与冶炼炉融为一体",
     "death.attack.tconstruct.self_destruct": "%1$s自我毁灭了",
@@ -1117,15 +1120,16 @@
     "block.tconstruct.ichor_ender_slime_grass.tooltip": "柔软之极！能让你跳得更高",
 
     "block.tconstruct.ender_vanilla_slime_grass": "末影黏液草方块",
-    "block.tconstruct.ender_vanilla_slime_grass.tooltip": "能让你跳得更高，处于末地时生成末影史莱姆",
+    "block.tconstruct.ender_vanilla_slime_grass.tooltip": "能让你跳得更高，位于末地时生成末影史莱姆",
     "block.tconstruct.ender_earth_slime_grass": "末影黏液草方块",
-    "block.tconstruct.ender_earth_slime_grass.tooltip": "能让你跳得更高，处于末地时生成末影史莱姆",
+    "block.tconstruct.ender_earth_slime_grass.tooltip": "能让你跳得更高，位于末地时生成末影史莱姆",
     "block.tconstruct.ender_sky_slime_grass": "末影黏液草方块",
-    "block.tconstruct.ender_sky_slime_grass.tooltip": "能让你跳得更高，处于末地时生成末影史莱姆",
+    "block.tconstruct.ender_sky_slime_grass.tooltip": "能让你跳得更高，位于末地时生成末影史莱姆",
     "block.tconstruct.ender_ichor_slime_grass": "末影黏液草方块",
-    "block.tconstruct.ender_ichor_slime_grass.tooltip": "能让你跳得更高，处于末地时生成末影史莱姆",
+    "block.tconstruct.ender_ichor_slime_grass.tooltip": "能让你跳得更高，位于末地时生成末影史莱姆",
     "block.tconstruct.ender_ender_slime_grass": "末影黏液草方块",
-    "block.tconstruct.ender_ender_slime_grass.tooltip": "能让你跳得更高，处于末地时生成末影史莱姆",
+    "block.tconstruct.ender_ender_slime_grass.tooltip": "能让你跳得更高，位于末地时生成末影史莱姆",
+
 
     "item.tconstruct.earth_slime_grass_seeds": "黏液种子",
     "item.tconstruct.earth_slime_grass_seeds.tooltip": "种植在泥土或黏液泥土上来制造黏液草方块",
@@ -1442,7 +1446,8 @@
 
     "material.tconstruct.silver": "银",
     "material.tconstruct.silver.flavor": "你知道的，这东西没几天就不再闪闪发光了。",
-    "material.tconstruct.silver.encyclopedia": "对亡灵生物，每级+2.5伤害",
+    "material.tconstruct.silver.encyclopedia": "对亡灵生物每级+2.5伤害",
+
 
     "material.tconstruct.whitestone": "白石",
     "material.tconstruct.whitestone.flavor": "拿走你那毫无用处的白色金属，做个有用的工具吧。",
@@ -1630,21 +1635,25 @@
     "modifier.tconstruct.ricochet.description": "受到攻击时反弹的更远，十分有利于逃跑",
     "modifier.tconstruct.revitalizing": "振作",
     "modifier.tconstruct.revitalizing.flavor": "能感受到，能量在流动",
-    "modifier.tconstruct.revitalizing.description": "能够给予更多血量",
+    "modifier.tconstruct.revitalizing.description": "能够增加生命值上限",
+
 
     "modifier.tconstruct.embellishment": "装饰",
     "modifier.tconstruct.embellishment.formatted": "装饰了%s",
     "modifier.tconstruct.embellishment.flavor": "外观改变了！",
-    "modifier.tconstruct.embellishment.description": "护甲的外观可改变，用以匹配不同的材料",
+    "modifier.tconstruct.embellishment.description": "改变盔甲的外观，就好像换了一种制作材料。",
+
     "modifier.tconstruct.dyed": "染色",
     "modifier.tconstruct.dyed.formatted": "染色 #%s",
     "modifier.tconstruct.dyed.flavor": "外观改变了！",
-    "modifier.tconstruct.dyed.description": "护甲的外观可改变，用以匹配不同的材料",
+    "modifier.tconstruct.dyed.description": "改变盔甲的外观，就好像换了一种制作材料。",
+
 
     "_comment": "Armor - Protection",
     "modifier.tconstruct.protection": "保护",
     "modifier.tconstruct.protection.flavor": "这可是个万金油！",
-    "modifier.tconstruct.protection.description": "提升对所有类型伤害的保护！",
+    "modifier.tconstruct.protection.description": "提升对所有伤害类型的保护效果！",
+
     "modifier.tconstruct.protection.resistance": "抗性",
     "modifier.tconstruct.melee_protection": "近战保护",
     "modifier.tconstruct.melee_protection.flavor": "重挫他们！",
@@ -1668,7 +1677,8 @@
     "modifier.tconstruct.projectile_protection.resistance": "弹射物抗性",
     "modifier.tconstruct.turtle_shell": "海龟壳",
     "modifier.tconstruct.turtle_shell.flavor": "陆上陆龟，海中海龟",
-    "modifier.tconstruct.turtle_shell.description": "提升水下保护，还有游泳速度",
+    "modifier.tconstruct.turtle_shell.description": "提升在水下的保护效果，并加快游泳速度",
+
     "modifier.tconstruct.turtle_shell.resistance": "水下抗性",
     "modifier.tconstruct.dragonborn": "龙裔",
     "modifier.tconstruct.dragonborn.flavor": "成为龙族吧！",
@@ -1714,13 +1724,16 @@
     "modifier.tconstruct.strength": "力量",
     "modifier.tconstruct.strength.flavor": "你能感受到流过体内力量么？",
     "modifier.tconstruct.strength.description": "让你的武器更加强大",
-    "modifier.tconstruct.unarmed": "徒手攻击",
+    "modifier.tconstruct.unarmed": "赤手空拳",
+
     "modifier.tconstruct.unarmed.flavor": "僧侣之选",
-    "modifier.tconstruct.unarmed.description": "使胸甲强化，从而提升徒手攻击的伤害",
+    "modifier.tconstruct.unarmed.description": "提升徒手攻击的伤害",
+
     "recipe.tconstruct.modifier.unarmed": "需要“无持握”作为前置",
     "modifier.tconstruct.wings": "羽翼",
     "modifier.tconstruct.wings.flavor": "天空属于我",
-    "modifier.tconstruct.wings.description": "允许你在半空中跳跃，从而在空中翱翔",
+    "modifier.tconstruct.wings.description": "能够在半空中跳跃，翱翔蓝天",
+
 
     "_comment": "Armor - leggings",
     "modifier.tconstruct.speedy": "迅捷",
@@ -1742,7 +1755,8 @@
     "modifier.tconstruct.pocket_chain.flavor": "一链连双方",
     "modifier.tconstruct.pocket_chain.description": "潜行按下“护腿交互”键时，能够访问工具带或护带所有槽位，还能增加一格槽位",
 
-    "recipe.tconstruct.modifier.pocket_chain": "“锁链行囊”需要“护带”或“工具带”作为前置",
+    "recipe.tconstruct.modifier.pocket_chain": "“锁链行囊”需要“副手套环”或“工具腰带”作为前置",
+
 
     "modifier.tconstruct.inventory_cannot_remove": "进行此更改将会删除此工具中存储的所有物品",
 
