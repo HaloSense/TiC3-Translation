@@ -192,7 +192,7 @@
     "item.tconstruct.bronze_reinforcement": "工匠青铜加固板",
     "item.tconstruct.bronze_reinforcement.tooltip": "增加盔甲对弹射物的防护",
     "item.tconstruct.gold_reinforcement": "金加固板",
-    "item.tconstruct.gold_reinforcement.tooltip": "增加盔甲对药水伤害的防护",
+    "item.tconstruct.gold_reinforcement.tooltip": "增加盔甲对魔法伤害的防护",
     "item.tconstruct.emerald_reinforcement": "绿宝石加固板",
     "item.tconstruct.emerald_reinforcement.tooltip": "增加盔甲对爆炸的防护",
     "item.tconstruct.cobalt_reinforcement": "钴加固板",
