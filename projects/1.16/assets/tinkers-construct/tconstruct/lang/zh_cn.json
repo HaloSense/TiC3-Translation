@@ -980,7 +980,7 @@
     "block.tconstruct.nether_grout": "下界砖泥",
     "block.tconstruct.nether_grout.tooltip": "我们都是砖泥！",
 
-    "block.tconstruct.scorched_stone": "焦褐石",
+    "block.tconstruct.scorched_stone": "焦褐石头",
     "block.tconstruct.scorched_stone.tooltip": "构造熔铸炉的建材，安全可靠的装饰材料。",
     "block.tconstruct.polished_scorched_stone": "磨制焦褐石",
     "block.tconstruct.polished_scorched_stone.tooltip": "构造熔铸炉的建材，安全可靠的装饰材料。",
@@ -1279,11 +1279,11 @@
     "material.tconstruct.iron.skull_flavor": "违反隔离条例",
     "material.tconstruct.iron.skull_encyclopedia": "近战攻击会将攻击者携带的所有负面效果复制到攻击目标身上",
 
-    "material.tconstruct.seared_stone": "焦黑石",
+    "material.tconstruct.seared_stone": "焦黑石头",
     "material.tconstruct.seared_stone.flavor": "火热的砖泥。",
     "material.tconstruct.seared_stone.encyclopedia": "每级使工具在炎热地带+2.5点攻击伤害，在寒冷地带-2.5点攻击伤害",
 
-    "material.tconstruct.scorched_stone": "焦褐石",
+    "material.tconstruct.scorched_stone": "焦褐石头",
     "material.tconstruct.scorched_stone.flavor": "开荒时期的额外奖励。",
     "material.tconstruct.scorched_stone.encyclopedia": "每级使对着火目标+2点伤害",
 
