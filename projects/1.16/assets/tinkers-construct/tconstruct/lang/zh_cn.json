@@ -1747,7 +1747,7 @@
     "modifier.tconstruct.inventory_cannot_remove": "进行此更改将会删除此工具中存储的所有物品",
 
     "_comment": "Armor - boots",
-    "modifier.tconstruct.feather_falling": "羽落",
+    "modifier.tconstruct.feather_falling": "摔落保护",
     "modifier.tconstruct.feather_falling.flavor": "呼呼呼",
     "modifier.tconstruct.feather_falling.description": "软着陆能减少伤害",
     "modifier.tconstruct.feather_falling.resistance": "摔落抗性",
