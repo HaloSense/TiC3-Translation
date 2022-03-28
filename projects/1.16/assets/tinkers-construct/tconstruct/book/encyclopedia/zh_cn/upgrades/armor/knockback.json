@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:knockback_armor",
   "text": [
     {
-      "text": "Grants 1 knockback per level to all weapons, which launches a mob roughly 2 blocks. Most tools start with 0.4 knockback."
+      "text": "每级为所有武器增加1点击退效果，在攻击时会将生物击飞大约2格。大部分工具默认自带0.4点击退。"
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Maximum of 3 levels",
-    "Requires 1 upgrade slot per level"
+    "最高3级",
+    "每级需要1个升级槽"
   ]
 }
