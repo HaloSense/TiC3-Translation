@@ -2,13 +2,13 @@
   "modifier_id": "tconstruct:lightspeed",
   "text": [
     {
-      "text": "Grants +1 mining speed per level at light levels of 5, +3 mining speed per level at light levels of 10, and +9 mining speed per level at light levels of 15."
+      "text": "光照等级为5时每级挖掘速度+1，光照等级为10时挖掘速度+3，光照等级为15时挖掘速度+9。"
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Can apply levels incrementally",
-    "Maximum of 5 levels",
-    "Requires 1 upgrade slot per level"
+    "可以逐级强化",
+    "最高5级",
+    "每级需要1个升级槽"
   ]
 }

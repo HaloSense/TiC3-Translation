@@ -2,13 +2,13 @@
   "modifier_id": "tconstruct:hydraulic",
   "text": [
     {
-      "text": "Grants +4 mining speed per level in the rain. When underwater, instead grants +8 mining speed per level, bypassing the normal debuff from mining underwater."
+      "text": "在雨中每级增加4点挖掘速度。在水下时则改为每级增加8点挖掘速度，抵消水下的挖掘速度削减。"
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Can apply levels incrementally",
-    "Maximum of 5 levels",
-    "Requires 1 upgrade slot per level"
+    "可以逐级强化",
+    "最高5级",
+    "每级需要1个强化槽"
   ]
 }
