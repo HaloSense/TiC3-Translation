@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:necrotic",
   "text": [
     {
-      "text": "Has a chance to heal a percentage of damage on hit, healing between 0% and 5% per level."
+      "text": "造成伤害时，有一定概率按比例回复自身生命值，每级回复量在0%到5%之间。"
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Maximum of 5 levels",
-    "Requires 1 upgrade slot per level"
+    "最高5级",
+    "每级需要1个升级槽"
   ]
 }
