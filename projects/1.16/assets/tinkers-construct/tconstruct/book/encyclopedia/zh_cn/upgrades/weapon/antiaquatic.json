@@ -2,13 +2,13 @@
   "modifier_id": "tconstruct:antiaquatic",
   "text": [
     {
-      "text": "Grants +2.5 damage per level against aquatic mobs."
+      "text": "每级+2.5点对水生生物的伤害。"
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Can apply levels incrementally",
-    "Maximum of 5 levels",
-    "Requires 1 upgrade slot per level"
+    "可以逐级强化",
+    "最高5级",
+    "每级需要1个升级槽"
   ]
 }

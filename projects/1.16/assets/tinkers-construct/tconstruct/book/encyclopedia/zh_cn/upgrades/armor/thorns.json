@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:thorns",
   "text": [
     {
-      "text": "Has a 15% chance per level to apply 1 to 4 damage to the attacker. Multiple pieces will stack the effect."
+      "text": "被攻击时，每级有15%概率对攻击者造成1到4点伤害。多件盔甲的效果会叠加。"
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Maximum of 3 levels",
-    "Requires 1 upgrade slot per level"
+    "最高3级",
+    "每级需要1个升级槽"
   ]
 }

@@ -2,16 +2,16 @@
   "modifier_id": "tconstruct:tank",
   "text": [
     {
-      "text": "Increases the tank capacity of the tool by 8 ingots (or 1152 mb) per level. Useful alongside abilities such as bucketing or melting."
+      "text": "增加工具内部储罐容量，每级增加1152mB（8锭）。和“装桶”或“熔炼”能力配合效果更好。"
     },
     {
-      "text": "Tools with tanks have the ability to be filled and drained by interacting with fluid tank blocks. On armor the piece must be held to fill or empty a tank.",
+      "text": "装有“储液”升级的工具可以和流体储罐交互来填充或倒空内部储罐。如果升级安装在盔甲上，那么必须手持盔甲才能填充或倒空内部储罐。",
       "paragraph": true
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Maximum of 5 levels",
-    "Requires 1 upgrade slot per level"
+    "最高5级",
+    "每级需要1个升级槽"
   ]
 }

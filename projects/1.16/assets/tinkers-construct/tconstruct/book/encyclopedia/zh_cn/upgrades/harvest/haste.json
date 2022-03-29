@@ -2,16 +2,16 @@
   "modifier_id": "tconstruct:haste",
   "text": [
     {
-      "text": "On harvest tools and weapons, grants +5 mining speed and +5% attack speed per level."
+      "text": "装载在采掘工具和武器上时，每级挖掘速度+5，攻击速度+5。"
     },
     {
-      "text": "On chestplates, grants +10% mining speed per level.", "paragraph": true
+      "text": "装载在胸甲上时，每级挖掘速度+10%。", "paragraph": true
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Can apply levels incrementally",
-    "Maximum of 5 levels",
-    "Requires 1 upgrade slot per level"
+    "可以逐级增加",
+    "最高4级",
+    "每级需要1个升级槽"
   ]
 }

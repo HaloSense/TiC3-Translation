@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:fireprimer",
   "text": [
     {
-      "text": "Increases the area of effect of flint and bronze by 1. Equivelent to 1 level of expanded, but only requires an upgrade slot."
+      "text": "使青铜打火石的作用范围增加1格。效果和1级“延展”强化等同，但是只需要1个升级槽。"
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Maximum of 1 level",
-    "Requires 1 upgrade slot"
+    "单个等级",
+    "需要1个升级槽"
   ]
 }

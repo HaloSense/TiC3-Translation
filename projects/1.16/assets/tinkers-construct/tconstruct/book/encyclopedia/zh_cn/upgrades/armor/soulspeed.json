@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:soulspeed",
   "text": [
     {
-      "text": "Grants +40.5% speed on soul sand, plus an additional 10.5% added for each additional level. Reduces the slowdown from walking on soulsand."
+      "text": "在灵魂沙上的移动速度+40.5%，每增加一级强化就再增加10.5%，能够减少灵魂沙带来的减速效果。"
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Maximum of 3 levels",
-    "Requires 1 upgrade slot per level"
+    "最高3级",
+    "每级需要1个升级槽"
   ]
 }
