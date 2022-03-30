@@ -184,7 +184,7 @@
     "item.tconstruct.ender_slime_crystal.tooltip": "用于加持及填补黏液覆层",
 
     "item.tconstruct.iron_reinforcement": "铁加固板",
-    "item.tconstruct.iron_reinforcement.tooltip": "降低工具折耗耐久度的几率",
+    "item.tconstruct.iron_reinforcement.tooltip": "降低工具损耗耐久值的几率",
     "item.tconstruct.slimesteel_reinforcement": "黏钢加固板",
     "item.tconstruct.slimesteel_reinforcement.tooltip": "提升黏钢的容纳力",
     "item.tconstruct.seared_reinforcement": "焦黑加固板",
@@ -208,7 +208,7 @@
     "item.tconstruct.bloodbone": "血之骨",
     "item.tconstruct.blazing_bone": "烈焰之骨",
     "item.tconstruct.dragon_scale": "龙鳞",
-    "item.tconstruct.dragon_scale.tooltip": "末影龙的掉落物",
+    "item.tconstruct.dragon_scale.tooltip": "从末影龙身上炸下来的",
 
     "item.tconstruct.creative_slot": "创造强化槽",
     "item.tconstruct.creative_slot.upgrades": "创造升级槽",
@@ -254,122 +254,122 @@
 
     "_comment": "Tinkers Gold Casts",
 
-    "item.tconstruct.blank_cast": "金质空白铸模",
-    "item.tconstruct.ingot_cast": "金质锭铸模",
-    "item.tconstruct.nugget_cast": "金质粒铸模",
-    "item.tconstruct.gem_cast": "金质宝石铸模",
-    "item.tconstruct.rod_cast": "金质杆铸模",
+    "item.tconstruct.blank_cast": "空白金质铸模",
+    "item.tconstruct.ingot_cast": "锭金质铸模",
+    "item.tconstruct.nugget_cast": "粒金质铸模",
+    "item.tconstruct.gem_cast": "宝石金质铸模",
+    "item.tconstruct.rod_cast": "杆金质铸模",
 
-    "item.tconstruct.gear_cast": "金质齿轮铸模",
-    "item.tconstruct.plate_cast": "金质小板铸模",
-    "item.tconstruct.coin_cast": "金质币铸模",
-    "item.tconstruct.wire_cast": "金质线铸模",
+    "item.tconstruct.gear_cast": "齿轮金质铸模",
+    "item.tconstruct.plate_cast": "小板金质铸模",
+    "item.tconstruct.coin_cast": "币金质铸模",
+    "item.tconstruct.wire_cast": "线金质铸模",
 
-    "item.tconstruct.repair_kit_cast": "金质修补件铸模",
+    "item.tconstruct.repair_kit_cast": "修补件金质铸模",
 
     "_comment": "Small Head Gold Casts",
 
-    "item.tconstruct.pickaxe_head_cast": "金质镐头铸模",
-    "item.tconstruct.small_axe_head_cast": "金质小型斧刃铸模",
-    "item.tconstruct.small_blade_cast": "金质小型剑刃铸模",
-    "item.tconstruct.sign_head_cast": "金质牌板铸模",
-    "item.tconstruct.bow_limb_cast": "金质弓臂铸模",
+    "item.tconstruct.pickaxe_head_cast": "镐头金质铸模",
+    "item.tconstruct.small_axe_head_cast": "小型斧刃金质铸模",
+    "item.tconstruct.small_blade_cast": "小型剑刃金质铸模",
+    "item.tconstruct.sign_head_cast": "牌板金质铸模",
+    "item.tconstruct.bow_limb_cast": "弓臂金质铸模",
 
     "_comment": "Large Head Gold Casts",
 
-    "item.tconstruct.hammer_head_cast": "金质锤头铸模",
-    "item.tconstruct.broad_axe_head_cast": "金质板斧刃铸模",
-    "item.tconstruct.broad_blade_cast": "金质宽刃铸模",
+    "item.tconstruct.hammer_head_cast": "锤头金质铸模",
+    "item.tconstruct.broad_axe_head_cast": "板斧刃金质铸模",
+    "item.tconstruct.broad_blade_cast": "宽刃金质铸模",
 
     "_comment": "Binding Gold Casts",
 
-    "item.tconstruct.tool_binding_cast": "金质绑定结铸模",
-    "item.tconstruct.large_plate_cast": "金质大板铸模",
+    "item.tconstruct.tool_binding_cast": "绑定结金质铸模",
+    "item.tconstruct.large_plate_cast": "大板金质铸模",
 
     "_comment": "Tool Handle Gold Casts",
 
-    "item.tconstruct.tool_handle_cast": "金质工具手柄铸模",
-    "item.tconstruct.tough_handle_cast": "金质坚韧手柄铸模",
+    "item.tconstruct.tool_handle_cast": "工具手柄金质铸模",
+    "item.tconstruct.tough_handle_cast": "坚韧手柄金质铸模",
 
 
     "_comment": "Tinkers Sand Casts",
 
-    "item.tconstruct.blank_sand_cast": "沙质空白铸模",
-    "item.tconstruct.ingot_sand_cast": "沙质锭铸模",
-    "item.tconstruct.nugget_sand_cast": "沙质粒铸模",
-    "item.tconstruct.gem_sand_cast": "沙质宝石铸模",
-    "item.tconstruct.rod_sand_cast": "沙质杆铸模",
+    "item.tconstruct.blank_sand_cast": "空白沙子铸模",
+    "item.tconstruct.ingot_sand_cast": "锭沙子铸模",
+    "item.tconstruct.nugget_sand_cast": "粒沙子铸模",
+    "item.tconstruct.gem_sand_cast": "宝石沙子铸模",
+    "item.tconstruct.rod_sand_cast": "杆沙子铸模",
 
-    "item.tconstruct.gear_sand_cast": "沙质齿轮铸模",
-    "item.tconstruct.plate_sand_cast": "沙质小板铸模",
-    "item.tconstruct.coin_sand_cast": "沙质币铸模",
-    "item.tconstruct.wire_sand_cast": "沙质金属线铸模",
+    "item.tconstruct.gear_sand_cast": "齿轮沙子铸模",
+    "item.tconstruct.plate_sand_cast": "小板沙子铸模",
+    "item.tconstruct.coin_sand_cast": "币沙子铸模",
+    "item.tconstruct.wire_sand_cast": "金属线沙子铸模",
 
-    "item.tconstruct.repair_kit_sand_cast": "沙质修补件铸模",
+    "item.tconstruct.repair_kit_sand_cast": "修补件沙子铸模",
 
     "_comment": "Small Head Sand Casts",
 
-    "item.tconstruct.pickaxe_head_sand_cast": "沙质镐头铸模",
-    "item.tconstruct.small_axe_head_sand_cast": "沙质小型斧刃铸模",
-    "item.tconstruct.small_blade_sand_cast": "沙质小型剑刃铸模",
-    "item.tconstruct.sign_head_sand_cast": "沙质牌板铸模",
-    "item.tconstruct.bow_limb_sand_cast": "沙质弓臂铸模",
+    "item.tconstruct.pickaxe_head_sand_cast": "镐头沙子铸模",
+    "item.tconstruct.small_axe_head_sand_cast": "小型斧刃沙子铸模",
+    "item.tconstruct.small_blade_sand_cast": "小型剑刃沙子铸模",
+    "item.tconstruct.sign_head_sand_cast": "牌板沙子铸模",
+    "item.tconstruct.bow_limb_sand_cast": "弓臂沙子铸模",
 
     "_comment": "Large Head Sand Casts",
 
-    "item.tconstruct.hammer_head_sand_cast": "沙质锤头铸模",
-    "item.tconstruct.broad_axe_head_sand_cast": "沙质板斧刃铸模",
-    "item.tconstruct.broad_blade_sand_cast": "沙质宽刃铸模",
+    "item.tconstruct.hammer_head_sand_cast": "锤头沙子铸模",
+    "item.tconstruct.broad_axe_head_sand_cast": "板斧刃沙子铸模",
+    "item.tconstruct.broad_blade_sand_cast": "宽刃沙子铸模",
 
     "_comment": "Binding Sand Casts",
 
-    "item.tconstruct.tool_binding_sand_cast": "沙质绑定结铸模",
-    "item.tconstruct.large_plate_sand_cast": "沙质大板铸模",
+    "item.tconstruct.tool_binding_sand_cast": "绑定结沙子铸模",
+    "item.tconstruct.large_plate_sand_cast": "大板沙子铸模",
 
     "_comment": "Tool Handle Sand Casts",
 
-    "item.tconstruct.tool_handle_sand_cast": "沙质工具手柄铸模",
-    "item.tconstruct.tough_handle_sand_cast": "沙质坚韧手柄铸模",
+    "item.tconstruct.tool_handle_sand_cast": "工具手柄沙子铸模",
+    "item.tconstruct.tough_handle_sand_cast": "坚韧手柄沙子铸模",
 
 
     "_comment": "Tinkers Red Sand Casts",
 
-    "item.tconstruct.blank_red_sand_cast": "红沙空白铸模",
-    "item.tconstruct.ingot_red_sand_cast": "红沙锭铸模",
-    "item.tconstruct.nugget_red_sand_cast": "红沙粒铸模",
-    "item.tconstruct.gem_red_sand_cast": "红沙宝石铸模",
-    "item.tconstruct.rod_red_sand_cast": "红沙杆铸模",
+    "item.tconstruct.blank_red_sand_cast": "空白红沙铸模",
+    "item.tconstruct.ingot_red_sand_cast": "锭红沙铸模",
+    "item.tconstruct.nugget_red_sand_cast": "粒红沙铸模",
+    "item.tconstruct.gem_red_sand_cast": "宝石红沙铸模",
+    "item.tconstruct.rod_red_sand_cast": "杆红沙铸模",
 
-    "item.tconstruct.gear_red_sand_cast": "红沙齿轮铸模",
-    "item.tconstruct.plate_red_sand_cast": "红沙小板铸模",
-    "item.tconstruct.coin_red_sand_cast": "红沙币铸模",
-    "item.tconstruct.wire_red_sand_cast": "红沙金属线铸模",
+    "item.tconstruct.gear_red_sand_cast": "齿轮红沙铸模",
+    "item.tconstruct.plate_red_sand_cast": "小板红沙铸模",
+    "item.tconstruct.coin_red_sand_cast": "币红沙铸模",
+    "item.tconstruct.wire_red_sand_cast": "金属线红沙铸模",
 
-    "item.tconstruct.repair_kit_red_sand_cast": "红沙修补件铸模",
+    "item.tconstruct.repair_kit_red_sand_cast": "修补件红沙铸模",
 
     "_comment": "Small Head Red Sand Casts",
 
-    "item.tconstruct.pickaxe_head_red_sand_cast": "红沙镐头铸模",
-    "item.tconstruct.small_axe_head_red_sand_cast": "红沙小型斧刃铸模",
-    "item.tconstruct.small_blade_red_sand_cast": "红沙小型剑刃铸模",
-    "item.tconstruct.sign_head_red_sand_cast": "红沙牌板铸模",
-    "item.tconstruct.bow_limb_red_sand_cast": "红沙弓臂铸模",
+    "item.tconstruct.pickaxe_head_red_sand_cast": "镐头红沙铸模",
+    "item.tconstruct.small_axe_head_red_sand_cast": "小型斧刃红沙铸模",
+    "item.tconstruct.small_blade_red_sand_cast": "小型剑刃红沙铸模",
+    "item.tconstruct.sign_head_red_sand_cast": "牌板红沙铸模",
+    "item.tconstruct.bow_limb_red_sand_cast": "弓臂红沙铸模",
 
     "_comment": "Large Head Red Sand Casts",
 
-    "item.tconstruct.hammer_head_red_sand_cast": "红沙锤头铸模",
-    "item.tconstruct.broad_axe_head_red_sand_cast": "红沙板斧刃铸模",
-    "item.tconstruct.broad_blade_red_sand_cast": "红沙宽刃铸模",
+    "item.tconstruct.hammer_head_red_sand_cast": "锤头红沙铸模",
+    "item.tconstruct.broad_axe_head_red_sand_cast": "板斧刃红沙铸模",
+    "item.tconstruct.broad_blade_red_sand_cast": "宽刃红沙铸模",
 
     "_comment": "Binding Red Sand Casts",
 
-    "item.tconstruct.tool_binding_red_sand_cast": "红沙绑定结铸模",
-    "item.tconstruct.large_plate_red_sand_cast": "红沙大板铸模",
+    "item.tconstruct.tool_binding_red_sand_cast": "绑定结红沙铸模",
+    "item.tconstruct.large_plate_red_sand_cast": "大板红沙铸模",
 
     "_comment": "Tool Handle Red Sand Casts",
 
-    "item.tconstruct.tool_handle_red_sand_cast": "红沙工具手柄铸模",
-    "item.tconstruct.tough_handle_red_sand_cast": "红沙坚韧手柄铸模",
+    "item.tconstruct.tool_handle_red_sand_cast": "工具手柄红沙铸模",
+    "item.tconstruct.tough_handle_red_sand_cast": "坚韧手柄红沙铸模",
 
 
     "_comment": "Tinkers Fluids",
@@ -768,7 +768,7 @@
 
     "item.tconstruct.travelers_helmet": "旅行者护目镜",
     "item.tconstruct.travelers_chestplate": "旅行者背心",
-    "item.tconstruct.travelers_leggings": "旅行者护腿",
+    "item.tconstruct.travelers_leggings": "旅行者裤子",
     "item.tconstruct.travelers_boots": "旅行者靴子",
 
     "item.tconstruct.plate_helmet": "镶板头盔",
@@ -831,7 +831,7 @@
 
     "item.tconstruct.dagger.description": "匕首是一种轻型武器，无论主副手持握，皆可施展快速攻击。",
     "item.tconstruct.sword.description": "剑是一种泛用型武器，其横扫攻击能阻截成群结队的敌人。\n还能高效清理蜘蛛网！",
-    "item.tconstruct.cleaver.description": "劈刀是冶炼术大师必备的武器。再坚硬的敌人在高伤害范围攻击的劈刀面前也难以脱身。",
+    "item.tconstruct.cleaver.description": "劈刀是冶炼术大师必备的武器。再棘手的敌人在高伤害范围攻击的劈刀面前也难以脱身。",
 
 
 
@@ -982,7 +982,7 @@
 
     "block.tconstruct.scorched_stone": "焦褐石头",
     "block.tconstruct.scorched_stone.tooltip": "构造熔铸炉的建材，安全可靠的装饰材料。",
-    "block.tconstruct.polished_scorched_stone": "磨制焦褐石",
+    "block.tconstruct.polished_scorched_stone": "磨制焦褐石头",
     "block.tconstruct.polished_scorched_stone.tooltip": "构造熔铸炉的建材，安全可靠的装饰材料。",
 
     "item.tconstruct.scorched_brick": "焦褐砖",
@@ -1026,7 +1026,7 @@
     "block.tconstruct.scorched_table": "焦褐铸件台",
     "block.tconstruct.scorched_table.tooltip": "利用熔铸炉中的熔融材料铸造物品",
 
-    "block.tconstruct.scorched_channel": "焦褐浇筑道",
+    "block.tconstruct.scorched_channel": "焦褐浇注道",
     "block.tconstruct.scorched_channel.tooltip": "将上方浇注口中流下的流体进行分流。",
 
     "block.tconstruct.scorched_alloyer": "焦褐合金炉",
@@ -1066,7 +1066,7 @@
     "entity.tconstruct.ender_slime": "末影史莱姆",
     "item.tconstruct.ender_slime_spawn_egg": "末影史莱姆刷怪蛋",
     "entity.tconstruct.terracube": "黏土怪",
-    "item.tconstruct.terracube_spawn_egg": "大地史莱姆刷怪蛋",
+    "item.tconstruct.terracube_spawn_egg": "黏土怪刷怪蛋",
 
     "block.tconstruct.earth_slime_dirt": "大地黏液泥土",
     "block.tconstruct.earth_slime_dirt.tooltip": "黏脚，却能让你跳得更高",
@@ -1078,26 +1078,26 @@
     "block.tconstruct.ender_slime_dirt.tooltip": "黏脚，却能让你跳得更高",
 
     "block.tconstruct.earth_vanilla_slime_grass": "大地黏液草方块",
-    "block.tconstruct.earth_vanilla_slime_grass.tooltip": "能让你跳得更高，处于主世界时生成碧空史莱姆",
+    "block.tconstruct.earth_vanilla_slime_grass.tooltip": "能让你跳得更高，位于主世界时生成史莱姆",
     "block.tconstruct.earth_earth_slime_grass": "大地黏液草方块",
-    "block.tconstruct.earth_earth_slime_grass.tooltip": "能让你跳得更高，处于主世界时生成碧空史莱姆",
+    "block.tconstruct.earth_earth_slime_grass.tooltip": "能让你跳得更高，位于主世界时生成史莱姆",
     "block.tconstruct.earth_sky_slime_grass": "大地黏液草方块",
-    "block.tconstruct.earth_sky_slime_grass.tooltip": "能让你跳得更高，处于主世界时生成碧空史莱姆",
+    "block.tconstruct.earth_sky_slime_grass.tooltip": "能让你跳得更高，位于主世界时生成史莱姆",
     "block.tconstruct.earth_ichor_slime_grass": "大地黏液草方块",
-    "block.tconstruct.earth_ichor_slime_grass.tooltip": "能让你跳得更高，处于主世界时生成碧空史莱姆",
+    "block.tconstruct.earth_ichor_slime_grass.tooltip": "能让你跳得更高，位于主世界时生成史莱姆",
     "block.tconstruct.earth_ender_slime_grass": "大地黏液草方块",
-    "block.tconstruct.earth_ender_slime_grass.tooltip": "能让你跳得更高，处于主世界时生成碧空史莱姆",
+    "block.tconstruct.earth_ender_slime_grass.tooltip": "能让你跳得更高，位于主世界时生成史莱姆",
 
     "block.tconstruct.sky_vanilla_slime_grass": "碧空黏液草方块",
-    "block.tconstruct.sky_vanilla_slime_grass.tooltip": "能让你跳得更高，处于主世界时生成碧空史莱姆",
+    "block.tconstruct.sky_vanilla_slime_grass.tooltip": "能让你跳得更高，位于主世界时生成碧空史莱姆",
     "block.tconstruct.sky_earth_slime_grass": "碧空黏液草方块",
-    "block.tconstruct.sky_earth_slime_grass.tooltip": "能让你跳得更高，处于主世界时生成碧空史莱姆",
+    "block.tconstruct.sky_earth_slime_grass.tooltip": "能让你跳得更高，位于主世界时生成碧空史莱姆",
     "block.tconstruct.sky_sky_slime_grass": "碧空黏液草方块",
-    "block.tconstruct.sky_sky_slime_grass.tooltip": "能让你跳得更高，处于主世界时生成碧空史莱姆",
+    "block.tconstruct.sky_sky_slime_grass.tooltip": "能让你跳得更高，位于主世界时生成碧空史莱姆",
     "block.tconstruct.sky_ichor_slime_grass": "碧空黏液草方块",
-    "block.tconstruct.sky_ichor_slime_grass.tooltip": "能让你跳得更高，处于主世界时生成碧空史莱姆",
+    "block.tconstruct.sky_ichor_slime_grass.tooltip": "能让你跳得更高，位于主世界时生成碧空史莱姆",
     "block.tconstruct.sky_ender_slime_grass": "碧空黏液草方块",
-    "block.tconstruct.sky_ender_slime_grass.tooltip": "能让你跳得更高，处于主世界时生成碧空史莱姆",
+    "block.tconstruct.sky_ender_slime_grass.tooltip": "能让你跳得更高，位于主世界时生成碧空史莱姆",
 
     "block.tconstruct.blood_vanilla_slime_grass": "黏血菌岩",
     "block.tconstruct.blood_vanilla_slime_grass.tooltip": "能让你跳得更高，被施以骨粉时生成血菌",
@@ -1214,38 +1214,38 @@
     "block.tconstruct.skyroot_wall_sign": "天根木告示牌",
 
     "block.tconstruct.bloodshroom_planks": "血菌木板",
-    "block.tconstruct.bloodshroom_planks_slab": "血菌台阶",
-    "block.tconstruct.bloodshroom_planks_stairs": "血菌楼梯",
+    "block.tconstruct.bloodshroom_planks_slab": "血菌木台阶",
+    "block.tconstruct.bloodshroom_planks_stairs": "血菌木楼梯",
     "block.tconstruct.bloodshroom_log": "血菌柄",
     "block.tconstruct.stripped_bloodshroom_log": "去皮血菌柄",
     "block.tconstruct.bloodshroom_wood": "血菌核",
     "block.tconstruct.stripped_bloodshroom_wood": "去皮血菌核",
 
-    "block.tconstruct.bloodshroom_fence": "血菌栅栏",
-    "block.tconstruct.bloodshroom_fence_gate": "血菌栅栏门",
-    "block.tconstruct.bloodshroom_door": "血菌门",
-    "block.tconstruct.bloodshroom_trapdoor": "血菌活板门",
-    "block.tconstruct.bloodshroom_pressure_plate": "血菌压力板",
-    "block.tconstruct.bloodshroom_button": "血菌按钮",
-    "block.tconstruct.bloodshroom_sign": "血菌告示牌",
-    "block.tconstruct.bloodshroom_wall_sign": "血菌告示牌",
+    "block.tconstruct.bloodshroom_fence": "血菌木栅栏",
+    "block.tconstruct.bloodshroom_fence_gate": "血菌木栅栏门",
+    "block.tconstruct.bloodshroom_door": "血菌木门",
+    "block.tconstruct.bloodshroom_trapdoor": "血菌木活板门",
+    "block.tconstruct.bloodshroom_pressure_plate": "血菌木压力板",
+    "block.tconstruct.bloodshroom_button": "血菌木按钮",
+    "block.tconstruct.bloodshroom_sign": "血菌木告示牌",
+    "block.tconstruct.bloodshroom_wall_sign": "血菌木告示牌",
 
 
     "material.tconstruct.unknown": "未知材料",
 
     "__comment": "Tier 1 Materials",
     "material.tconstruct.wood": "木",
-    "material.tconstruct.wood.format": "木%s",
+    "material.tconstruct.wood.format": "木 %s",
     "material.tconstruct.wood.flavor": "伐伐伐伐伐伐伐伐伐木工",
-    "material.tconstruct.wood.encyclopedia": "每级使各个部件修理效率提高50%",
+    "material.tconstruct.wood.encyclopedia": "每有一个木部件，工具修理效率提高50%",
 
     "material.tconstruct.stone": "石",
     "material.tconstruct.stone.flavor": "保证坚如磐石",
-    "material.tconstruct.stone.encyclopedia": "按失去耐久度平方根的一半加快工具的采掘速度",
+    "material.tconstruct.stone.encyclopedia": "按已损耗耐久值平方根的一半加快工具的采掘速度",
 
     "material.tconstruct.flint": "燧石",
     "material.tconstruct.flint.flavor": "点燃你滚烫的工匠之心！",
-    "material.tconstruct.flint.encyclopedia": "按失去耐久度平方根的四分之一增加工具的伤害",
+    "material.tconstruct.flint.encyclopedia": "按已损耗耐久值平方根的四分之一增加工具的伤害",
 
     "material.tconstruct.bone": "骨头",
     "material.tconstruct.bone.flavor": "吾为所持剑之骨",
@@ -1253,7 +1253,7 @@
     "material.tconstruct.bone.skull_flavor": "有牛奶吗？",
     "material.tconstruct.bone.skull_encyclopedia": "饮用牛奶后获得1分钟抗性提升",
 
-    "material.tconstruct.necrotic_bone": "噬生",
+    "material.tconstruct.necrotic_bone": "噬生之骨",
     "material.tconstruct.necrotic_bone.flavor": "你是故意挑我骨头是不是？",
     "material.tconstruct.necrotic_bone.encyclopedia": "每级最高恢复所造成伤害5%的生命值",
     "material.tconstruct.necrotic_bone.skull_flavor": "惊悚恐怖骷髅头！",
@@ -1265,11 +1265,11 @@
 
     "material.tconstruct.leather": "皮革",
     "material.tconstruct.leather.flavor": "温“鞣”地杀死一头牛",
-    "material.tconstruct.leather.encyclopedia": "每次工具使用最高只会损耗1点耐久度",
+    "material.tconstruct.leather.encyclopedia": "每次使用工具最高只会损耗1点耐久值",
 
     "material.tconstruct.vine": "藤蔓",
     "material.tconstruct.vine.flavor": "生气蓬勃，不像那死气沉沉的社交网络。",
-    "material.tconstruct.vine.encyclopedia": "在太阳光完全照射的情况下，工具最高有75%的几率在使用时不损耗耐久度。",
+    "material.tconstruct.vine.encyclopedia": "在太阳光完全照射的情况下，工具最高有75%的几率在使用时不损耗耐久值。",
 
 
     "__comment": "Tier 2 Materials",
@@ -1279,11 +1279,11 @@
     "material.tconstruct.iron.skull_flavor": "违反隔离条例",
     "material.tconstruct.iron.skull_encyclopedia": "近战攻击会将攻击者携带的所有负面效果复制到攻击目标身上",
 
-    "material.tconstruct.seared_stone": "焦黑石头",
+    "material.tconstruct.seared_stone": "焦黑石",
     "material.tconstruct.seared_stone.flavor": "火热的砖泥。",
-    "material.tconstruct.seared_stone.encyclopedia": "每级使工具在炎热地带+2.5点攻击伤害，在寒冷地带-2.5点攻击伤害",
+    "material.tconstruct.seared_stone.encyclopedia": "每级使工具在炎热地带时攻击伤害+2.5，在寒冷地带时攻击伤害-2.5",
 
-    "material.tconstruct.scorched_stone": "焦褐石头",
+    "material.tconstruct.scorched_stone": "焦褐石",
     "material.tconstruct.scorched_stone.flavor": "开荒时期的额外奖励。",
     "material.tconstruct.scorched_stone.encyclopedia": "每级使对着火目标+2点伤害",
 
@@ -1295,23 +1295,23 @@
 
     "material.tconstruct.slimewood": "黏木",
     "material.tconstruct.slimewood.flavor": "这黏木到底是长了黏液的木头还是长了木头的黏液？",
-    "material.tconstruct.slimewood.encyclopedia": "有几率每秒自行再生黏液覆层，每级几率增加5%",
+    "material.tconstruct.slimewood.encyclopedia": "有概率每秒自行再生黏液覆层，每级概率增加5%",
 
     "material.tconstruct.bloodbone": "血之骨",
     "material.tconstruct.bloodbone.flavor": "血难道不应该在骨头里面吗？",
-    "material.tconstruct.bloodbone.encyclopedia": "在生命值低时提升攻击力，在生命值为1时每级可+4点攻击伤害",
+    "material.tconstruct.bloodbone.encyclopedia": "在生命值低时提升攻击力，在生命值为1时每级使攻击伤害+4",
     "material.tconstruct.bloodbone.skull_flavor": "令人毛骨悚然。",
-    "material.tconstruct.bloodbone.skull_encyclopedia": "弹射物会减缓目标移动速度。饮用牛奶后，近战攻击会减缓目标速度，并且效果更强。",
+    "material.tconstruct.bloodbone.skull_encyclopedia": "弹射物会使攻击目标获得缓慢效果。饮用牛奶后，近战攻击也会使目标获得缓慢效果，并且等级更高。",
 
     "material.tconstruct.rose_gold": "玫瑰金",
     "material.tconstruct.rose_gold.flavor": "免责声明：不是用真的玫瑰做的。",
     "material.tconstruct.rose_gold.encyclopedia": "每级增加一个额外的升级槽",
     "material.tconstruct.rose_gold.skull_flavor": "把那件臂铠拿来物尽其用",
-    "material.tconstruct.rose_gold.skull_encyclopedia": "最大生命值增加1颗心。每穿戴有一件金质护甲，额外增加1颗心。",
+    "material.tconstruct.rose_gold.skull_encyclopedia": "最大生命值增加1颗心。每穿戴有一件金质盔甲，额外增加1颗心。",
 
     "material.tconstruct.chain": "锁链",
     "material.tconstruct.chain.flavor": "你也可以变成用锁链的猎人。",
-    "material.tconstruct.chain.encyclopedia": "工具的耐久度损耗降低25%",
+    "material.tconstruct.chain.encyclopedia": "工具的耐久值损耗降低25%",
 
     "material.tconstruct.skyslime_vine": "黏液藤蔓",
     "material.tconstruct.skyslime_vine.flavor": "飞如蝴蝶，刺若蜜蜂。",
@@ -1324,7 +1324,7 @@
     "material.tconstruct.slimesteel.encyclopedia": "增加25点黏液覆层，每级会在此基础上增加50%",
 
     "material.tconstruct.nahuatl": "纳瓦特尔",
-    "material.tconstruct.nahuatl.flavor": "这真的不是黑曜石，如果是的话我会把它的名字改成“黑曜石”的。",
+    "material.tconstruct.nahuatl.flavor": "这真的不是黑曜石，如果是的话它的名字就会叫做“黑曜石”了。",
     "material.tconstruct.nahuatl.encyclopedia": "有50%几率在一段时间内造成总共5点伤害。每级升级会增加伤害总量。",
 
     "material.tconstruct.tinkers_bronze": "工匠青铜",
@@ -1348,7 +1348,7 @@
     "material.tconstruct.cobalt.encyclopedia": "每级提升7%的攻击速度和挖掘速度",
 
     "material.tconstruct.manyullyn": "玛玉灵",
-    "material.tconstruct.manyullyn.flavor": "没几个工匠能叫对这材料的名字。也被叫做能斩断星辰的材料。",
+    "material.tconstruct.manyullyn.flavor": "没几个工匠能叫对这材料的名字。他们说这个材料能够斩断星辰。",
     "material.tconstruct.manyullyn.encyclopedia": "8次连击后，每级伤害+2",
 
     "material.tconstruct.hepatizon": "黑色科林斯青铜",
@@ -1358,7 +1358,7 @@
 
     "material.tconstruct.queens_slime": "皇后史莱姆",
     "material.tconstruct.queens_slime.flavor": "公主都不是什么善茬，去找个皇后吧",
-    "material.tconstruct.queens_slime.encyclopedia": "每级减少15%耐久度，其中的66%转化为黏液覆层",
+    "material.tconstruct.queens_slime.encyclopedia": "每级减少15%耐久值，其中的66%转化为黏液覆层",
 
     "material.tconstruct.blazing_bone": "烈焰之骨",
     "material.tconstruct.blazing_bone.flavor": "获取下界堡垒的所有力量——烈焰之力与骨之力",
@@ -1405,7 +1405,7 @@
 
     "material.tconstruct.gold": "金",
     "material.tconstruct.gold.skull_flavor": "金闪闪",
-    "material.tconstruct.gold.skull_encyclopedia": "使得某些金矿掉落更多金粒，使金护甲掉落率增加4%。每穿戴一件金护甲，金粒和金护甲的掉率也会随之增加。",
+    "material.tconstruct.gold.skull_encyclopedia": "使得某些金矿掉落更多金粒，使金盔甲掉落率增加4%。每穿戴一件金盔甲，金粒和金盔甲的掉率也会随之增加。",
 
     "material.tconstruct.obsidian": "黑曜石",
     "material.tconstruct.debris": "残骸",
@@ -1432,7 +1432,7 @@
     "__comment": "Tier 2 Integration Materials",
     "material.tconstruct.osmium": "锇",
     "material.tconstruct.osmium.flavor": "因为密度太大，所以很难Get到笑点。",
-    "material.tconstruct.osmium.encyclopedia": "在第一级时，通过额外增加的25%维修消耗，来减少33%的耐久损失",
+    "material.tconstruct.osmium.encyclopedia": "在第1级时，通过额外增加的25%维修消耗，来减少33%的耐久损失",
 
     "material.tconstruct.tungsten": "钨",
     "material.tconstruct.tungsten.flavor": "你考虑过组建一支重金属乐队吗？",
@@ -1467,7 +1467,7 @@
     "material.tconstruct.steel.encyclopedia": "每级+4%耐久、伤害和速度",
 
     "material.tconstruct.constantan": "康铜",
-    "material.tconstruct.constantan.flavor": "诶，康铜！我还从来没见过呢。都起开，让我\"康康！\"",
+    "material.tconstruct.constantan.flavor": "诶，康铜！我还从来没见过呢。都起开，让我“康康！”",
     "material.tconstruct.constantan.encyclopedia": "在极热或者极冷环境下+12.5%挖掘速度",
 
     "material.tconstruct.invar": "殷钢",
@@ -1517,17 +1517,17 @@
     "_comment": "Durability",
     "modifier.tconstruct.reinforced": "加固",
     "modifier.tconstruct.reinforced.flavor": "结实耐用！",
-    "modifier.tconstruct.reinforced.description": "降低工具折耗耐久度的几率",
+    "modifier.tconstruct.reinforced.description": "降低工具折耗耐久值的几率",
     "modifier.tconstruct.overforced": "超强化",
     "modifier.tconstruct.overforced.flavor": "黏液防护！",
     "modifier.tconstruct.overforced.description": "在黏液的强化下，工具将拥有更高的黏液覆层上限",
     "modifier.tconstruct.emerald": "绿宝石",
     "modifier.tconstruct.emerald.flavor": "精致奢华！",
-    "modifier.tconstruct.emerald.description": "依据工具的基础数据提升其耐久度！灾厄村民们的眼中钉！",
+    "modifier.tconstruct.emerald.description": "依据工具的基础数据提升其耐久值！灾厄村民们的眼中钉！",
     "modifier.tconstruct.emerald.attack_damage": "对灾厄村民伤害",
     "modifier.tconstruct.diamond": "钻石",
     "modifier.tconstruct.diamond.flavor": "尊贵富庶！",
-    "modifier.tconstruct.diamond.description": "提升工具的耐久度及各项数据！",
+    "modifier.tconstruct.diamond.description": "提升工具的耐久值及各项数据！",
     "modifier.tconstruct.worldbound": "世界绑定",
     "modifier.tconstruct.worldbound.flavor": "远古回响！",
     "modifier.tconstruct.worldbound.description": "次等的“下界合金”升级，使工具获得免疫如火焰等外部伤害的能力，但不提供强度加成",
@@ -1541,7 +1541,7 @@
 
     "modifier.tconstruct.overslime": "黏液覆层",
     "modifier.tconstruct.overslime.flavor": "黏糊糊！",
-    "modifier.tconstruct.overslime.description": "使用工具将优先折耗黏液覆层而非耐久度！但在黏液覆层耗尽时不起任何作用。对缺失黏液的工具不甚友好",
+    "modifier.tconstruct.overslime.description": "使用工具将优先折耗黏液覆层而非耐久值！但在黏液覆层耗尽时不起任何作用。对缺失黏液的工具不甚友好",
 
     "_comment": "Tool or harvest",
     "modifier.tconstruct.experienced": "阅历",
@@ -1804,7 +1804,7 @@
     "_comment": "Abilities",
     "modifier.tconstruct.unbreakable": "不毁",
     "modifier.tconstruct.unbreakable.flavor": "冷冻封存！",
-    "modifier.tconstruct.unbreakable.description": "常规使用时，工具不再消耗耐久度",
+    "modifier.tconstruct.unbreakable.description": "常规使用时，工具不再消耗耐久值",
     "recipe.tconstruct.modifier.unbreakable_requirements": "“不毁”需要“下界合金”和“加固 V”作为作为前置",
     "modifier.tconstruct.dual_wielding": "双持",
     "modifier.tconstruct.dual_wielding.flavor": "二刀流！",
@@ -1932,13 +1932,13 @@
 
     "modifier.tconstruct.cultivated": "培植",
     "modifier.tconstruct.cultivated.flavor": "精打细算！",
-    "modifier.tconstruct.cultivated.description": "工具在修复时，单位材料实际能够提供更多耐久度。",
+    "modifier.tconstruct.cultivated.description": "工具在修复时，单位材料实际能够提供更多耐久值。",
     "modifier.tconstruct.jagged": "锯齿",
     "modifier.tconstruct.jagged.flavor": "破缘生锋刃！",
-    "modifier.tconstruct.jagged.description": "工具的耐久度越低，伤害值越高，但采掘速度越低",
+    "modifier.tconstruct.jagged.description": "工具的耐久值越低，伤害值越高，但采掘速度越低",
     "modifier.tconstruct.stonebound": "石缚",
     "modifier.tconstruct.stonebound.flavor": "你的工具真的超爱石头诶！",
-    "modifier.tconstruct.stonebound.description": "工具的耐久度越低，采掘速度越高，但伤害值越低",
+    "modifier.tconstruct.stonebound.description": "工具的耐久值越低，采掘速度越高，但伤害值越低",
     "modifier.tconstruct.fractured": "折骨",
     "modifier.tconstruct.fractured.flavor": "祝你好骨！",
     "modifier.tconstruct.fractured.description": "碎骨片使工具变得更加锋利",
@@ -1991,7 +1991,7 @@
     "modifier.tconstruct.lacerating.description": "使攻击目标流血，造成更多伤害",
     "modifier.tconstruct.maintained": "持久",
     "modifier.tconstruct.maintained.flavor": "永葆青春，永保锋利！",
-    "modifier.tconstruct.maintained.description": "耐久度越高，工具的采掘速度越快",
+    "modifier.tconstruct.maintained.description": "耐久值越高，工具的采掘速度越快",
     "modifier.tconstruct.maintained.mining_speed": "持久采掘",
     "modifier.tconstruct.lightweight": "轻便",
     "modifier.tconstruct.lightweight.flavor": "就像碎片之刃！",
@@ -2006,7 +2006,7 @@
     "__comment": "Tier 4 Traits",
     "modifier.tconstruct.overlord": "帝皇",
     "modifier.tconstruct.overlord.flavor": "九五至尊！",
-    "modifier.tconstruct.overlord.description": "工具的部分耐久度会被视作黏液覆层",
+    "modifier.tconstruct.overlord.description": "工具的部分耐久值会被视作黏液覆层",
     "modifier.tconstruct.momentum": "动力",
     "modifier.tconstruct.momentum.flavor": "勇往直前，快上加快！",
     "modifier.tconstruct.momentum.description": "工具的采掘速度会在一次无中断的采掘过程中不断提升",
@@ -2051,7 +2051,7 @@
     "modifier.tconstruct.ductile.description": "工具更加耐用，采掘速度更快，伤害更高",
     "modifier.tconstruct.maintained_2": "持久",
     "modifier.tconstruct.maintained_2.flavor": "更简易的磨砺方式！",
-    "modifier.tconstruct.maintained_2.description": "耐久度越高，工具的采掘速度越快",
+    "modifier.tconstruct.maintained_2.description": "耐久值越高，工具的采掘速度越快",
     "modifier.tconstruct.temperate": "恒温",
     "modifier.tconstruct.temperate.flavor": "极端环境开采作业！",
     "modifier.tconstruct.temperate.description": "工具在极端温度下提加快采掘速度",
@@ -2195,8 +2195,8 @@
 
     "tool_stat.tconstruct.attack_speed": "攻击速度：",
     "tool_stat.tconstruct.attack_speed.description": "攻击速度计算所依据的基准值。\n大致为每秒满蓄力攻击的次数。",
-    "tool_stat.tconstruct.durability": "耐久度：",
-    "tool_stat.tconstruct.durability.description": "耐久度计算所依据的基准值。\n通常是工具整体耐久不可或缺的一部分。",
+    "tool_stat.tconstruct.durability": "耐久值：",
+    "tool_stat.tconstruct.durability.description": "耐久值计算所依据的基准值。\n通常是工具整体耐久不可或缺的一部分。",
 
     "stat.tconstruct.head": "顶端",
     "tool_stat.tconstruct.mining_speed": "采掘速度：",
@@ -2214,7 +2214,7 @@
     "tool_stat.tconstruct.knockback_resistance.description": "这件护甲能抵消多少击退效果。",
 
     "stat.tconstruct.handle": "手柄",
-    "tool_stat.tconstruct.handle.durability.description": "工具的最终耐久度会被这一数值修正。",
+    "tool_stat.tconstruct.handle.durability.description": "工具的最终耐久值会被这一数值修正。",
     "tool_stat.tconstruct.handle.attack_damage.description": "工具的最终攻击伤害会被这一数值修正。",
     "tool_stat.tconstruct.handle.attack_speed.description": "工具的最终攻击速度会被这一数值修正。",
     "tool_stat.tconstruct.handle.mining_speed.description": "工具的最终采掘速度会被这一数值修正。",
@@ -2322,7 +2322,7 @@
     "gui.tconstruct.error.invalid_recipe": "配方无效！",
     "gui.tconstruct.error.unknown_material": "未知材料",
     "gui.tconstruct.error.useless_tool_part": "该部件无法用于任何工具种类！\n\n可能由于材料%s的部分信息有所缺失或无任何工具需要%s作为合成材料。",
-    "gui.tconstruct.error.not_enough_durability": "耐久度不足\n至少需要%d点耐久度。",
+    "gui.tconstruct.error.not_enough_durability": "耐久值不足\n至少需要%d点耐久值。",
 
 
     "_comment": "Subtitles for sounds",
@@ -2466,7 +2466,7 @@
     "advancements.tconstruct.tools.upgrade_slots.title": "升级大全",
     "advancements.tconstruct.tools.upgrade_slots.description": "使用“铭刻”“镶金”“重置”“和睦”与“复生”为工具附加6个额外的升级槽",
     "advancements.tconstruct.tools.glass_cannon.title": "玻璃大炮",
-    "advancements.tconstruct.tools.glass_cannon.description": "打造一件攻击伤害大于20但耐久度不超过100的工具",
+    "advancements.tconstruct.tools.glass_cannon.description": "打造一件攻击伤害大于20但耐久值不超过100的工具",
     "advancements.tconstruct.tools.tool_smith.title": "工具精匠",
     "advancements.tconstruct.tools.tool_smith.description": "打造出每一件默认的小型工具",
     "advancements.tconstruct.tools.material_master.title": "材料大师",
@@ -2477,7 +2477,7 @@
     "advancements.tconstruct.smeltery.puny_smelting.description": "合成《入门熔炼术》指南书",
     "advancements.tconstruct.smeltery.melter.title": "基础熔炼",
     "advancements.tconstruct.smeltery.melter.description": "使用熔化炉、加热器或储罐、铸造盆、铸件台以及浇注口来进行最基础的熔炼操作",
-    "advancements.tconstruct.smeltery.sand_casting.title": "沙质铸模",
+    "advancements.tconstruct.smeltery.sand_casting.title": "沙子铸模",
     "advancements.tconstruct.smeltery.sand_casting.description": "用沙子制作一个一次性的铸模",
     "advancements.tconstruct.smeltery.gold_casting.title": "闪亮铸模",
     "advancements.tconstruct.smeltery.gold_casting.description": "用金子制作一个可重复使用的铸模",
