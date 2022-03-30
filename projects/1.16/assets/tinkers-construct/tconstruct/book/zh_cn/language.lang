@@ -13,7 +13,7 @@ upgrades.group_weapon=武器升级
 upgrades.group_damage=额外伤害升级
 upgrades.group_armor=盔甲升级
 
-slotless=无槽强化
+slotless=无槽位强化
 slotless.subtext=这些强化不需要任何槽位就能加持，愿意的话可以所有一起来。
-slotless.group_slotless=无槽强化
+slotless.group_slotless=无槽位强化
 slotless.group_bonus_upgrades=附加强化
