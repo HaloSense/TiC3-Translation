@@ -6,7 +6,7 @@ casting=浇铸
 tier_two_materials=二级材料
 
 upgrades=升级
-upgrades.subtext=工具可被升级强化，虽然一柄工具只能接受有限个升级。
+upgrades.subtext=工具可被升级强化，不过一把工具能加持的升级数量是有限的。
 upgrades.group_general=通用升级
 upgrades.group_harvest=收集升级
 upgrades.group_weapon=武器升级
