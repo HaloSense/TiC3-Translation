@@ -15,8 +15,8 @@ armor.subtext=你可以在工作站中合成旅行者套装！这套装备虽然
 modifiers=强化
 modifiers.traits=属性
 modifiers.upgrades=升级
-modifiers.slotless=无槽位升级
-modifiers.abilities=能力升级
-modifiers.defense=防御升级
+modifiers.slotless=无槽位强化
+modifiers.abilities=能力
+modifiers.defense=防御
 
 further_reading=延伸阅读
