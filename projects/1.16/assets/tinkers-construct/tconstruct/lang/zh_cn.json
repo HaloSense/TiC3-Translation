@@ -2104,7 +2104,8 @@
     "modifier.tconstruct.chrysophilite.description": "采矿或者击杀怪物时增加金子的掉落",
     "modifier.tconstruct.gold_guard": "金卫兵",
     "modifier.tconstruct.gold_guard.flavor": "就是说你喜欢金子",
-    "modifier.tconstruct.gold_guard.description": "依据穿戴的金质盔甲数量，提升基础血量",
+    "modifier.tconstruct.gold_guard.description": "依据穿戴的金盔甲数量，提升基础血量",
+
     "modifier.tconstruct.gold_guard.health": "金血量",
     "modifier.tconstruct.revenge": "复仇",
     "modifier.tconstruct.revenge.flavor": "非常适合反击",
