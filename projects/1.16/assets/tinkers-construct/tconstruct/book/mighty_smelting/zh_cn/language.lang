@@ -2,8 +2,8 @@
 intro=介绍
 entity_melting=实体熔炼
 tier_three_materials=三级材料
-tools=大型工具
-tools.subtext=大型工具需要工匠砧才能制作。
+tools=宽型工具
+tools.subtext=宽型工具需要工匠砧才能制作。
 
 smeltery=冶炼炉
 smeltery.features=特性
