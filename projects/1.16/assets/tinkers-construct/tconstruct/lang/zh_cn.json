@@ -1517,7 +1517,7 @@
     "_comment": "Durability",
     "modifier.tconstruct.reinforced": "加固",
     "modifier.tconstruct.reinforced.flavor": "结实耐用！",
-    "modifier.tconstruct.reinforced.description": "降低工具折耗耐久值的几率",
+    "modifier.tconstruct.reinforced.description": "降低工具损耗耐久值的概率",
     "modifier.tconstruct.overforced": "超强化",
     "modifier.tconstruct.overforced.flavor": "黏液防护！",
     "modifier.tconstruct.overforced.description": "在黏液的强化下，工具将拥有更高的黏液覆层上限",
