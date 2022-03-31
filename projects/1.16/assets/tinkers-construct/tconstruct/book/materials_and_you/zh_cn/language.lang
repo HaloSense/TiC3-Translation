@@ -3,7 +3,7 @@
 intro=介绍
 
 tier_one_materials=一级材料
-tier_one_materials.subtext=制作任何工具，材料都是入门篇章，这些材料可以放在部件制造桌中，用于制作一些合成工具的部件。
+tier_one_materials.subtext=制作任何工具，材料都是入门篇章。这些材料可以放在部件制造台中，用于制作一些合成工具的部件。
 
 tools=工具
 tools.part_swapping=部件替换
@@ -14,9 +14,9 @@ armor.subtext=你可以在工作站中合成旅行者套装！这套装备虽然
 
 modifiers=强化
 modifiers.traits=属性
-modifiers.upgrades=升级
-modifiers.slotless=无强化槽升级
-modifiers.abilities=能力升级
-modifiers.defense=防御升级
+modifiers.upgrades=升级强化
+modifiers.slotless=无槽位强化
+modifiers.abilities=能力强化
+modifiers.defense=防御强化
 
 further_reading=延伸阅读
