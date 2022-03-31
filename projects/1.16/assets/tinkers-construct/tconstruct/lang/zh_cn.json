@@ -1541,7 +1541,7 @@
 
     "modifier.tconstruct.overslime": "黏液覆层",
     "modifier.tconstruct.overslime.flavor": "黏糊糊！",
-    "modifier.tconstruct.overslime.description": "使用工具将优先折耗黏液覆层而非耐久值！但在黏液覆层耗尽时不起任何作用。对缺失黏液的工具不甚友好",
+    "modifier.tconstruct.overslime.description": "使用工具将优先损耗黏液覆层而非耐久值！但在黏液覆层耗尽时不起任何作用。对缺失黏液的工具不甚友好",
 
     "_comment": "Tool or harvest",
     "modifier.tconstruct.experienced": "阅历",
