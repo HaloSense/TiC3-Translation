@@ -1606,7 +1606,7 @@
     "modifier.tconstruct.antiaquatic": "水生杀手",
     "modifier.tconstruct.antiaquatic.flavor": "基本上就是一根钓鱼竿了！",
     "modifier.tconstruct.antiaquatic.description": "工具会对水栖生物造成额外伤害！",
-    "modifier.tconstruct.antiaquatic.attack_damage": "对水栖生物伤害",
+    "modifier.tconstruct.antiaquatic.attack_damage": "对水生生物伤害",
     "modifier.tconstruct.cooling": "火生杀手",
     "modifier.tconstruct.cooling.flavor": "霜冻寒流！",
     "modifier.tconstruct.cooling.description": "工具会对火生生物造成额外伤害！",
