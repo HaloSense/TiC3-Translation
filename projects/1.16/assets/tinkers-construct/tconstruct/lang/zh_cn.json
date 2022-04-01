@@ -891,7 +891,7 @@
     "_comment": "Tinkers Smeltery",
 
     "block.tconstruct.grout": "砖泥",
-    "block.tconstruct.grout.tooltip": "我就是个砖泥！",
+    "block.tconstruct.grout.tooltip": "我是一块砖！……",
 
     "block.tconstruct.seared_stone": "焦黑石头",
     "block.tconstruct.seared_stone.tooltip": "构造冶炼炉的建材，安全可靠的装饰材料。",
@@ -978,7 +978,7 @@
     "_comment": "Tinkers Foundry",
 
     "block.tconstruct.nether_grout": "下界砖泥",
-    "block.tconstruct.nether_grout.tooltip": "我们都是砖泥！",
+    "block.tconstruct.nether_grout.tooltip": "……哪里需要哪里搬！……",
 
     "block.tconstruct.scorched_stone": "焦褐石头",
     "block.tconstruct.scorched_stone.tooltip": "构造熔铸炉的建材，安全可靠的装饰材料。",
@@ -1280,7 +1280,7 @@
     "material.tconstruct.iron.skull_encyclopedia": "近战攻击会将攻击者携带的所有负面效果复制到攻击目标身上",
 
     "material.tconstruct.seared_stone": "焦黑石",
-    "material.tconstruct.seared_stone.flavor": "火热的砖泥。",
+    "material.tconstruct.seared_stone.flavor": "……赴汤蹈火在所不辞！",
     "material.tconstruct.seared_stone.encyclopedia": "每级使工具在炎热地带时攻击伤害+2.5，在寒冷地带时攻击伤害-2.5",
 
     "material.tconstruct.scorched_stone": "焦褐石",
@@ -1809,7 +1809,7 @@
 
     "_comment": "Loot",
     "modifier.tconstruct.silky": "丝触",
-    "modifier.tconstruct.silky.flavor": "丝般顺滑！",
+    "modifier.tconstruct.silky.flavor": "纵享丝滑！",
     "modifier.tconstruct.silky.description": "工具所开采的方块将掉落其自身",
     "modifier.tconstruct.autosmelt": "自动烧炼",
     "modifier.tconstruct.autosmelt.flavor": "下界之火蕴于工具之中！",
