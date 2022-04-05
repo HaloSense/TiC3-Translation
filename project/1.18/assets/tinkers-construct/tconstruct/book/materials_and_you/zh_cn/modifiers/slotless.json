@@ -1,15 +1,15 @@
 {
-  "title": "Slotless Modifiers",
+  "title": "无槽位强化",
   "text": [
     {
-      "text": "Slotless modifiers do not require slots unlike all other types of modifiers. This typically means the modifier either has some significant tradeoff or the effect is minor."
+      "text": "无槽位强化不像其他强化一样需要强化槽。但这也意味着这些强化要么有些折衷的属性，要么属性很差。"
     },
     {
-      "text": "One notable type of slotless modifiers is bonus modifiers, which grant additional modifier slots. Many exist that grant more upgrade slots, and I am told some even exist to grant more ability slots.",
+      "text": "值得注意的是，额外强化虽是一种无槽位强化，但是它能给予更多强化槽。许多东西都能给予升级槽，我还听说有些东西还能提供更多的能力槽。",
       "paragraph": true
     },
     {
-      "text": "Thruul M'Gon's Puny Smelting has a full list of slotless modifiers available on tools, along with the Encyclopedia of Tinkering.",
+      "text": "Thruul M'Gon所著的《入门熔炼术》有着一整 套可用于工具的无槽位强化列表，《工匠大百 科》也有介绍。",
       "paragraph": true
     }
   ]

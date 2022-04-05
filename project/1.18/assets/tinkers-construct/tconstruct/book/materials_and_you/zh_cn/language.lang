@@ -1,12 +1,11 @@
-intro=Introduction
+intro=介绍
 
-tier_one_materials=Tier 1 Materials
-tier_one_materials.subtext=Materials are the first part to making any tool. These materials can be placed in the part builder to create tool parts.
+tier_one_materials=一级材料
+tier_one_materials.subtext=制作任何工具，材料都是入门篇章。这些材料可以放在部件制造台中，用于制作一些合成工具的部件。
 
-tools=Tools
+tools=工具
 
-armor=Traveler's Gear
-armor.subtext=Traveler's Gear is crafted using a crafting station! This suit doesn't offer the best defense, but there are still many opportunities to upgrade your suit of armor! Oh what fun things will you create?
-
-modifiers=Modifiers
-further_reading=Further Reading
+armor=旅行者套装
+armor.subtext=你可以在工作站中合成旅行者套装！这套装备虽然不能提供最好的防御，但它却拥有很多升级功 能。你会创造出什么有趣的东西来呢？
+modifiers=强化
+further_reading=延伸阅读

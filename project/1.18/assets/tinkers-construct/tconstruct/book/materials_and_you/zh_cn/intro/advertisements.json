@@ -1,19 +1,19 @@
 {
-  "title": "Advertisements",
+  "title": "广告栏",
   "text": [
     {
-      "text": "Coming soon to bookshelves near you."
+      "text": "即将上架。"
     },
     {
-      "text": "ALRIGHT YOU TINKERS LISTEN UP. I am the one and only §lTHRUUL M'GON§r and my two new upcoming books §oPuny Smelting§r and §oMighty Smelting§r will teach you how to use much better materials, melt your metals, alloy, and SO MUCH MORE.",
+      "text": "你们这群工匠都给我听好了！我就是独一无 二的§lTHRUUL M'GON§r，我将要推出两本新书：《入 门熔炼术》和《大师熔炼术》。在这两本书中， 我会教你如何使用更好的材料，熔化金属，制作 合金，以及其他知识。",
 	  "paragraph": true
     },
     {
-      "text": "I've got a whole lot of stuff made out of slime, gunpowder, and all the weirdest stuff that you could possibly think of! Coming soon in §oTinker's Gadgetry§r by Melvin",
+      "text": "我有很多黏液、火药以及其他所能想象的奇妙物品制作出的东西！即将在Melvin所著的《工匠装置宝典》中问世。",
       "paragraph": true
     },
 	 {
-      "text": "There is nothing quite as fantastic as a foundry. Learn more in  §oFantastic Foundry§r by Namea",
+      "text": "没有什么比熔铸炉更神奇的了！详情请阅读 Namea所著的《奇异熔铸术》。",
       "paragraph": true
     }
   ]

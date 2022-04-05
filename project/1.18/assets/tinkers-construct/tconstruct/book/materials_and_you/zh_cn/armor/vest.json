@@ -1,9 +1,9 @@
 {
   "tool": "tconstruct:travelers_chestplate",
   "text": [
-    { "text": "Don't forget to tuck in the tag, don't want to walk around with it out." },
+    { "text": "别忘了把衣服的标签塞进去，我可不想带着它到处走。" },
 	{
-      "text": "Chestplates, important to protect your important chest organs. And look mighty fine while doing so.", "paragraph": true
+      "text": "背心是保护上身的重要防具，而且看起来也很帅。", "paragraph": true
     }
   ],
   "properties": [

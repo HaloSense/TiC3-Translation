@@ -1,16 +1,16 @@
 {
   "tool": "tconstruct:travelers_boots",
   "text": [
-    { "text": "These boots are made for walkin', and that's just what they'll do." },
+    { "text": "这双靴子为行走而生，而这正是它们的使命。" },
 	{
-      "text": "Every adventurer needs a good pair of stylish, customizable boots to start their journey", "paragraph": true
+      "text": "每个冒险家都需要一双时髦且可定制的靴子来开始他们的旅程。", "paragraph": true
     }
   ],
   "properties": [
-    "Low Armor",
-	"Low Durability",
-    "3 Upgrade Slots",
-    "2 Defense Slots",
-    "1 Ability Slot"
+    "低护甲值",
+	  "低耐久值",
+    "3个升级槽",
+    "2个防御槽",
+    "1个能力槽"
   ]
 }
