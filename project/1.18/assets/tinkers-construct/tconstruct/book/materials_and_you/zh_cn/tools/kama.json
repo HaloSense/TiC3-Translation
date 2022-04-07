@@ -1,0 +1,13 @@
+{
+  "tool": "tconstruct:kama",
+  "text": [
+    {
+      "text": "短刃镰是一种精准的收割用工具，可以用来收割植物和给动物剪毛。"
+    }
+  ],
+  "properties": [
+    "Interact with crops to harvest them",
+    "Shears blocks and animals",
+    "Effective on plants"
+  ]
+}
