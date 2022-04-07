@@ -2,7 +2,7 @@
   "tool": "tconstruct:hand_axe",
   "text": [
     {
-      "text": "The Hand Axe is a basic chopping tool. It is effective on wood and leaves. It works as a weapon or a tool, or both. The choice is yours."
+      "text": "短柄斧是最基本的伐木工具，可以高效地破坏木质方块和树叶。手斧既可以用作工具也可以用作武器，或者两者皆有。选择权在你。"
     },
 	 {
       "text": "\n"
@@ -10,9 +10,9 @@
   
   ],
   "properties": [
-    "Basic mining tool",
-    "Effective on wood",
-    "Breaks leaves really fast",
-	"Strips woods logs with ease"
+    "基础挖掘工具",
+    "对木质方块有效",
+    "可以快速破坏树叶",
+    "可以轻松给原木去皮"
   ]
 }

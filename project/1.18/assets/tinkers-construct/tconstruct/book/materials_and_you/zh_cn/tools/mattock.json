@@ -2,18 +2,18 @@
   "tool": "tconstruct:mattock",
   "text": [
     {
-      "text": "The Mattock is a versatile tool. It is effective on logs and dirt."
+      "text": "鹤嘴锄是一种多功能工具，对木头和泥土很有效。"
     },
     {
       "text": "\n"
     },
     {
-      "text": "It can create the farm of your dreams."
+      "text": "挖出通往荣耀之路。"
     }
   ],
   "properties": [
-    "Tills dirt",
-    "Effective on dirt and logs",
-    "Extra knockback"
+    "可以挖出土径",
+    "可以快速破坏泥土和木头",
+    "额外的击退效果"
   ]
 }

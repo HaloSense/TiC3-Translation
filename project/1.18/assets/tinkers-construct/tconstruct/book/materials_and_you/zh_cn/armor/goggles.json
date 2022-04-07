@@ -1,9 +1,9 @@
 {
   "tool": "tconstruct:travelers_helmet",
   "text": [
-    { "text": "Goggles fit for a King, or Lemmings, or King Lemmings." },
+    { "text": "它适用于“King”或是“Lemmings”亦或是“King Lemmings”。" },
 	{
-      "text": "A good pair of goggles provide for safer adventures, easier sight, and the makings of a King.", "paragraph": true
+      "text": "一副好的护目镜可以让你的冒险更加安全，也更容易看清东西，并拥有一股国王（King）的气质。", "paragraph": true
     }
   ],
   "properties": [

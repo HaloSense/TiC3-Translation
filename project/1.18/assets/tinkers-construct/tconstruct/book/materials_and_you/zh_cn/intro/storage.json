@@ -1,15 +1,15 @@
 {
-  "title": "Storage Chests",
+  "title": "存储箱",
   "text": [
     {
-      "text": "So, you want to store your extra parts in a special chest, eh? If not, too bad you have the option anyway. "
+      "text": "所以，你想把多余的部件放在一个专门的箱子里，是这样吗？不是这样啊……虽然不建议，不过也是你的选择吧。"
     },
     {
-      "text": "Part chests allow you to store an abundance of extra parts you may have. Each slot can hold a stack of 8 parts max. If you need more than that, you're doing something wrong or have very convoluted recipes.",
+      "text": "部件箱可以储存大量额外的部件。每个槽位最多可容纳8个部件。什么？这些还远远不够？要么是你搞错了什么，要么是你做的东西太复杂了。",
       "paragraph": true
     },
     {
-      "text": "Oh, that chest is too restrictive? Try the tinkers' chest! It can store any item in a total of 64 slots, though each slot holds just 16 items.",
+      "text": "箱子太小了？来试试工匠箱吧！它总共有64个槽位，并且可以存储任何东西，不过每个槽位却只能存储16个物品。",
       "paragraph": true
     }
   ]
