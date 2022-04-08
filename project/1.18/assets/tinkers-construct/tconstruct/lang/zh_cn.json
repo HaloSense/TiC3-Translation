@@ -270,7 +270,7 @@
 
   "_comment": "Small Head Gold Casts",
 
-  "pattern.tconstruct.pickaxe_head": "镐头",
+  "pattern.tconstruct.pick_head": "镐头",
   "pattern.tconstruct.small_axe_head": "小型斧刃",
   "pattern.tconstruct.small_blade": "小型剑刃",
   "pattern.tconstruct.sign_head": "牌板",
