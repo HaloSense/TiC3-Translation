@@ -1852,7 +1852,7 @@
   "modifier.tconstruct.frost_walker.description": "让水方块暂时冻结",
   "modifier.tconstruct.path_maker": "土径行者",
   "modifier.tconstruct.path_maker.flavor": "请带路吧",
-  "modifier.tconstruct.path_maker.description": "在你所行之处生成草径",
+  "modifier.tconstruct.path_maker.description": "在你所行之处生成土径",
   "modifier.tconstruct.plowing": "耕犁",
   "modifier.tconstruct.plowing.flavor": "拖拉机发明于1892年",
   "modifier.tconstruct.plowing.description": "耕耘你所行之处",
