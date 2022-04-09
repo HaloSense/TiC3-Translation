@@ -789,7 +789,7 @@
   "block.tconstruct.tinkers_chest.tooltip": "可容纳64组物品，每组16个",
 
   "block.tconstruct.cast_chest": "铸模箱",
-  "block.tconstruct.cast_chest.tooltip": "存储所有可多次使用的铸模",
+  "block.tconstruct.cast_chest.tooltip": "存储所有可重复使用的铸模",
 
   "item.tconstruct.pattern": "模具",
 
