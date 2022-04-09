@@ -1,5 +1,5 @@
 {
-  "title": "Skyslime Geodes",
+  "title": "碧空黏液水晶洞",
   "image": {
     "file": "tconstruct:book/images/geodes/skyslime.png",
     "width": 180,
@@ -7,7 +7,7 @@
   },
   "text": [
     {
-      "text": "Skyslime geodes are found in caves near the surface, and rarely even I have seen one on the surface leading me to believe they might have origins in space. For some reason the geodes are often cold even in warm biomes, leading to packed ice forming around the crystals."
+      "text": "碧空黏液水晶洞在临近地表的洞穴中被发现。极少数时候，我甚至在地表也见到了这种洞穴，这不由得让我怀疑他们起源于太空。由于某些原因，即使在温暖的生物群落中，这些水晶洞也往往很冷，导致其周围形成了大量的冰。"
     }
   ]
 }
