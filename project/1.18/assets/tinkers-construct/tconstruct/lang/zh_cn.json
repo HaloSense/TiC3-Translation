@@ -2333,7 +2333,7 @@
   "itemGroup.tconstruct.gadgets": "匠魂丨器物",
 
   "gui.tconstruct.crafting_station": "工作站",
-  "gui.tconstruct.crafting_station.uncraftable": "玩家目前尚无法制作该物品",
+  "gui.tconstruct.crafting_station.uncraftable": "玩家尚无法制作该物品",
 
   "gui.tconstruct.part_builder": "部件制造台",
   "gui.tconstruct.part_builder.info": "在这里你能制作工具部件，从而实现你的工匠之梦。\n\n要制作一个工具部件，你需要将模具放入左侧的空槽，并选择目标部件类型。接着在右侧的槽中放入材料，即可制成对应材料的对应部件。",
