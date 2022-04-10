@@ -1,8 +1,8 @@
 {
-  "title": "Puny Smelting Crafting",
+  "title": "入门熔炼术",
   "recipe": "tconstruct:common/puny_smelting",
   "grid_size": "small",
   "description": [
-    { "text": "Smelting and Casting guidebook for beginners. First in a series by Thruul M'Gon about the smeltery." }
+    { "text": "初学者的冶炼和铸造指南，Thruul M'Gon所著 系列中首本探讨冶炼炉的书籍。" }
   ]
 }

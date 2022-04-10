@@ -1,5 +1,5 @@
 {
-  "title": "Part Swapping",
+  "title": "部件替换",
   "image": {
     "file": "tconstruct:book/images/part_swapping.png",
     "width": 136,
@@ -7,7 +7,7 @@
   },
   "text": [
     {
-      "text": "Ever wish you could undo a past mistake? Luckily you can on tools. If you want to change the material of one of the parts, place the tool with the desired new part in the tinker station. For tools that have multiple of the same part, try a few different slots to replace the right one.",
+      "text": "是否曾想挽回你所犯下的错误？值得庆幸的是，在制作工具这件事上是可以补救的。如果你想替换其中一个部件的材料，把工具和替换用的部件放在工匠站里即可。如果一个工具有多个同种部件，把替换用部件在几个槽位里都试试，就可以替换掉想要替换的部件。",
       "paragraph": false
     }
   ]

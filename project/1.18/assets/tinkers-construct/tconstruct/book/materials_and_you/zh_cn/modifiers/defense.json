@@ -1,15 +1,15 @@
 {
-  "title": "Defense Modifiers",
+  "title": "防御强化",
   "text": [
     {
-      "text": "Defense are a type of modifier exclusive to armor, boosting protection against particular threats such as fire or knockback. They provide another way to customize armor as most armor types lack material traits."
+      "text": "防御是一种专用于盔甲的特殊强化，增强对于特殊攻击，诸如火焰，击退等的保护。因为绝大多数类型的盔甲都缺乏材料特性，这算是提供了另一种自定义盔甲的途径。"
     },
     {
-      "text": "Like many other modifier types, defense modifiers require defense slots to be applied. Typically, armor with a large number of defense slots start with fewer upgrade slots, meaning functionality is sacrificed for protection.",
+      "text": "同许多其他的强化属性一样，加持防御强化会消耗防御槽。很显然，盔甲的防御槽越多，那么升级槽也就越少，这算是牺牲了功能而获得了保护。",
       "paragraph": true
     },
 	 {
-      "text": "Mighty Smelting also has a full list of defense modifiers available on tools, along with the Encyclopedia of Tinkering.",
+      "text": "《大师熔炼术》有着一整套可用于工具的防御强化列表，《工匠大百科》也有介绍。",
       "paragraph": true
     }
   ]
