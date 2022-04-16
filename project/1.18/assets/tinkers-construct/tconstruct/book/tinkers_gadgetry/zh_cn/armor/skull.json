@@ -1,13 +1,13 @@
 {
   "tool": "tconstruct:slime_helmet",
   "text": [
-    { "text": "I have found enderslime can be used to mimic the effects of monsters with the proper focus such as a skull." },
-    { "text": "The skulls I have tested are described in the next section of the book.", "paragraph": true }
+    { "text": "我发现只要有一个合适的触媒，比如头颅，就可以使用末影黏液来模仿怪物的效果。" },
+    { "text": "在下一章节，我会写到一些我测试过的黏液头颅。", "paragraph": true }
   ],
   "properties": [
-    "High Durability",
-    "5 Upgrade Slots",
-    "0 Defense Slots",
-    "1 Ability Slot"
+    "高耐久值",
+    "5个升级槽",
+    "无防御槽",
+    "1个能力槽"
   ]
 }
