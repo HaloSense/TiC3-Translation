@@ -1,15 +1,15 @@
 {
-  "title": "Copper Cans",
+  "title": "铜罐",
   "text": [
     {
-      "text": "Copper cans (and buckets!) can be used to manually transfer fluids around."
+      "text": "铜罐（桶当然也行！）可用于手动转移流体。"
     },
     {
-      "text": "Copper cans hold 1 ingot worth of fluid.",
+      "text": "铜罐能装下1锭量的流体。",
       "paragraph": true
     },
     {
-	    "text": "Copper cans will stack up to 16.",
+      "text": "铜罐的堆叠数量为16个。",
       "paragraph": true
     }
   ]

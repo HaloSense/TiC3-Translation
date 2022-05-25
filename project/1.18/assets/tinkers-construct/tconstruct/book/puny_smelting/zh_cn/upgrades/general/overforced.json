@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:overforced",
   "text": [
     {
-      "text": "Overforced... what a name, using too much force?"
+      "text": "超强化\ue908\ue909好名字，但是不是强化过头了？"
     }
   ],
   "effects": [
-     "Increases capacity for overslime",
-    "Multiple levels, each level increases overslime capacity further",
-    "Requires 1 Upgrade Slot per level"
+    "增加黏液覆层的厚度",
+    "多个等级，每级增加黏液覆层的厚度",
+    "每级需要1个升级槽"
   ]
 }

@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:dyed",
   "text": [
     {
-      "text": "Does it come in black?"
+      "text": "有黑色的吗？"
     }
   ],
   "effects": [
-    "Can use dyes to change the color of traveler's gear",
-    "Multi-use",
-    "Slotless"
+    "可以用染料改变旅行者套装的颜色",
+    "多次使用",
+    "无需槽位"
   ]
 }

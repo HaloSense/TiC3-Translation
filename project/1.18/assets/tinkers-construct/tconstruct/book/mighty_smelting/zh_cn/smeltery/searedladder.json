@@ -1,9 +1,9 @@
 {
-  "title": "Seared Ladder",
+  "title": "焦黑梯子",
   "item": "tconstruct:seared_ladder",
   "text": [
     {
-      "text": "The seared ladder can be used to easily climb up or out of your smeltery, useful for if you plan to build it bigger later!",
+      "text": "你可以用焦黑梯子爬到冶炼炉上面或从里面爬出来，这对后续加盖冶炼炉十分有用！",
       "paragraph": true
     }
   ]

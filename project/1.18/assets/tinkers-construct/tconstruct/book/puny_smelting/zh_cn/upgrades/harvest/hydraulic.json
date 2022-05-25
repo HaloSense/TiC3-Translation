@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:hydraulic",
   "text": [
     {
-      "text": "Using the magic of pumps and fluids you can move things with ease. I mean you can just not in this case."
+      "text": "使用泵和流体的神奇魔力轻松移动物体。我的意思是你的确可以这样做，但在这里行不通。"
     }
   ],
   "effects": [
-    "Mines faster underwater or in the rain",
-    "Multiple levels, increases speed further with each level",
-    "Requires 1 Upgrade Slot per level"
+    "在水下或在雨中挖掘更迅速",
+    "多个等级，每级增加挖掘速度",
+    "每级需要1个升级槽"
   ]
 }

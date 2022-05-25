@@ -2,14 +2,14 @@
   "modifier_id": "tconstruct:revitalizing",
   "text": [
     {
-      "text": "Jeweled apples, what a throwback."
+      "text": "宝钻苹果，回归本源。"
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Can apply levels incrementally",
-    "Maximum of 2 levels on helmets or boots",
-    "Maximum of 3 levels on chestplates or leggings",
-    "Requires 1 defense slot"
+    "多个等级",
+    "加持于头盔或靴子上时最多2级",
+    "加持于胸甲或护腿上时最多3级",
+    "需要1个防御槽"
   ]
 }

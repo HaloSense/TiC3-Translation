@@ -2,13 +2,13 @@
   "modifier_id": "tconstruct:emerald",
   "text": [
     {
-      "text": "A villager's best friend, don't let the villagers see you applying this! These aren't your lucky charms."
+      "text": "村民最好的朋友，但别让村民知道你加持了这个！这可不是什么好运符。"
     }
   ],
   "effects": [
-    "Increases tool durability depending on base durability",
-    "Increases conditional damage and mining speed",
-    "Single Level",
-    "Requires 1 Upgrade Slot"
+    "根据工具自身耐久值增加耐久值",
+    "增加特殊种类的伤害和挖掘速度",
+    "单个等级",
+    "需要1个升级槽"
   ]
 }

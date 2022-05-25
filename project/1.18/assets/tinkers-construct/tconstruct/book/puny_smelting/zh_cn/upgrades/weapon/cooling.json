@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:cooling",
   "text": [
     {
-      "text": "The best way to beat the fires of nether is to freeze them, extinguishing their eternal flame."
+      "text": "反制下界烈火的最好方式就是冷冻它们，熄灭它们的永恒火焰。"
     }
   ],
   "effects": [
-    "Increases damage to fire based creatures",
-	"Multiple levels, each level increases damage further",
-    "Requires 1 Upgrade Slot per level"
+    "增加对火生生物的伤害",
+	  "多个等级，每级增加对火生生物的伤害",
+    "每级需要1个升级槽"
   ]
 }

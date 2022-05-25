@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:padded",
   "text": [
     {
-      "text": "A little bit of floofhips never hurt anyone."
+      "text": "一层毛绒软垫不会导致任何人受伤。"
     }
   ],
   "effects": [
-    "Reduces knockback of tool",
-    "Multiple levels, each level decreases knockback further",
-    "Requires 1 Upgrade Slot per level"
+    "减少工具的击退",
+    "多个等级，每级减少工具的击退",
+    "每级需要1个升级槽"
   ]
 }

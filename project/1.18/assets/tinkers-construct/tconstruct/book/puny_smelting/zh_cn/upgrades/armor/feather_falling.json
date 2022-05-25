@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:feather_falling",
   "text": [
     {
-      "text": "Lighter than a feather, but more than twice as deadly."
+      "text": "比羽毛更轻，也更致命。"
     }
   ],
   "effects": [
-    "Reduces fall damage",
-	"Multiple levels, each level decreases fall damage further",
-	"Requires 1 Upgrade Slot per level"
+    "减少摔落伤害",
+    "多个等级，每级减少更多摔落伤害",
+    "每级需要1个升级槽"
   ]
 }

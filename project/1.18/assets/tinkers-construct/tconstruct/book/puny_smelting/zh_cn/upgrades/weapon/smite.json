@@ -2,16 +2,16 @@
   "modifier_id": "tconstruct:smite",
   "text": [
     {
-      "text": "Fear me undead..."
+      "text": "畏惧我，亡灵们\ue908\ue909"
     },
     {
-      "text": "For I wield the power of melons infused with gold! Perhaps golden melon armor would make them stay away from me.",
+      "text": "因我掌握镶金西瓜的力量！也许闪烁的西瓜片能让它们远离我。",
       "paragraph": true
     }
   ],
   "effects": [
-    "Increases damage to the undead",
-    "Multiple levels, each level further increases damage",
-    "Requires 1 Upgrade Slot per level"
+    "增加对亡灵生物的伤害",
+    "多个等级，每级增加对亡灵生物的伤害",
+    "每级需要1个升级槽"
   ]
 }

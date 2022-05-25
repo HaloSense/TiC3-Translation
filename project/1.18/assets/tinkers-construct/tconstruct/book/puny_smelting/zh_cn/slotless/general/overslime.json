@@ -2,13 +2,13 @@
   "modifier_id": "tconstruct:overslime",
   "text": [
     {
-      "text": "This upgrade is a bit over the top, wouldn't you say?"
+      "text": "这个强化挺过火的，不是吗？"
     }
   ],
   "effects": [
-    "Adds an overslime bar which is consumed before durability",
-    "Recharged with slime crystals",
-    "Different slime crystals recharge different amounts",
-    "Applies debuff to tools without slimy materials"
+    "增加一层黏液覆层，其优先于耐久被消耗",
+    "使用黏液水晶重新覆层",
+    "不同黏液水晶提供的覆层厚度不同",
+    "若失去黏液覆层，工具获得减益"
   ]
 }

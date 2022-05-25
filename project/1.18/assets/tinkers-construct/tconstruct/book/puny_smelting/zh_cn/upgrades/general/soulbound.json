@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:soulbound",
   "text": [
     {
-      "text": "Infusing your soul with an object doesn't sound healthy. But it is rather useful!"
+      "text": "把你的灵魂注入某个物品听上去对身体不好。但还挺有用的！"
     }
   ],
   "effects": [
-    "Tool will remain with you upon an untimely demise",
-    "Single Level",
-    "Requires 1 Upgrade Slot"
+    "在你死后工具会留在你身上",
+    "单个等级",
+    "需要1个升级槽"
   ]
 }

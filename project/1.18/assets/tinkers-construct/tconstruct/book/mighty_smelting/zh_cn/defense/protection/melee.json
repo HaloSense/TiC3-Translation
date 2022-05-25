@@ -2,14 +2,13 @@
   "modifier_id": "tconstruct:melee_protection",
   "text": [
     {
-      "text": "Mobile punching bag."
+      "text": "可移动的沙袋。"
     }
-   
   ],
   "more_text_space": true,
   "effects": [
-    "Decreases damage from swords, unarmed attacks, and more",
-    "Multiple levels, each level further decreases damage.",
-    "Requires 1 defense slot"
+    "减少来自剑、空手和其他物理近战来源的伤害",
+    "多个等级，每级增加防御能力",
+    "需要1个防御槽"
   ]
 }

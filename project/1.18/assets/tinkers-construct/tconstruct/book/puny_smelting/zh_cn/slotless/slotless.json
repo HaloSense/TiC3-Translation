@@ -1,11 +1,11 @@
 {
-  "title": "Slotless Modifiers",
+  "title": "无槽位强化",
   "text": [
     {
-      "text": "Run out of slots? Well good news, all of the modifiers in this section need no slots to apply, perhaps some may even give you more slots!"
+      "text": "升级槽不够了？好消息，好消息，这一节下的所有强化不需要槽位就能加持，也许还能给你更多槽位！"
     },
     {
-      "text": "It's slotless. You don't need an ability or upgrade slot to put it on? What more do you want? Cookies?",
+      "text": "它们是不需要槽位的。不消耗能力槽或升级槽就能加持。都这么值了你还要什么自行车？",
       "paragraph": true
     }
   ]

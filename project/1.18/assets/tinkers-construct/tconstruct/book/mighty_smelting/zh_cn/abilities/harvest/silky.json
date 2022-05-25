@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:silky",
   "text": [
     {
-      "text": "A nice comfortable modifier."
+      "text": "纵享丝滑。"
     }
   ],
   "effects": [
-    "Mined blocks drop themselves",
-    "Single Level",
-    "Requires 1 Ability Slot"
+    "采掘的方块掉落其自身",
+    "多个等级",
+    "每级需要1个能力槽"
   ]
 }

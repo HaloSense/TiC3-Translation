@@ -2,13 +2,13 @@
   "modifier_id": "tconstruct:luck",
   "text": [
     {
-      "text": "In my experience, there's no such thing as luck."
+      "text": "就我经历而言，幸运根本不存在。"
     }
   ],
   "effects": [
-    "Increases mob drops and block drops",
-    "Maximum of 3 levels, different recipe for each level",
-    "Different recipe for leggings",
-    "First level requires 1 ability slot"
+    "增加生物和方块掉落",
+    "最多3级，每级配方不同",
+    "护腿的配方与其他的不同",
+    "第一级需要1个能力槽"
   ]
 }

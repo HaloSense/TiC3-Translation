@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:respiration",
   "text": [
     {
-      "text": "Who needs air to breathe anyway."
+      "text": "谁呼吸还需要空气啊。"
     }
   ],
   "effects": [
-    "Reduces air consumption underwater", 
-    "Multiple levels, each level further decreases air consumption",
-    "Requires 1 upgrade slot per level"
+    "减少水下氧气消耗", 
+    "多个等级，每级减少氧气消耗",
+    "每级需要1个升级槽"
   ]
 }

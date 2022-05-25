@@ -2,15 +2,15 @@
   "modifier_id": "tconstruct:antiaquatic",
   "text": [
     {
-      "text": "The enemies of the sea tremble in fear from those wielding weapons with this trait. "
+      "text": "手持水生杀手，海敌为之颤抖。"
     },
     {
-      "text": "Disclaimer: You are a horrible person for using this on fish, turtles, dolphins, or any other peaceful sea life."
+      "text": "免责声明：对鱼、海龟、海豚或所有其他友好的水生生物使用武器的人，你的良心不会痛吗？"
     }
   ],
   "effects": [
-    "Increases damage to sea creatures",
-	"Multiple levels, each level increases damage further",
-    "Requires 1 Upgrade Slot per level"
+    "增加对水生生物的伤害",
+    "多个等级，每级增加对水生生物的伤害",
+    "每级需要1个升级槽"
   ]
 }

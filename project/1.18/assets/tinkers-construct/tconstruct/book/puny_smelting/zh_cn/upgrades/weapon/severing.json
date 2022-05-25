@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:severing",
   "text": [
     {
-      "text": "Who knew you could blow heads clean off with some well placed explosives? Just a little off the top."
+      "text": "谁会知道放在恰当位置的爆炸物就能完整地把头割下来呢？在顶端来一点就行了。"
     }
   ],
   "effects": [
-    "Enemies drop their heads",
-    "Multiple levels, each level increases decapitation chance further",
-	"Requires 1 Upgrade Slot per level"
+    "敌人会掉落它们的头颅",
+    "每个等级，每级增加斩首的概率",
+    "每级需要1个升级槽"
   ]
 }

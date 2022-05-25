@@ -2,13 +2,13 @@
   "modifier_id": "tconstruct:golden",
   "text": [
     {
-      "text": "Piglins love that drip."
+      "text": "猪灵的最爱。"
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Piglins will not attack you",
-    "Single level",
-    "Requires 1 defense slot"
+    "猪灵不会攻击你",
+    "单个等级",
+    "需要1个防御槽"
   ]
 }

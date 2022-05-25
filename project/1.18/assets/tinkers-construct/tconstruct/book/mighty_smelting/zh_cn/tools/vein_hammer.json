@@ -2,25 +2,25 @@
   "tool": "tconstruct:vein_hammer",
   "text": [
     {
-      "text": "The vein hammer is a broad mining tool. It harvests blocks of the same type in veins."
+      "text": "矿脉锤是一种大型采掘工具。它可以同时采掘大量同种方块。"
     },
     {
       "text": "\n"
     },
-	{
-      "text": "It is optimal for getting all ores in a vein in one hit."
+	  {
+      "text": "可以一次采掘矿脉内的所有矿石。"
     },
 	{
       "text": "\n"
     },
     {
-      "text": "Disclaimer: Thruul Industries is not responsible for mass vein mining of property."
+      "text": "免责声明：Thruul工业不对大量误掘效用方块的行为负责。"
     }
   ],
   "properties": [
-    "Advanced mining tool",
-    "Vein mining",
-    "Effective on stone and ores",
-    "Bonus piercing damage"
+    "高级采掘工具",
+    "矿脉采掘",
+    "对石头和矿石有效",
+    "额外穿刺伤害"
   ]
 }

@@ -2,13 +2,13 @@
   "modifier_id": "tconstruct:flamewake",
   "text": [
     {
-      "text": "Who thought it was a good idea to combine flint and bronze with boots? I cannot safely step anywhere now!"
+      "text": "是谁觉得把靴子和焦砖打火石绑一起是个好点子的？现在完全没有歇脚的地方了！"
     }
   ],
   "effects": [
-    "Leaves fires where you walk",
-    "Area boosted by expanded",
-    "Maximum of 1 level",
-    "Requires 1 ability slot"
+    "在走过的路上留下火焰",
+    "“延展”强化可以扩大点火范围",
+    "单个等级",
+    "需要1个能力槽"
   ]
 }

@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:aqua_affinity",
   "text": [
     {
-      "text": "An alluring attunement to the aquaeous area that anti activates all air afflicitions."
+      "text": "反制潜水症。"
     }
   ],
   "effects": [
-    "Increases underwater mining speed",
-    "Single level",
-    "Requires 1 ability slot"
+    "增加水下挖掘速度",
+    "单个等级",
+    "需要1个能力槽"
   ]
 }

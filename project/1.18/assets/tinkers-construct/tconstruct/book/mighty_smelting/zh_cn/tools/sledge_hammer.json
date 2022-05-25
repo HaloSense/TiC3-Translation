@@ -2,19 +2,19 @@
   "tool": "tconstruct:sledge_hammer",
   "text": [
     {
-      "text": "The Sledge Hammer is a broad mining tool. It harvests blocks in a wide range and is effective against undead."
+      "text": "锤是一种大型采掘工具。能同时挖掘较大范围的方块，对亡灵生物特攻。"
     },
     {
       "text": "\n"
     },
     {
-      "text": "It is optimal for mining out large areas and long mining trips."
+      "text": "采掘大型区域和长时间下矿的必备工具。"
     }
   ],
   "properties": [
-    "Advanced mining tool",
-    "3x3 AoE Mining",
-    "Effective on stone and ores",
-    "Starts with Smite II"
+    "高级采掘工具",
+    "3x3范围采掘",
+    "对石头和矿石有效",
+    "自带亡灵杀手 II"
   ]
 }

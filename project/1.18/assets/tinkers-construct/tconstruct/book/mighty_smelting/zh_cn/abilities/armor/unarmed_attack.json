@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:unarmed",
   "text": [
     {
-      "text": "Everybody is Kung Fu Fighting."
+      "text": "人人都是功夫高手~♪"
     }
   ],
   "effects": [
-    "Increases unarmed damage",
-    "Single level",
-    "Requires 1 ability slot"
+    "增加空手造成的伤害",
+    "单个等级",
+    "需要1个能力槽"
   ]
 }

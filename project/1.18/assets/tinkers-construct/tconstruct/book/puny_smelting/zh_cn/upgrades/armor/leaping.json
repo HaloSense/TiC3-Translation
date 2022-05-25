@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:leaping",
   "text": [
     {
-      "text": "Leap for the stars, and if you can not reach them, climb a mountain then try and reach them."
+      "text": "危楼高百尺，手可摘星辰。摘不到就跳起来摘。"
     }
   ],
   "effects": [
-    "Increases jump height and safe fall height",
-    "Multiple levels, each level increases jump and fall damage height further",
-    "Requires 1 upgrade slot per level"
+    "增加跳跃高度与安全摔落距离",
+    "多个等级，每级增加跳跃高度与安全摔落距离",
+    "每级需要1个升级槽"
   ]
 }

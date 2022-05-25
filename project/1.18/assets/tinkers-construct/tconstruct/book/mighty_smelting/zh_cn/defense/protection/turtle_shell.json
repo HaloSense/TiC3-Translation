@@ -2,13 +2,13 @@
   "modifier_id": "tconstruct:turtle_shell",
   "text": [
     {
-      "text": "Does not protect you from green, red, or blue shells."
+      "text": "对超级马里奥中红绿蓝龟壳的伤害无效。"
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Decreases damage underwater and increases swim speed",
-    "Multiple levels, each level further increases protection and swim speed",
-    "Requires 1 defense slot"
+    "减少处于水下时所受伤害，增加游泳速度",
+    "多个等级，每级增加防御能力与游泳速度",
+    "需要1个防御槽"
   ]
 }

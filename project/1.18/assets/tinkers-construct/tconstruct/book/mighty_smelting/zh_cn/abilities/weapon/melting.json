@@ -2,13 +2,13 @@
   "modifier_id": "tconstruct:melting",
   "text": [
     {
-      "text": "Smeltery not portable enough? Try turning your tool into a handheld smeltery!"
+      "text": "冶炼炉不好挪？可以把你的工具变成手持冶炼炉！"
     }
   ],
   "effects": [
-    "Melts attacked mobs into the tool's tank",
-    "Dropped items also are melted if possible",
-    "Tool can be emptied into a tank or a smeltery drain",
-    "Requires 1 Ability Slot, single level"
+    "将受攻击的生物熔炼入工具内部储罐",
+    "熔炼掉落物若其也可熔炼",
+    "工具可通过储罐或排液孔清空",
+    "需要1个能力槽，单个等级"
   ]
 }

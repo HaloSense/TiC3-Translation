@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:springy",
   "text": [
     {
-      "text": "Away your foes go, giving you enough time to turn heels and run, or heal."
+      "text": "弹飞你的敌人，给你充足的时间转身逃跑或者回复血量。"
     }
   ],
   "effects": [
-    "Provides a chance to knockback attackers",
-    "Multiple levels, each level further increases the chance to knockback",
-    "Requires 1 upgrade slot per level"
+    "有概率击退攻击者",
+    "多个等级，每级增加击退概率",
+    "每级需要1个升级槽"
   ]
 }

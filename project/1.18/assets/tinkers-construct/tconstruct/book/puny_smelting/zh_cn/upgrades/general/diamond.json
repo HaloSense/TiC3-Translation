@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:diamond",
   "text": [
     {
-      "text": "Diamonds are forever!"
+      "text": "钻石恒久远！"
     }
   ],
   "effects": [
-    "Increases durability, mining speed, and attack damage",
-    "Single Level",
-    "Requires 1 Upgrade Slot"
+    "增加耐久值、挖掘速度和攻击伤害",
+    "单个等级",
+    "需要1个升级槽"
   ]
 }

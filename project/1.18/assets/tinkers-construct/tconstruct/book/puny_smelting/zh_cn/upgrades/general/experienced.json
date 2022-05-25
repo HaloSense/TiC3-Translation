@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:experienced",
   "text": [
     {
-      "text": "You feel a little smarter with some experience under your belt."
+      "text": "经验在手，智慧我有。"
     }
   ],
   "effects": [
-    "Increases XP gain from blocks and mobs",
-    "Multiple levels, increases experience gained with each level",
-    "Requires 1 Upgrade Slot per level"
+    "增加从挖掘方块或击杀生物上获得的经验",
+    "多个等级，每级增加额外经验的数量",
+    "每级需要1个升级槽"
   ]
 }

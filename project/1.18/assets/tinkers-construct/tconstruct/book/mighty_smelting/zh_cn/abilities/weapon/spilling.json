@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:spilling",
   "text": [
     {
-      "text": "Kinda gross that your tool is leaking. But also very effective!"
+      "text": "工具漏液还挺恶心的。但也挺有用的！"
     }
   ],
   "effects": [
-    "Drains tank on attacking",
-    "Various effects based on fluid, including fire and poison",
-    "Requires 1 Ability Slot, single level"
+    "攻击时消耗储罐内液体",
+    "可通过液体达成多种效果，包括着火与中毒",
+    "需要1个能力槽，单个等级"
   ]
 }

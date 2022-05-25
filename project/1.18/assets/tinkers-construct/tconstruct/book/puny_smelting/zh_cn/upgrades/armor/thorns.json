@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:thorns",
   "text": [
     {
-      "text": "What a prick."
+      "text": "你这肉中刺。"
     }
   ],
   "effects": [
-    "Has a chance to damage attackers when hit",
-    "Multiple levels, each level further increases the chance",
-    "Requires 1 upgrade slot per level"
+    "被击中时有概率对攻击者造成伤害",
+    "多个等级，每级增加造成伤害的几率",
+    "每级需要1个升级槽"
   ]
 }

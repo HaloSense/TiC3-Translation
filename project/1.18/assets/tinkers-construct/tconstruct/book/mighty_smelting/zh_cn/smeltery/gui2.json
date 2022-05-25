@@ -1,15 +1,15 @@
 {
-  "title": "Smeltery GUI",
+  "title": "冶炼炉GUI",
   "text": [
     {
-      "text": "1: This is where your items go that you want smelted. The number of slots will change depending on the size of your smeltery."
+      "text": "1：这里是用来放被熔炼的物品的。槽位的个数会随着冶炼炉的大小改变而改变。"
     },
     {
-      "text": "2: This is where your molten materials can be seen. You can click on one to select it for pouring, hovering over the blank section will give you details about the capacity of the smeltery.",
+      "text": "2：这里是展示熔融材料的地方。点击其中一个能将其选为用于浇注的材料，将鼠标放在空白部分能显示关于冶炼炉容量的详细信息。",
       "paragraph": true
     },
     {
-      "text": "3: This is where you can see your fuel. Hovering over it will show the exact amount and type.",
+      "text": "3：这里是显示燃料的位置。将鼠标移至其上能显示燃料的种类与余量。",
       "paragraph": true
     }
   ]

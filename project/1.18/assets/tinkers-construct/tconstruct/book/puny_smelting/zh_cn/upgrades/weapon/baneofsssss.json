@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:bane_of_sssss",
   "text": [
     {
-      "text": "The best upgrade for those with arachnophobia or creeperphobia. Spiders and creepers beware."
+      "text": "对蜘蛛恐惧症和苦力怕恐惧症患者的良方。还请蜘蛛和苦力怕们小心。"
     }
   ],
   "effects": [
-    "Increases damage and applies slowness to spiders and creepery crawlies",
-	"Multiple levels, each level increases damage further",
-    "Requires 1 Upgrade Slot per level"
+    "增加对蜘蛛类与苦力怕类生物的伤害",
+	  "多个等级，每级增加对蜘蛛类与苦力怕类生物的伤害",
+    "每级需要1个升级槽"
   ]
 }

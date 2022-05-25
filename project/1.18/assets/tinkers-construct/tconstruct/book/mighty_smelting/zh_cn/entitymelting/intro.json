@@ -1,11 +1,11 @@
 {
-  "title": "Entity Melting",
+  "title": "实体熔炼",
   "image": {
     "file": "tconstruct:book/images/entitymelting.png"
   },
   "text": [
     {
-      "text": "The mighty smeltery can be used to melt away the useless part of entities in order to harvest their true insides."
+      "text": "冶炼炉可用于熔尽实体无用部分并收集其中精华。"
     }
   ]
 }

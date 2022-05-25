@@ -1,22 +1,22 @@
-intro=Introduction
-entity_melting=Entity Melting
-tier_three_materials=Tier 3 Materials
-tools=Broad Tools
-tools.subtext=Broad tools all require the use of a tinker's anvil to create
+intro=介绍
+entity_melting=实体熔炼
+tier_three_materials=三级材料
+tools=宽型工具
+tools.subtext=宽型工具需要工匠砧才能制作。
 
-smeltery=Smeltery
+smeltery=冶炼炉
 
-abilities=Abilities
-abilities.subtext=Abilities are more powerful than upgrades, but also have a more limited number of slots.
-abilities.group_general=General
-abilities.group_harvest=Harvest
-abilities.group_weapon=Weapon
-abilities.group_interact=Interact
-abilities.group_armor=Armor
-abilities.unarmed=Unarmed
-upgrades.subtext=Tools can be enhanced with upgrades, though only a limited number can be applied to each tool.
+abilities=能力
+abilities.subtext=能力强化的效果比升级强化更强大，但其槽位个数也更少。
+abilities.group_general=通用能力
+abilities.group_harvest=采掘能力
+abilities.group_weapon=武器能力
+abilities.group_interact=交互能力
+abilities.group_armor=盔甲能力
+abilities.unarmed=赤手空拳
+upgrades.subtext=工具可被升级强化，但同一把工具的升级次数是有限的。
 
-defense=Defense
-defense.subtext=Defense modifiers can only be applied to armor, using defense slots.
-defense.group_protection=Protection
-defense.group_special=Special
+defense=防御
+defense.subtext=防御强化只能被加持于盔甲，并且消耗防御槽。
+defense.group_protection=保护防御
+defense.group_special=特殊防御

@@ -1,15 +1,15 @@
 {
-  "title": "Operation",
+  "title": "操作方式",
   "text": [
     {
-      "text": "1: These 3 slots are where you put in what you want to melt. It may be ores, ingots, or anything else you feel like attempting to melt!"
+      "text": "1：这三个槽位是用来放被熔炼的物品的。可以是矿石、锭，或是任何你打算熔炼的东西！"
     },
     {
-      "text": "2: This is where your molten material will show. Remember that you may only have one molten material at a time in the melter.",
+      "text": "2：这里是展示熔融材料的地方。每个熔化炉中只能同时装有一种材料。",
       "paragraph": true
     },
     {
-      "text": "3: This is where your fuel shows. If you have a heater it will appear as shown and you will be able to insert any item that can be used as fuel. If you have a seared tank it will show a bar with liquid fuel in it.",
+      "text": "3：这是显示燃料的地方。如果下方是加热器，GUI会与图示一致，该槽位接受任何燃料。如果下方是燃料储罐，则该处会显示为一根内有燃料的竖条。",
       "paragraph": true
     }
   ]

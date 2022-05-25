@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:sharpness",
   "text": [
     {
-      "text": "The sharper the blade, the sharper the wielder."
+      "text": "剑刃越锋利，剑客越敏锐。"
     }
   ],
   "effects": [
-    "Increases damage of the tool",
-    "Multiple levels, each level further increases damage",
-    "Requires 1 Upgrade Slot per level"
+    "增加工具的攻击伤害",
+    "多个等级，每级增加攻击伤害",
+    "每级需要1个升级槽"
   ]
 }

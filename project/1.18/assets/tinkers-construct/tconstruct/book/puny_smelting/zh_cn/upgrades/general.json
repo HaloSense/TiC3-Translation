@@ -1,15 +1,15 @@
 {
-  "title": "General Upgrades",
+  "title": "通用升级",
   "text": [
     {
-      "text": "Upgrades are modifiers added to tools using upgrade recipes. Each tool has a limited number of upgrade slots to start, though the number of slots can be increased in a few ways."
-    },
-	{
-      "text": "Many of the upgrades listed in general, weapon, bonus damage, and general work on armor as well!",
-	  "paragraph": true
+      "text": "升级是通过升级配方加在工具上的强化。每个工具自带一定数量的升级槽，且可通过一些方法增加槽位数量。"
     },
     {
-      "text": " General upgrades work well on any tool! These upgrades will enhance your tool all around, by increasing its attack damage, mining speed, durability, and more!",
+      "text": "大部分升级可归类为通用、武器和额外伤害这三种，并且通用升级对盔甲也有效！",
+      "paragraph": true
+    },
+    {
+      "text": "通用升级对所有工具均有效！这些升级能在许多方面加强你的工具，如增加攻击伤害，挖掘速度，耐久值，和许多其他属性！",
       "paragraph": true
     }
   ]

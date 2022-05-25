@@ -1,5 +1,5 @@
 {
-  "title": "Smeltery GUI",
+  "title": "冶炼炉GUI",
   "image": {
     "file": "tconstruct:book/images/smeltergui.png",
     "width": 179,
@@ -7,7 +7,7 @@
   },
   "text": [
     {
-      "text": "Your basic smeltery GUI. No more, no less.",
+      "text": "最为基础的冶炼炉GUI。不多也不少。",
       "paragraph": true
     }
 	]

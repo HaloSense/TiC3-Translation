@@ -2,13 +2,13 @@
   "modifier_id": "tconstruct:frost_walker",
   "text": [
     {
-      "text": "Gain the ability to walk on water. Well, not exactly, but its pretty close."
+      "text": "行水面如履平地。虽然不完全是行水面，不过也差不多。"
     }
   ],
   "effects": [
-    "Water freezes as you walk",
-    "Area boosted by expanded",
-    "Maximum of 1 level",
-    "Requires 1 ability slot"
+    "使走过的水面冻结",
+    "“延展”强化可以扩大结冰范围",
+    "单个等级",
+    "需要1个能力槽"
   ]
 }

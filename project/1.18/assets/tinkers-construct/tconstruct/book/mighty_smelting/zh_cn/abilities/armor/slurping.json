@@ -2,16 +2,17 @@
   "modifier_id": "tconstruct:slurping",
   "text": [
     {
-      "text": "He was number one!"
+      "text": "他是第一名！"
     },
     {
-      "text": "Right clicking a tank with helmet fills it", "paragraph": true
+      "text": "手持头盔右击储罐以填充",
+      "paragraph": true
     }
   ],
   "effects": [
-    "Drink fluids stored in the helmlet",
-	"Keybind is used to drink",
-    "Single level",
-    "Requires 1 ability slot"
+    "饮用头盔中储存的流体",
+    "使用“头盔交互”按键饮用",
+    "单个等级",
+    "需要1个能力槽"
   ]
 }

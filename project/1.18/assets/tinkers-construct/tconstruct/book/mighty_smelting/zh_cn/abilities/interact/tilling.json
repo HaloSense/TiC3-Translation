@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:tilling",
   "text": [
     {
-      "text": "Don't waste diamonds on a hoe."
+      "text": "别老惦记你那【终极奉献】了。"
     }
   ],
   "effects": [
-     "Allows you to till the ground with your tool",
-    "Single Level",
-    "Requires 1 Ability Slot"
+    "允许使用该工具开垦耕地",
+    "单个等级",
+    "需要1个能力槽"
   ]
 }

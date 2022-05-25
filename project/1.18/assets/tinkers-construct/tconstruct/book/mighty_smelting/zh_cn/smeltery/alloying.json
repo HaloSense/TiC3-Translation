@@ -1,15 +1,15 @@
 {
-  "title": "Alloying",
+  "title": "合金",
   "text": [
     {
-      "text": "Alloying is a process that will allow you to combine your lesser materials into stronger, more powerful ones."
+      "text": "合金是将较低级材料融合成更为强力的材料的过程。"
     },
     {
-      "text": "In order to alloy all you have to do is find two materials that can be alloyed together, put them in a fueled smeltery, and watch as they melt together to form a new stronger material.",
+      "text": "你只需要找到几种可以合金的材料，将它们注入装填有燃料的冶炼炉，并静待它们融合为全新的强力材料。",
       "paragraph": true
     },
     {
-      "text": "Some materials may need hotter fuels in order to alloy.",
+      "text": "某些材料可能需要温度更高的燃料才能变成合金。",
       "paragraph": true
     }
   ]

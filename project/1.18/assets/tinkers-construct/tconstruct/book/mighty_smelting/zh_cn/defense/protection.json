@@ -1,6 +1,6 @@
 {
-  "title": "Protection Defense Modifiers",
+  "title": "保护防御",
   "text": [
-    { "text": "Protection defense modifiers increase resistance to a particular type of damage. All damage sources should fit into one of the five types, and types can be freely mixed on armor." }
+    { "text": "保护防御强化增强盔甲对某种伤害的防护。所有种类的伤害均可分为五种，对应的强化互不冲突。" }
   ]
 }
