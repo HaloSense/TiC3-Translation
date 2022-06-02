@@ -1,5 +1,5 @@
 {
-  "title": "Enderslime Islands",
+  "title": "末影黏液岛",
   "image": {
     "file": "tconstruct:book/images/islands/enderslime.png",
     "width": 180,
@@ -7,7 +7,7 @@
   },
   "text": [
     {
-      "text": "Enderslime islands can be found around the outer islands in the end as a breeding ground for ender slimes. I believe skyslimes and enderslimes were once the same before they came to our world, but living in their separate environments changed them."
+      "text": "末影黏液岛可以在末地外岛找到，是末影黏液的源产地。我认为，碧空史莱姆和末影史莱姆刚出现在我们的世界的时候，它们是一样的，不过不同的周边环境导致它们现在如此天差地别。"
     }
   ]
 }

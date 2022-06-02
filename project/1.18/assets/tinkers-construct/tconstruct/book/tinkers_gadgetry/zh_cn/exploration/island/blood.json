@@ -1,5 +1,5 @@
 {
-  "title": "Blood Islands",
+  "title": "黏血岛",
   "image": {
 	"file": "tconstruct:book/images/islands/blood.png",
     "width": 180,
@@ -7,7 +7,7 @@
   },
   "text": [
     {
-      "text": "These blood red islands are occasionally found in the lava oceans of the nether. They tend to have a higher concentration of magma cubes than the rest of the nether, and also include an odd variant of fungus that seems to be a source of ichor."
+      "text": "这些血红色的岛屿偶尔会生成在下界的岩浆海之上。和下界的其他地方相比，这里岩浆怪生成的概率更高。并且这个地方还会生成一种奇怪的菌类变种，灵浆这种材料似乎就是从这里来的。"
     }
   ]
 }
