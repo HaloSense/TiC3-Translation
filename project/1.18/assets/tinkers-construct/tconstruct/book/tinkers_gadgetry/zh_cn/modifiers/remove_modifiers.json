@@ -1,5 +1,5 @@
 {
-  "title": "Remove Modifiers",
+  "title": "移除强化",
   "image": {
     "file": "tconstruct:book/images/remove_modifiers.png",
     "width": 135,
@@ -7,7 +7,7 @@
   },
   "text": [
     {
-      "text": "I have discovered that it is possible to remove modifiers from tools using a wet sponge. Removing the modifier gives me back space for new modifiers, and some of the item can be salvaged as well. Based on where I scrub the tool and how many sponges are used, different modifiers are removed."
+      "text": "我发现用湿海绵可以去除工具上的强化。去除原有的强化会留下增加新强化的空间，有些用于强化的物品也可以回收。擦洗工具的位置和所用海绵的数量不同，能够去除的强化效果也有所不同。"
     }
   ]
 }
