@@ -1,11 +1,11 @@
 {
-  "title": "Slimeslings",
+  "title": "黏液弹弓",
   "item": {
     "tag": "tconstruct:slimeslings"
   },
   "text": [
     {
-      "text": "Slimeslings are my latest invention, allowing you to fling yourself or other creatures. Earth slime lets you kick off blocks to go great distances, skyslime does not send you as far but works in the air, ichor is effective for flinging enemies, and enderslime slings let you teleport across space. I am working on ways to apply modifiers to the sling to increase their power.",
+      "text": "弹弓是我的最新发明，可以用来弹飞你自己或者其他生物。大地黏液弹弓可以让你面对着地面弹射来进行远距离飞行；碧空黏液弹弓弹射距离没那么远，但它可以在空中使用；灵浆弹弓可以把敌人弹飞；末影黏液弹弓可以将你传送一定距离。我现在正在研究怎么强化这些弹弓。",
       "paragraph": true
     }
   ]
