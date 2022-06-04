@@ -6,8 +6,8 @@
     }
   ],
   "properties": [
-    "Interact with crops to harvest them",
-    "Shears blocks and animals",
-    "Effective on plants"
+    "和作物交互来收割它们",
+    "可以剪下方块或给动物剪毛",
+    "对植物很有效"
   ]
 }
