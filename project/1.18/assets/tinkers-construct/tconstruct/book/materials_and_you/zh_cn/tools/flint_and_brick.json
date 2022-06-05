@@ -2,18 +2,18 @@
   "tool": "tconstruct:flint_and_brick",
   "text": [
     {
-      "text": "Flint and Brick is an affordable tool effective for starting fires."
+      "text": "焦砖打火石是一种较为廉价的生火工具。"
     },
     {
       "text": "\n"
     },
     {
-      "text": "Unlike other most other tools, it is crafted in a crafting station or crafting table."
+      "text": "和大部分其他工具不同，焦砖打火石需要在工作站或工作台上合成。"
     }
   ],
   "properties": [
-    "Creates fires",
-    "Starts with fiery 1",
-    "Repaired using seared or scorched bricks"
+    "可以生火",
+    "自带怒火I",
+    "用焦黑砖或焦褐砖修复耐久度"
   ]
 }
