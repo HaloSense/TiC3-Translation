@@ -424,6 +424,39 @@
   "fluid.tconstruct.flowing_blazing_blood": "流动的烈焰血",
   "item.tconstruct.blazing_blood_bucket": "烈焰血桶",
 
+  "_comment": "Food",
+
+  "block.tconstruct.honey_fluid": "蜂蜜",
+  "fluid.tconstruct.honey": "蜂蜜",
+  "fluid.tconstruct.flowing_honey": "流动的蜂蜜",
+  "item.tconstruct.honey_bucket": "蜂蜜桶",
+
+  "block.tconstruct.beetroot_soup_fluid": "甜菜汤",
+  "fluid.tconstruct.beetroot_soup": "甜菜汤",
+  "fluid.tconstruct.flowing_beetroot_soup": "流动的甜菜汤",
+  "item.tconstruct.beetroot_soup_bucket": "甜菜汤桶",
+
+  "block.tconstruct.mushroom_stew_fluid": "蘑菇煲",
+  "fluid.tconstruct.mushroom_stew": "蘑菇煲",
+  "fluid.tconstruct.flowing_mushroom_stew": "流动的蘑菇煲",
+  "item.tconstruct.mushroom_stew_bucket": "蘑菇煲桶",
+
+  "block.tconstruct.rabbit_stew_fluid": "兔肉煲",
+  "fluid.tconstruct.rabbit_stew": "兔肉煲",
+  "fluid.tconstruct.flowing_rabbit_stew": "流动的兔肉煲",
+  "item.tconstruct.rabbit_stew_bucket": "兔肉煲桶",
+
+  "_comment": "Potion",
+
+  "fluid.tconstruct.potion": "药水",
+
+  "item.tconstruct.potion_bucket": "无法制作的药水桶",
+  "item.tconstruct.potion_bucket.effect.water": "药水桶",
+  "item.tconstruct.potion_bucket.contents": "%s桶",
+
+  "item.tconstruct.splash_bottle": "喷溅玻璃瓶",
+  "item.tconstruct.lingering_bottle": "滞留玻璃瓶",
+
   "_comment": "Slime",
 
   "block.tconstruct.blood_fluid": "血",
@@ -441,10 +474,10 @@
   "fluid.tconstruct.flowing_sky_slime": "流动的碧空黏液",
   "item.tconstruct.sky_slime_bucket": "碧空黏液桶",
 
-  "block.tconstruct.magma_fluid": "岩浆膏",
-  "fluid.tconstruct.magma": "岩浆膏",
-  "fluid.tconstruct.flowing_magma": "流动的岩浆膏",
-  "item.tconstruct.magma_bucket": "岩浆膏桶",
+  "block.tconstruct.magma_fluid": "岩浆",
+  "fluid.tconstruct.magma": "岩浆",
+  "fluid.tconstruct.flowing_magma": "流动的岩浆",
+  "item.tconstruct.magma_bucket": "岩浆桶",
 
   "block.tconstruct.ender_slime_fluid": "末影黏液",
   "fluid.tconstruct.ender_slime": "末影黏液",
@@ -829,12 +862,13 @@
   "item.tconstruct.slime_chestplate": "黏液鞘翅",
   "item.tconstruct.slime_leggings": "黏液壳",
   "item.tconstruct.slime_boots": "黏液靴子",
-  "item.tconstruct.slime_helmet.material.tconstruct.gunpowder": "苦力怕黏液头颅",
+  "item.tconstruct.slime_helmet.material.tconstruct.glass": "苦力怕黏液头颅",
   "item.tconstruct.slime_helmet.material.tconstruct.ender_pearl": "末影人黏液头颅",
   "item.tconstruct.slime_helmet.material.tconstruct.bone": "骷髅黏液头颅",
   "item.tconstruct.slime_helmet.material.tconstruct.bloodbone": "流浪者黏液头颅",
   "item.tconstruct.slime_helmet.material.tconstruct.necrotic_bone": "凋灵骷髅黏液头颅",
-  "item.tconstruct.slime_helmet.material.tconstruct.venom": "洞穴蜘蛛黏液头颅",
+  "item.tconstruct.slime_helmet.material.tconstruct.string": "蜘蛛黏液头颅",
+  "item.tconstruct.slime_helmet.material.tconstruct.darkthread": "洞穴蜘蛛黏液头颅",
   "item.tconstruct.slime_helmet.material.tconstruct.rotten_flesh": "僵尸黏液头颅",
   "item.tconstruct.slime_helmet.material.tconstruct.iron": "尸壳黏液头颅",
   "item.tconstruct.slime_helmet.material.tconstruct.copper": "溺尸黏液头颅",
@@ -848,7 +882,7 @@
 
   "item.tconstruct.repair_kit": "修补件",
 
-  "item.tconstruct.pickaxe_head": "镐头",
+  "item.tconstruct.pick_head": "镐头",
   "item.tconstruct.hammer_head": "锤头",
 
   "item.tconstruct.small_axe_head": "小型斧刃",
@@ -942,42 +976,42 @@
   "block.tconstruct.grout.tooltip": "我是一块砖！……",
 
   "block.tconstruct.seared_stone": "焦黑石头",
-  "block.tconstruct.seared_stone.tooltip": "构造冶炼炉的建材，安全可靠的装饰材料。",
+  "block.tconstruct.seared_stone.tooltip": "构造冶炼炉的建材。",
   "block.tconstruct.seared_stone_slab": "焦黑石头台阶",
   "block.tconstruct.seared_stone_stairs": "焦黑石头楼梯",
 
   "block.tconstruct.seared_cobble": "焦黑圆石",
-  "block.tconstruct.seared_cobble.tooltip": "构造冶炼炉的建材，安全可靠的装饰材料。",
+  "block.tconstruct.seared_cobble.tooltip": "构造冶炼炉的建材。",
   "block.tconstruct.seared_cobble_slab": "焦黑圆石台阶",
   "block.tconstruct.seared_cobble_stairs": "焦黑圆石楼梯",
   "block.tconstruct.seared_cobble_wall": "焦黑圆石墙",
 
   "item.tconstruct.seared_brick": "焦黑砖",
   "block.tconstruct.seared_bricks": "焦黑石砖",
-  "block.tconstruct.seared_bricks.tooltip": "构造冶炼炉的建材，安全可靠的装饰材料。",
+  "block.tconstruct.seared_bricks.tooltip": "构造冶炼炉的建材。",
   "block.tconstruct.seared_bricks_slab": "焦黑石砖台阶",
   "block.tconstruct.seared_bricks_stairs": "焦黑石砖楼梯",
   "block.tconstruct.seared_bricks_wall": "焦黑石砖墙",
 
   "block.tconstruct.seared_paver": "焦黑地砖",
-  "block.tconstruct.seared_paver.tooltip": "构造冶炼炉的建材，安全可靠的装饰材料。",
+  "block.tconstruct.seared_paver.tooltip": "构造冶炼炉的建材。",
   "block.tconstruct.seared_paver_slab": "焦黑地砖台阶",
   "block.tconstruct.seared_paver_stairs": "焦黑地砖楼梯",
 
   "block.tconstruct.seared_cracked_bricks": "裂纹焦黑石砖",
-  "block.tconstruct.seared_cracked_bricks.tooltip": "构造冶炼炉的建材，安全可靠的装饰材料。",
+  "block.tconstruct.seared_cracked_bricks.tooltip": "构造冶炼炉的建材。",
   "block.tconstruct.seared_fancy_bricks": "精致焦黑石砖",
-  "block.tconstruct.seared_fancy_bricks.tooltip": "构造冶炼炉的建材，安全可靠的装饰材料。",
+  "block.tconstruct.seared_fancy_bricks.tooltip": "构造冶炼炉的建材。",
   "block.tconstruct.seared_triangle_bricks": "三角纹焦黑石砖",
-  "block.tconstruct.seared_triangle_bricks.tooltip": "构造冶炼炉的建材，安全可靠的装饰材料。",
+  "block.tconstruct.seared_triangle_bricks.tooltip": "构造冶炼炉的建材。",
 
   "block.tconstruct.seared_glass": "焦黑玻璃",
-  "block.tconstruct.seared_glass.tooltip": "构造冶炼炉的建材，安全可靠的装饰材料。\n不能储存液体。",
+  "block.tconstruct.seared_glass.tooltip": "构造冶炼炉的建材。\n不能储存液体。",
   "block.tconstruct.seared_glass_pane": "焦黑玻璃板",
   "block.tconstruct.seared_glass_pane.tooltip": "无法用于构造冶炼炉。",
 
   "block.tconstruct.seared_ladder": "焦黑梯子",
-  "block.tconstruct.seared_ladder.tooltip": "可供攀爬的冶炼炉建材，安全可靠的装饰材料。",
+  "block.tconstruct.seared_ladder.tooltip": "可供攀爬的冶炼炉建材。",
 
   "block.tconstruct.seared_fuel_tank": "焦黑燃料储罐",
   "block.tconstruct.seared_fuel_tank.tooltip": "冶炼炉的心脏。\n被破坏时仍能保留其中的液体。",
@@ -1105,13 +1139,16 @@
   "gui.tconstruct.fluid.pane": "%s板",
   "gui.tconstruct.fluid.slimeball": "%s黏液球",
   "gui.tconstruct.fluid.brick": "%s砖",
+  "gui.tconstruct.fluid.bowl": "%s碗",
+  "gui.tconstruct.fluid.bottle": "%s瓶",
 
   "gui.tconstruct.fluid.hold_shift": "按住§e§oShift§r§7以桶为单位显示流体",
 
 
   "_comment": "Tinkers World",
 
-  "entity.tconstruct.earth_slime": "史莱姆",
+  "entity.tconstruct.earth_slime": "大地史莱姆",
+  "item.tconstruct.earth_slime_spawn_egg": "大地史莱姆刷怪蛋",
   "entity.tconstruct.sky_slime": "碧空史莱姆",
   "item.tconstruct.sky_slime_spawn_egg": "碧空史莱姆刷怪蛋",
   "entity.tconstruct.ender_slime": "末影史莱姆",
@@ -1321,13 +1358,15 @@
 
   "material.tconstruct.necrotic_bone": "噬生之骨",
   "material.tconstruct.necrotic_bone.flavor": "你是故意挑我骨头是不是？",
-  "material.tconstruct.necrotic_bone.encyclopedia": "每级最高恢复所造成伤害5%的生命值",
+  "material.tconstruct.necrotic_bone.encyclopedia": "按致命一击造成的伤害的百分比治疗",
   "material.tconstruct.necrotic_bone.skull_flavor": "惊悚恐怖骷髅头！",
   "material.tconstruct.necrotic_bone.skull_encyclopedia": "普通攻击给予敌人凋零效果。饮用牛奶后可给予凋零II。",
 
   "material.tconstruct.string": "线",
   "material.tconstruct.string.flavor": "理论上的最佳材料。",
   "material.tconstruct.string.encyclopedia": "可以在工匠站和工作台上使用线修复工具",
+  "material.tconstruct.string.skull_flavor": "蜘蛛是药水大师，也许它们的秘密可以帮助我增强药水……",
+  "material.tconstruct.string.skull_encyclopedia": "使正面药水效果的持续时间延长25%",
 
   "material.tconstruct.leather": "皮革",
   "material.tconstruct.leather.flavor": "温“鞣”地杀死一头牛。",
@@ -1355,7 +1394,7 @@
 
   "material.tconstruct.copper": "铜",
   "material.tconstruct.copper.flavor": "不要被铜锈锈到了。",
-  "material.tconstruct.copper.encyclopedia": "在低海拔时增加工具的采掘速度，每低于海平面64格获得+8采掘速度",
+  "material.tconstruct.copper.encyclopedia": "在低海拔时增加工具的采掘速度，每低于海平面64格获得+6采掘速度",
   "material.tconstruct.copper.skull_flavor": "你的攻击令人窒息。",
   "material.tconstruct.copper.skull_encyclopedia": "近战攻击使敌人3秒钟无法呼吸",
 
@@ -1407,11 +1446,13 @@
   "material.tconstruct.pig_iron.skull_encyclopedia": "受到来自其他生物的伤害时获得15秒力量效果",
 
   "material.tconstruct.darkthread": "黑曜丝线",
-  "material.tconstruct.darkthread.flavor": "这是我们的暗线。",
+  "material.tconstruct.darkthread.flavor": "站到黑暗的一边吧，我们已经埋下了怀疑的种子。",
   "material.tconstruct.darkthread.encyclopedia": "增加怪物掉落物的掉落几率，可与“幸运”强化同时存在",
-
+  "material.tconstruct.darkthread.skull_flavor": "高智商战斗必备，对那些需要痛饮来决对错的决斗来说更是如此。",
+  "material.tconstruct.darkthread.skull_encyclopedia": "使穿戴者免疫中毒，但不会取消已有中毒效果",
 
   "__comment": "Tier Nether Materials",
+
   "material.tconstruct.cobalt": "钴",
   "material.tconstruct.cobalt.flavor": "雄关漫道真如钴，而今回首从头迈。",
   "material.tconstruct.cobalt.encyclopedia": "每级提升7%的攻击速度和采掘速度",
@@ -1449,21 +1490,15 @@
   "material.tconstruct.enderslime_vine.encyclopedia": "将持有者传送到挖掉的方块或杀死的生物的位置",
 
   "__comment": "Slimesuit materials",
-  "material.tconstruct.gunpowder": "火药",
-  "material.tconstruct.gunpowder.skull_flavor": "现在是谁炸谁了，苦力怕？",
-  "material.tconstruct.gunpowder.skull_encyclopedia": "按住“头盔交互”键会使穿戴者爆炸",
+  "material.tconstruct.glass": "玻璃",
+  "material.tconstruct.glass.skull_flavor": "现在是谁炸谁了，苦力怕？",
+  "material.tconstruct.glass.skull_encyclopedia": "按住“头盔交互”键会使穿戴者爆炸",
 
   "material.tconstruct.ender_pearl": "末影珍珠",
   "material.tconstruct.ender_pearl.skull_flavor": "末影人懂得如何回避危险，还有科学家。他们几个礼拜以来一直漠视我的采访邀请！",
   "material.tconstruct.ender_pearl.skull_encyclopedia": "受到弹射物攻击时自动随机传送，受到近战攻击时有一定概率随机传送。冷却时间15秒。",
 
-  "material.tconstruct.spider": "蜘蛛",
-  "material.tconstruct.spider.skull_flavor": "蜘蛛是药水方面的专家，也许它们的秘密能助我强化药水……",
-  "material.tconstruct.spider.skull_encyclopedia": "使正面效果药水的持续时间延长25%",
-
   "material.tconstruct.venom": "毒液",
-  "material.tconstruct.venom.skull_flavor": "高智商战斗必备，对那些需要痛饮来决对错的决斗来说更是如此。",
-  "material.tconstruct.venom.skull_encyclopedia": "使穿戴者免疫中毒，但不会取消已有中毒效果",
 
   "material.tconstruct.rotten_flesh": "腐肉",
   "material.tconstruct.rotten_flesh.skull_flavor": "还行吧。",
@@ -1485,7 +1520,6 @@
   "material.tconstruct.honey": "蜂蜜",
   "material.tconstruct.phantom": "幻翼膜",
   "material.tconstruct.chorus": "紫颂",
-  "material.tconstruct.rabbit": "兔子皮",
 
   "material.tconstruct.aluminum": "铝",
   "material.tconstruct.nickel": "镍",
@@ -1622,6 +1656,9 @@
   "modifier.tconstruct.haste.5": "急迫++++",
   "modifier.tconstruct.haste.flavor": "科学！",
   "modifier.tconstruct.haste.description": "神奇红色粉尘，让工具挥舞、采掘疾如风！",
+  "modifier.tconstruct.haste_armor": "急迫",
+  "modifier.tconstruct.haste_armor.flavor": "科学！",
+  "modifier.tconstruct.haste_armor.description": "神奇红色粉尘，让工具挥舞、采掘疾如风！",
 
   "modifier.tconstruct.blasting": "爆裂",
   "modifier.tconstruct.blasting.flavor": "爆破采矿！",
@@ -1651,7 +1688,8 @@
   "modifier.tconstruct.fiery.description": "点燃攻击目标",
   "modifier.tconstruct.necrotic": "噬生",
   "modifier.tconstruct.necrotic.flavor": "汲取血液！",
-  "modifier.tconstruct.necrotic.description": "会榨取攻击目标的生命来滋养你！",
+  "modifier.tconstruct.necrotic.description": "对敌人的致命一击会榨取他们的生命来滋养你！",
+  "modifier.tconstruct.necrotic.lifesteal": "生命汲取",
 
   "_comment": "Damage boost",
   "modifier.tconstruct.piercing": "穿刺",
@@ -1756,6 +1794,10 @@
   "modifier.tconstruct.dragonborn.flavor": "成为龙族吧！",
   "modifier.tconstruct.dragonborn.description": "在空中时提升保护和攻击力",
   "modifier.tconstruct.dragonborn.resistance": "空中抗性",
+  "modifier.tconstruct.shulking": "潜影壳",
+  "modifier.tconstruct.shulking.flavor": "这个壳是我的家",
+  "modifier.tconstruct.shulking.description": "潜行时提升抗性，但也减少攻击力",
+  "modifier.tconstruct.shulking.resistance": "外壳抗性",
 
   "_comment": "Armor - counterattack",
   "modifier.tconstruct.thorns": "荆棘",
@@ -1808,6 +1850,9 @@
   "modifier.tconstruct.speedy": "迅捷",
   "modifier.tconstruct.speedy.flavor": "跑啊……跑啊……",
   "modifier.tconstruct.speedy.description": "跑的和兔子一样快",
+  "modifier.tconstruct.step_up": "攀登",
+  "modifier.tconstruct.step_up.flavor": "不要忽视腿部锻炼",
+  "modifier.tconstruct.step_up.description": "允许像走楼梯一样攀爬更高的方块",
   "modifier.tconstruct.leaping": "跳跃",
   "modifier.tconstruct.leaping.flavor": "一跃千里！",
   "modifier.tconstruct.leaping.description": "兔子可以跳得很高，那么这个应该也能让你跳得很高",
@@ -1942,6 +1987,9 @@
   "modifier.tconstruct.spilling": "泼洒",
   "modifier.tconstruct.spilling.flavor": "液体四溅！",
   "modifier.tconstruct.spilling.description": "武器中的液体会被喷洒到攻击目标上，根据液体造成不同的额外效果",
+  "modifier.tconstruct.wetting": "润湿",
+  "modifier.tconstruct.wetting.flavor": "不是那种弄湿",
+  "modifier.tconstruct.wetting.description": "使您在受伤时弄湿自己，根据液体造成不同的效果",
 
   "_comment": "Bonus modifier slots",
   "modifier.tconstruct.creative_slot": "创造强化",
@@ -2100,7 +2148,7 @@
   "modifier.tconstruct.heavy.description": "持握时减缓移动速度，但工具的重量也使其攻击伤害得以增强",
   "modifier.tconstruct.stoneshield": "石盾",
   "modifier.tconstruct.stoneshield.flavor": "大师级的制石工艺",
-  "modifier.tconstruct.stoneshield.description": "采掘的石头可保护工具免受之后的耐久损失",
+  "modifier.tconstruct.stoneshield.description": "采掘的石头有几率保护工具免受之后的耐久损失",
 
 
   "__comment": "Tier 3 Mod Compat Traits",
@@ -2230,6 +2278,7 @@
   "effect.tconstruct.teleport_cooldown": "传送冷却",
   "effect.tconstruct.fireball_cooldown": "火球冷却",
   "effect.tconstruct.calcified": "钙质化",
+  "effect.tconstruct.self_destructing": "自毁",
 
   "_comment": "Roman numerals",
   "roman_numeral.value.1": "I",
@@ -2263,8 +2312,8 @@
   "stat.tconstruct.head": "顶端",
   "tool_stat.tconstruct.mining_speed": "采掘速度：",
   "tool_stat.tconstruct.mining_speed.description": "若使用该材料制作顶端，此项决定工具在采掘方块时的采掘速度。\n可能受到工具其余部件的影响。",
-  "tool_stat.tconstruct.harvest_level": "采掘等级：",
-  "tool_stat.tconstruct.harvest_level.description": "若使用该材料制作顶端，此项决定工具可采掘方块的等级范围。",
+  "tool_stat.tconstruct.harvest_tier": "采掘等级：",
+  "tool_stat.tconstruct.harvest_tier.description": "若使用该材料制作顶端，此项决定工具可采掘方块的等级范围。",
   "tool_stat.tconstruct.attack_damage": "攻击伤害：",
   "tool_stat.tconstruct.attack_damage.description": "工具攻击伤害计算所依据的基准值。\n最终数值受工具本身及其它组分的影响。",
 
@@ -2433,6 +2482,7 @@
   "command.tconstruct.stat_type.not_found": "未知数据类型%s",
   "command.tconstruct.stat_type.wrong_type": "无效的数据类型%s，必须从%s处继承",
   "command.tconstruct.material.not_found": "未知材料%s",
+  "command.tconstruct.modifier.not_found": "未知强化%s",
   "command.tconstruct.modifier_usage": "已成功将强化说明打印至游戏日志中",
 
   "command.tconstruct.modifiers.success.add.single": "为%2$s的物品添加%1$s强化",
