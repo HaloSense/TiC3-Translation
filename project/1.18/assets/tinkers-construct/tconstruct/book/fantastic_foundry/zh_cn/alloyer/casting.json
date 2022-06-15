@@ -1,5 +1,5 @@
 {
-  "title": "Casting",
+  "title": "铸件",
   "image": {
     "file": "tconstruct:book/images/scorched_casting.png",
     "width": 109,
@@ -7,7 +7,7 @@
   },
   "text": [
     {
-      "text": "Real Tinkers always use a cast to prevent accidentally casting the wrong thing, so the scorched table always requires one. Gold platforms and bars can be used as a substitute for an empty casting block."
+      "text": "真正的工匠总是使用铸件来防止意外浇铸错东西，所以总是需要一个焦褐铸件台。金平台和金栏杆可用作空铸块的替代品。"
     }
 	]
 }

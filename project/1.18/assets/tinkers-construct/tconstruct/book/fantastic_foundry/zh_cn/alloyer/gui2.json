@@ -1,15 +1,15 @@
 {
-  "title": "Alloyer GUI",
+  "title": "合金炉GUI",
   "text": [
     {
-      "text": "1: This area is where you see the materials in the side tanks, more tanks equals more spots for materials."
+      "text": "1：这里显示的是合金炉四周的储罐内的流体，储罐越多，流体槽位也越多。"
     },
     {
-      "text": "2: This is the area where your alloyed materials will show once they are finished working their magic.",
+      "text": "2：你的合金在经历魔法般变化之后，就会出现在这里。",
       "paragraph": true
     },
     {
-      "text": "3: This area is where your fuel shows. Hotter fuels means you can melt more things.",
+      "text": "3：你的燃料会显示在这里。温度更高的燃料能够熔化东西也越多。",
       "paragraph": true
     }
   ]

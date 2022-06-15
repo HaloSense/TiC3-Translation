@@ -1,9 +1,9 @@
 {
-  "title": "Head Melting",
+  "title": "头颅熔炼",
   "item": "tconstruct:blaze_head",
   "text": [
     {
-      "text": "Alternatively, maybe we don't need to melt the entire blaze. If I could find a way to sever its head off I bet that would be enough to melt into fuel.",
+      "text": "不过，也许我们并不需要熔炼整个烈焰人。如果能想办法把烈焰人的头整个剁下来的话，我觉得肯定也能熔成液体的。",
       "paragraph": true
     }
   ]

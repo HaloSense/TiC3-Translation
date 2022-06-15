@@ -1,11 +1,11 @@
 {
-  "title": "Fantastic Foundry",
+  "title": "奇异熔铸术",
   "text": [
     {
-      "text": "Hello fellow Tinker. My name is Nemea, and I'd like to welcome you to the wonderful world of the Fantastic Foundry."
+      "text": "你好，我的工匠同僚。我的名字叫Nemea，欢迎来到奇异熔铸术的美妙世界。"
     },
     {
-      "text": "Using the mysticalities of the Nether I have created some outstanding devices.",
+      "text": "借助来自下界的神秘力量，我创造了一批十分出色的设备。",
       "paragraph": true
     }
   ]
