@@ -1627,7 +1627,7 @@
   "modifier.tconstruct.diamond.description": "提升工具的耐久值及各项数据！",
   "modifier.tconstruct.worldbound": "世界绑定",
   "modifier.tconstruct.worldbound.flavor": "远古回响！",
-  "modifier.tconstruct.worldbound.description": "次等的“下界合金”升级，使工具获得免疫如火焰等外部伤害的能力，但不提供强度加成",
+  "modifier.tconstruct.worldbound.description": "“下界合金”升级的原始版本，使工具获得免疫如火焰等外部伤害的能力，但不提供强度加成",
   "modifier.tconstruct.soulbound": "灵魂绑定",
   "modifier.tconstruct.soulbound.flavor": "生命纽带！",
   "modifier.tconstruct.soulbound.description": "死亡时在物品栏保留该工具！",
