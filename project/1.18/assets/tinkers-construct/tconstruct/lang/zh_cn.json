@@ -450,9 +450,9 @@
 
   "fluid.tconstruct.potion": "药水",
 
-  "item.tconstruct.potion_bucket": "无法制作的药水 桶",
-  "item.tconstruct.potion_bucket.effect.water": "药水 桶",
-  "item.tconstruct.potion_bucket.contents": "%s 桶",
+  "item.tconstruct.potion_bucket": "无法制作的药水桶",
+  "item.tconstruct.potion_bucket.effect.water": "药水桶",
+  "item.tconstruct.potion_bucket.contents": "%s桶",
 
   "item.tconstruct.splash_bottle": "喷溅玻璃瓶",
   "item.tconstruct.lingering_bottle": "滞留玻璃瓶",
@@ -1331,7 +1331,7 @@
   "material.tconstruct.wood.crimson": "绯红菌核",
   "material.tconstruct.wood.warped": "诡异菌核",
   "material.tconstruct.wood.bamboo": "竹子",
-  "material.tconstruct.wood.format": "木 %s",
+  "material.tconstruct.wood.format": "木%s",
   "material.tconstruct.wood.flavor": "伐伐伐伐伐伐伐伐伐木工",
   "material.tconstruct.wood.encyclopedia": "每有一个木部件，工具修理效率提高50%",
 
@@ -1852,7 +1852,7 @@
   "modifier.tconstruct.speedy.description": "跑的和兔子一样快",
   "modifier.tconstruct.step_up": "高抬腿",
   "modifier.tconstruct.step_up.flavor": "不要忽视腿部锻炼",
-  "modifier.tconstruct.step_up.description": "允许像走楼梯一样爬上更高的方块",
+  "modifier.tconstruct.step_up.description": "可以像走楼梯一样爬上更高的方块",
   "modifier.tconstruct.leaping": "跳跃",
   "modifier.tconstruct.leaping.flavor": "一跃千里！",
   "modifier.tconstruct.leaping.description": "兔子可以跳得很高，那么这个应该也能让你跳得很高",
@@ -1988,7 +1988,7 @@
   "modifier.tconstruct.spilling.flavor": "液体四溅！",
   "modifier.tconstruct.spilling.description": "武器中的液体会被喷洒到攻击目标上，根据液体造成不同的额外效果",
   "modifier.tconstruct.wetting": "润湿",
-  "modifier.tconstruct.wetting.flavor": "不是那种弄湿",
+  "modifier.tconstruct.wetting.flavor": "不是尿裤子那种",
   "modifier.tconstruct.wetting.description": "使您在受伤时弄湿自己，根据液体造成不同的效果",
 
   "_comment": "Bonus modifier slots",
