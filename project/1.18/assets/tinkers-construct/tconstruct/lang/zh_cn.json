@@ -450,9 +450,9 @@
 
   "fluid.tconstruct.potion": "药水",
 
-  "item.tconstruct.potion_bucket": "无法制作的药水 桶",
-  "item.tconstruct.potion_bucket.effect.water": "药水 桶",
-  "item.tconstruct.potion_bucket.contents": "%s 桶",
+  "item.tconstruct.potion_bucket": "无法制作的药水桶",
+  "item.tconstruct.potion_bucket.effect.water": "药水桶",
+  "item.tconstruct.potion_bucket.contents": "%s桶",
 
   "item.tconstruct.splash_bottle": "喷溅玻璃瓶",
   "item.tconstruct.lingering_bottle": "滞留玻璃瓶",
