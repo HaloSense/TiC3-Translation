@@ -1331,7 +1331,7 @@
   "material.tconstruct.wood.crimson": "绯红菌核",
   "material.tconstruct.wood.warped": "诡异菌核",
   "material.tconstruct.wood.bamboo": "竹子",
-  "material.tconstruct.wood.format": "木 %s",
+  "material.tconstruct.wood.format": "木%s",
   "material.tconstruct.wood.flavor": "伐伐伐伐伐伐伐伐伐木工",
   "material.tconstruct.wood.encyclopedia": "每有一个木部件，工具修理效率提高50%",
 
