@@ -456,8 +456,8 @@
   "item.tconstruct.potion_bucket.effect.water": "药水桶",
   "item.tconstruct.potion_bucket.contents": "%s桶",
 
-  "item.tconstruct.splash_bottle": "喷溅玻璃瓶",
-  "item.tconstruct.lingering_bottle": "滞留玻璃瓶",
+  "item.tconstruct.splash_bottle": "喷溅型玻璃瓶",
+  "item.tconstruct.lingering_bottle": "滞留型玻璃瓶",
 
 
   "_comment": "Slime",
