@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:flamewake",
   "text": [
     {
-      "text": "Ignites fires around where you step. Area of effect increased by expanded."
+      "text": "在你走过的地面上留下火焰。“延展”强化可以扩大其作用范围。"
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Maximum of 1 level",
-    "Requires 1 ability slot"
+    "最高1级",
+    "需要1个能力槽"
   ]
 }

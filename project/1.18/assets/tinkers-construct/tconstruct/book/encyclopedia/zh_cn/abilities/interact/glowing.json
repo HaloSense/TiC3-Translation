@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:glowing",
   "text": [
     {
-      "text": "Causes the side of the targeted block to glow, giving off light. Placing a glow consumes 10 durability, which bypasses other modifiers that reduce durability loss."
+      "text": "会在目标方块的表面放置荧光球，发出荧光。每次放置荧光球消耗10点耐久值，且无视其他能减少耐久值消耗的强化。"
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Maximum of 1 level",
-    "Requires 1 ability slot"
+    "最高1级",
+    "需要1个能力槽"
   ]
 }

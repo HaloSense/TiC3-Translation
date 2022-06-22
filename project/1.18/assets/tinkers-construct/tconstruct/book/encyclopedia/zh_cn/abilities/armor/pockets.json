@@ -2,11 +2,11 @@
   "modifier_id": "tconstruct:pockets",
   "text": [
     {
-      "text": "Grants an extra 9 slots that can be accessed by sneaking and pressing the leggings interact key or while holding the pants."
+      "text": "增加9个物品储存槽位，装备护腿时潜行并按下“护腿交互”键即可打开。"
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Requires 1 ability slot"
+    "需要1个能力槽"
   ]
 }

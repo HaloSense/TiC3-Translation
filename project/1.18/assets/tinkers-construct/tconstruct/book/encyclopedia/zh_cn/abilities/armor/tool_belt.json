@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:tool_belt",
   "text": [
     {
-      "text": "Allows swapping the first 4 hotbar slots using the leggings interact. Second level allows swapping up to 8 hotbar slots. Also apply pocket chain to get all 9 slots."
+      "text": "按下“护腿交互”键可以切换快捷栏前4个槽位的物品。第2级可以提升至8个槽位。应用“锁链行囊”强化可以解锁所有9个槽位。"
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Requires 1 ability slot",
-    "Max 2 levels"
+    "需要1个能力槽",
+    "最高2级"
   ]
 }

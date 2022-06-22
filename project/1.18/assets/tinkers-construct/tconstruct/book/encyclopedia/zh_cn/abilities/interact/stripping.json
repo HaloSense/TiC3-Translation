@@ -2,10 +2,10 @@
   "modifier_id": "tconstruct:stripping",
   "text": [
     {
-      "text": "Allows the tool to strip wood, similarly to hand or broad axes. Tools will use their normal mining area for stripping wood."
+      "text": "工具可以给原木去皮，效果与短柄斧或板斧类似。作用范围和该种工具一般的工作范围相同。"
     },
     {
-      "text": "Triggers before the tool's native tilling or pathing if present.",
+      "text": "该效果优先于工具原有的铺路或耕地效果（如果存在）。",
       "paragraph": true
     }
   ],

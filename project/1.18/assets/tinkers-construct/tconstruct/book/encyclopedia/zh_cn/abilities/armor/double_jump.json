@@ -2,11 +2,11 @@
   "modifier_id": "tconstruct:double_jump",
   "text": [
     {
-      "text": "Allows you to jump a second time in mid air. Higher levels add additional jumps, allowing triple jump or potentially even quadruple jump."
+      "text": "能够在空中额外跳跃一次。多个等级可以进行多次跳跃，可以跳跃三次甚至四次。"
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Requires 1 ability slot"
+    "需要1个能力槽"
   ]
 }
