@@ -1819,7 +1819,7 @@
   "modifier.tconstruct.respiration.description": "增加肺活量",
   "modifier.tconstruct.zoom": "远眺",
   "modifier.tconstruct.zoom.flavor": "让你看的更快！",
-  "modifier.tconstruct.zoom.description": "当潜行时按下“头盔交互”键，玩家能够看清更远的目标",
+  "modifier.tconstruct.zoom.description": "潜行并按下“头盔交互”键时，玩家能够看清更远的目标",
   "modifier.tconstruct.slurping": "咕噜",
   "modifier.tconstruct.slurping.flavor": "咕咕咕咕咕咕噜！",
   "modifier.tconstruct.slurping.description": "按下“头盔交互”键时能饮用头盔内的流体",
