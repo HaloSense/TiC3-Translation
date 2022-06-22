@@ -1,13 +1,13 @@
 {
   "tool": "tconstruct:slime_helmet",
   "text": [
-    { "text": "The slimeskull is a helmet that copies abilities from monsters. It is created from pouring enderslime on a mob head, with the head type determining the effects." },
-    { "text": "The slimeskull section of the book has more information on variants.", "paragraph": true }
+    { "text": "黏液头颅是一种能够复制怪物能力的头盔。可以通过向怪物头颅浇注末影黏液的方式合成，不同的怪物头颅有不同的效果。" },
+    { "text": "本书的黏液头颅章节对各种不同的黏液头颅有更详细的介绍。", "paragraph": true }
   ],
   "properties": [
-    "+362 Bonus Durability",
-    "5 Upgrade Slots",
-    "0 Defense Slots",
-    "1 Ability Slot"
+    "+362 额外耐久值",
+    "5个升级槽",
+    "0个防御槽",
+    "1个能力槽"
   ]
 }
