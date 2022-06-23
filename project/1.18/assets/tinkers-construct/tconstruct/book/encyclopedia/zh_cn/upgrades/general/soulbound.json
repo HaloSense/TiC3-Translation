@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:soulbound",
   "text": [
     {
-      "text": "Causes the tool to remain in your inventory upon death and respawn."
+      "text": "工具会在你死亡并重生时留在物品栏。"
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Maximum of 1 level",
-    "Requires 1 upgrade slot"
+    "最高1级",
+    "需要1个升级槽"
   ]
 }
