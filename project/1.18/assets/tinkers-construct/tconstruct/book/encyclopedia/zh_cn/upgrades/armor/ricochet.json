@@ -2,13 +2,13 @@
   "modifier_id": "tconstruct:ricochet",
   "text": [
     {
-      "text": "Increases knockback received by 20% per level."
+      "text": "增加受到的击退效果，每级增加20%。"
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Maximum of 2 levels per piece",
-    "Combines effect of all pieces",
-    "Requires 1 upgrade slot per level"
+    "每件盔甲最高2级",
+    "所有盔甲的效果会叠加",
+    "每级需要1个升级槽"
   ]
 }

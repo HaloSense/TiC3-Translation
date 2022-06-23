@@ -1,8 +1,8 @@
 {
-  "modifier_id": "tconstruct:leaping",
+  "modifier_id": "tconstruct:step_up",
   "text": [
     {
-      "text": "每级+0.5格跳跃高度，并且增加1格安全摔落高度。"
+      "text": "每级为玩家增加0.5格可直接迈步走上去的方块高度。"
     }
   ],
   "more_text_space": true,

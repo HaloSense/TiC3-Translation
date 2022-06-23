@@ -2,15 +2,15 @@
   "modifier_id": "tconstruct:sticky",
   "text": [
     {
-      "text": "Has a 25% chance per level to apply up to 1.5 seconds (plus 1 seconds per level) of slowness to the attacker. Applies effect from the piece with the largest bonus."
+      "text": "有一定几率对攻击者造成最多1.5秒（每级增加1秒）的减速效果，每级增加25%的几率。效果由强化等级最高的盔甲决定。"
     },
     {
-      "text": "On weapons, the bonus applies to attacked targets.", "paragraph": true
+      "text": "应用于武器时，效果作用于攻击目标。", "paragraph": true
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Maximum of 3 levels",
-    "Requires 1 upgrade slot per level"
+    "最高3级",
+    "每级需要1个升级槽"
   ]
 }
