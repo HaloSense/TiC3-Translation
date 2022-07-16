@@ -2,11 +2,11 @@
   "modifier_id": "tconstruct:shield_strap",
   "text": [
     {
-      "text": "Adds +1 offhand slot per level, allowing swapping the offhand item by interacting with the leggings."
+      "text": "每级增加1个副手槽位，可以按下“护腿交互”键切换副手物品。"
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Requires 1 ability slot"
+    "需要1个能力槽"
   ]
 }

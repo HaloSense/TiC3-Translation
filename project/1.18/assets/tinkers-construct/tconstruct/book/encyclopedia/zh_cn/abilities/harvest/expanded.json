@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:expanded",
   "text": [
     {
-      "text": "Increases the tool's area of effect. Specific effects are described on the tool pages."
+      "text": "扩大工具的作用范围。在不同工具上的具体效果参见工具页面。"
     }
   ],
   "more_text_space": true,
   "effects": [
-    "No max level",
-    "Requires 1 ability slot per level"
+    "无等级上限",
+    "每级需要1个能力槽"
   ]
 }

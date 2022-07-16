@@ -2,13 +2,13 @@
   "modifier_id": "tconstruct:cooling",
   "text": [
     {
-      "text": "Grants +1.6 damage per level against mobs immune to fire."
+      "text": "每级+1.6点对免疫火焰的生物的伤害。"
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Can apply levels incrementally",
-    "Maximum of 5 levels",
-    "Requires 1 upgrade slot per level"
+    "可以逐级强化",
+    "最高5级",
+    "每级需要1个升级槽"
   ]
 }

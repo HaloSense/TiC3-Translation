@@ -2,17 +2,17 @@
   "modifier_id": "tconstruct:bane_of_sssss",
   "text": [
     {
-      "text": "Grants +2 damage per level against arthropods and creepers."
+      "text": "每级+2点对节肢动物和苦力怕的伤害。"
     },
     {
-      "text": "In addition to arthropods and creepers, applies Slowness IV for 1 second, plus a a possible bonus half second per level.",
+      "text": "除此之外，还会对节肢动物和苦力怕造成时长1秒的缓慢IV效果，每级增加0.5秒可能的额外时长。",
       "paragraph": true
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Can apply levels incrementally",
-    "Maximum of 5 levels",
-    "Requires 1 upgrade slot per level"
+    "可以逐级强化",
+    "最高5级",
+    "每级需要1个升级槽"
   ]
 }

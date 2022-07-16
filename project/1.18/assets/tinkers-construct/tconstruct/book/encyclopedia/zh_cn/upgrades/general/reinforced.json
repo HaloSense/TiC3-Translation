@@ -2,13 +2,13 @@
   "modifier_id": "tconstruct:reinforced",
   "text": [
     {
-      "text": "Reduces the chance for the tool to take damage. Has a 75% chance of taking damage at level 1, 55% chance at level 2, 40% at level 3, 30% at level 4, and 25% at level 5."
+      "text": "降低工具损耗耐久值的概率。第1级时损耗耐久值的概率为75%，第2级为55%，第3级为40%，第4级为30%，第5级为25%。"
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Can apply levels incrementally",
-    "Maximum of 5 levels",
-    "Requires 1 upgrade slot per level"
+    "可以逐级强化",
+    "最高5级",
+    "每级需要1个升级槽"
   ]
 }

@@ -2,13 +2,13 @@
   "modifier_id": "tconstruct:blasting",
   "text": [
     {
-      "text": "Grants more mining speed on blocks with lower blast resistance, up to +10 per level on the lowest blast resistance blocks. For example, grants +1 mining speed per level on blocks like stone, +3 per level on blocks like terracotta, and +9 per level on soft blocks such as ores."
+      "text": "挖掘爆炸抗性较低的方块时增加挖掘速度，对爆炸抗性最低的方块，每级最高可以获得+10点挖掘速度。例如，挖掘类似石头的方块时每级挖掘速度+1，挖掘类似陶瓦的方块时每级挖掘速度+3，挖掘矿石类的柔软方块时每级挖掘速度+9。"
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Can apply levels incrementally",
-    "Maximum of 5 levels",
-    "Requires 1 upgrade slot per level"
+    "可以逐级强化",
+    "最高5级",
+    "每级需要1个升级槽"
   ]
 }

@@ -1,7 +1,7 @@
 {
-  "title": "Weapon Upgrades",
+  "title": "武器升级",
   "text": [
-    { "text": "Weapon upgrades are most effective on tools built for combat, whether it is a sword or a repurposed harvest tool." },
-    { "text": "Many of these upgrades are can also be applied to chestplates with the unarmed modifier. They will only boost attacks with an empty hand.", "paragraph": true }
+    { "text": "武器升级要发挥最大效果，就要装在用于攻击的工具上，无论是剑还是用作武器的采掘工具都可以。" },
+    { "text": "一些武器升级也可以给应用了“赤手空拳”强化的胸甲安装。这些升级只会对空手攻击有加成。", "paragraph": true }
   ]
 }

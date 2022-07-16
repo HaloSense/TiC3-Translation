@@ -2,13 +2,13 @@
   "modifier_id": "tconstruct:unbreakable",
   "text": [
     {
-      "text": "Prevents the tool from taking damage, except from special damage sources such as tasty."
+      "text": "使工具不消耗耐久值，不过不能抵消特殊的耐久值消耗，例如“美味”。"
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Maximum of 1 level",
-    "Requires Reinforced V and the Netherite modifier",
-    "Requires 1 ability slot"
+    "最高1级",
+    "需要“下界合金”和“加固 V”作为前置",
+    "需要1个能力槽"
   ]
 }

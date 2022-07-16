@@ -1,13 +1,13 @@
 {
   "tool": "tconstruct:plate_chestplate",
   "text": [
-    { "text": "Plate Chestplate is a defensive chestplate, with high protection, and low upgrade slots and high defense slots." }
+    { "text": "镶板胸甲是一种防御较高的胸部防具，升级槽数量较少，防御槽数量较多。" }
   ],
   "properties": [
-    "480 Durability",
-    "+7 Armor",
-    "1 Upgrade Slots",
-    "4 Defense Slots",
-    "1 Ability Slot"
+    "480 耐久值",
+    "+7 护甲值",
+    "1个升级槽",
+    "4个防御槽",
+    "1个能力槽"
   ]
 }

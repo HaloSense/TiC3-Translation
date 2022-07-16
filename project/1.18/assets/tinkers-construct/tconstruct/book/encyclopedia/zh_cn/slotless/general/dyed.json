@@ -2,15 +2,15 @@
   "modifier_id": "tconstruct:dyed",
   "text": [
     {
-      "text": "Changes the color of the leather parts of travelers's gear."
+      "text": "改变旅行者套装上皮革部分的颜色。"
     },
     {
-      "text": "Can mix multiple dyes, along with mix dyes with the previous gear color.", "paragraph": true
+      "text": "可以混合多种染料的颜色，并和盔甲上已有的颜色进行混合。", "paragraph": true
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Multi-use",
-    "Slotless"
+    "多次使用",
+    "无需槽位"
   ]
 }
