@@ -1,16 +1,16 @@
 {
   "tool": "tconstruct:plate_leggings",
   "text": [
-    { "text": "My leg, my leg." },
+    { "text": "啊，我的腿。" },
 	{
-      "text": "These pants offer high protection for all your fighting needs!", "paragraph": true
+      "text": "这条护腿能够为你提供厚实防御，满足你的战斗需求！", "paragraph": true
     }
   ],
   "properties": [
-    "High Durability",
-    "High Armor",
-    "1 Upgrade Slots",
-    "4 Defense Slots",
-    "1 Ability Slot"
+    "高耐久值",
+    "高护甲值",
+    "1个升级槽",
+    "4个防御槽",
+    "1个能力槽"
   ]
 }

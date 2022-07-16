@@ -1,14 +1,13 @@
 {
-  "title": "Features",
+  "title": "特性",
   "text": [
-    { "text": "• Gives +6 nuggets per ore" },
-    { "text": "\n• Gives byproducts from ores" },
-    { "text": "\n• The foundry can not alloy which is a superior breakthrough so you never have to worry about accidentally mixing materials again" },
-    { "text": "\n• Can hold mulitple metals" },
-    { "text": "\n• Extendable capacity" },
-    { "text": "\n• Much larger storage capacity than the puny smeltery" },
-    { "text": "\n• Can melt blocks that give multiple outputs" },
-    { "text": "\n• Fuel efficiency depends on size " },
-    { "text": "\n• Useful for Nether-only runs and mass storage of liquids " }
+    { "text": "• 从矿石中获得副产物" },
+    { "text": "\n• 熔铸炉无法进行合金——这是飞跃性的进步， 你不必担心不小心把材料混到一起了" },
+    { "text": "\n• 可容纳多种金属材料" },
+    { "text": "\n• 储量可拓展" },
+    { "text": "\n• 储量可比什么低级的冶炼炉大得多" },
+    { "text": "\n• 可以熔炼有多种产出的方块" },
+    { "text": "\n• 燃料效率取决于大小" },
+    { "text": "\n• 对于纯下界生存以及大量多种流体的储存 十分有用" }
   ]
 }
