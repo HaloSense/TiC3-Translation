@@ -3,14 +3,15 @@
   "text": [
     { "text": "别忘了把衣服的标签塞进去，我可不想带着它到处走。" },
 	{
-      "text": "背心是保护上身的重要防具，而且看起来也很帅。", "paragraph": true
+      "text": "胸甲，对保护您的重要胸部器官很重要。而且看起来也很帅。", "paragraph": true
     }
   ],
   "properties": [
-    "Low Armor",
-	"Low Durability",
-    "3 Upgrade Slots",
-    "2 Defense Slots",
-    "1 Ability Slot"
+    "低护甲值",
+	  "低耐久值",
+    "用于冰天雪地",
+    "3个升级槽",
+    "2个防御槽",
+    "1个能力槽"
   ]
 }

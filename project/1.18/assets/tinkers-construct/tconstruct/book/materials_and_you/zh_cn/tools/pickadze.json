@@ -2,19 +2,19 @@
   "tool": "tconstruct:pickadze",
   "text": [
     {
-      "text": "Proper name for this tool would be a pick mattock, but people like the familiar."
+      "text": "这个工具的正式名称应该叫鹤嘴镐锄，但是人们普遍喜欢听起来比较熟悉的名字。"
     },
     {
       "text": "\n"
     },
     {
-      "text": "It can create paths to glory."
+      "text": "挖出通往荣耀之路。"
     }
   ],
   "properties": [
-    "Creates paths",
-    "Mines stone blocks and similar",
-    "Breaks soft dirts and gravel",
-    "Harvest level limited to wood"
+    "可以开辟土径",
+    "可以挖掘石块以及类似的方块",
+    "可以破坏较软的泥土和沙砾",
+    "采掘等级固定为木"
   ]
 }
