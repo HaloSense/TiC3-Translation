@@ -1,0 +1,17 @@
+{
+  "modifier_id": "tconstruct:the_one_probe",
+  "text": [
+    {
+      "text": "把它扔进火里！毁掉它！"
+    },
+    {
+      "text": "NO",
+      "paragraph": true
+    }
+  ],
+  "effects": [
+    "在持有或佩戴工具时提供有关方块和实体的精美信息",
+    "单个等级",
+    "需要1个升级槽"
+  ]
+}
