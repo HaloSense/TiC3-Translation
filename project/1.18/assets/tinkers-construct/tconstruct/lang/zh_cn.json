@@ -2462,10 +2462,10 @@
   "subtitles.tconstruct.equip.travelers": "旅行者套装：沙沙作响",
   "subtitles.tconstruct.equip.plate": "镶板盔甲：铿锵",
 
-  "subtitles.tconstruct.block.earth_crystal.chime": "大地水晶：叮当",
-  "subtitles.tconstruct.block.sky_crystal.chime":   "碧空水晶：叮当",
-  "subtitles.tconstruct.block.ichor_crystal.chime": "灵浆水晶：叮当",
-  "subtitles.tconstruct.block.ender_crystal.chime": "末影水晶：叮当",
+  "subtitles.tconstruct.block.earth_crystal.chime": "大地水晶：叮铃",
+  "subtitles.tconstruct.block.sky_crystal.chime":   "碧空水晶：叮铃",
+  "subtitles.tconstruct.block.ichor_crystal.chime": "灵浆水晶：叮铃",
+  "subtitles.tconstruct.block.ender_crystal.chime": "末影水晶：叮铃",
 
 
   "_comment": "Book Strings",
