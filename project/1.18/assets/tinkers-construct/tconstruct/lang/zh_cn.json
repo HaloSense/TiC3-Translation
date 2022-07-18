@@ -2269,7 +2269,7 @@
 
   "_comment": "Compat Modifiers",
   "modifier.tconstruct.the_one_probe": "The One Probe",
-  "modifier.tconstruct.the_one_probe.flavor": "科学化!",
+  "modifier.tconstruct.the_one_probe.flavor": "科学化！",
   "modifier.tconstruct.the_one_probe.description": "当手持或者附加于头盔时，能够显示指向方块的信息。",
 
   "_comment": "Internal effects",
