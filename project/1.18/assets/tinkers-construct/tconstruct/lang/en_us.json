@@ -251,6 +251,11 @@
   "item.tconstruct.dragon_scale": "Dragon Scale",
   "item.tconstruct.dragon_scale.tooltip": "Blasted off an ender dragon",
 
+  "item.tconstruct.modifier_crystal": "Modifier Crystal",
+  "item.tconstruct.modifier_crystal.format": "%s Crystal",
+  "item.tconstruct.modifier_crystal.missing": "Missing or invalid NBT defining the modifier type",
+  "item.tconstruct.modifier_crystal.tooltip": "Apply to a tool to gain 1 level of the modifier, consuming the appropriate slots.",
+
   "item.tconstruct.creative_slot": "Creative Slot",
   "item.tconstruct.creative_slot.upgrades": "Creative Upgrade",
   "item.tconstruct.creative_slot.abilities": "Creative Ability",
@@ -797,9 +802,9 @@
   "block.tconstruct.magma_cake": "Magma Cake",
 
   "item.tconstruct.earth_slime_sling": "Slime Sling",
-  "item.tconstruct.earth_slime_sling.tooltip": "Charge up, aim low, get flinging!\nUse Slime Boots if you value your life!",
+  "item.tconstruct.earth_slime_sling.tooltip": "Charge up, aim low, get flinging!\nUse the bouncy modifier if you value your life!",
   "item.tconstruct.sky_slime_sling": "Skyslime Sling",
-  "item.tconstruct.sky_slime_sling.tooltip": "Charge up, let go, get back in the air!\nUse Slime Boots if you value your life!",
+  "item.tconstruct.sky_slime_sling.tooltip": "Charge up, let go, get back in the air!\nUse the bouncy modifier if you value your life!",
   "item.tconstruct.ender_slime_sling": "Enderslime Sling",
   "item.tconstruct.ender_slime_sling.tooltip": "Charge up, point it at a wall, come out the other side!",
   "item.tconstruct.ichor_slime_sling": "Ichor Sling",
@@ -871,16 +876,21 @@
   "item.tconstruct.longbow": "Longbow",
 
   "item.tconstruct.flint_and_brick": "Flint and Brick",
+  "item.tconstruct.sky_staff": "Skyslime Staff",
+  "item.tconstruct.earth_staff": "Earthslime Staff",
+  "item.tconstruct.ichor_staff": "Ichor Staff",
   
   "item.tconstruct.travelers_helmet": "Traveler's Goggles",
   "item.tconstruct.travelers_chestplate": "Traveler's Vest",
   "item.tconstruct.travelers_leggings": "Traveler's Pants",
   "item.tconstruct.travelers_boots": "Traveler's Boots",
+  "item.tconstruct.travelers_shield": "Traveler's Shield",
   
   "item.tconstruct.plate_helmet": "Plate Helmet",
   "item.tconstruct.plate_chestplate": "Plate Chestplate",
   "item.tconstruct.plate_leggings": "Plate Leggings",
   "item.tconstruct.plate_boots": "Plate Boots",
+  "item.tconstruct.plate_shield": "Plate Shield",
 
   "item.tconstruct.slime_helmet": "Slimeskull",
   "item.tconstruct.slime_chestplate": "Slimelytra",
@@ -1686,7 +1696,6 @@
   "modifier.tconstruct.offhanded.flavor": "Don't think about it too hard",
   "modifier.tconstruct.offhanded.description": "Disables the tools interaction abilities when the offhand is filled",
   "modifier.tconstruct.offhanded.description.2": "Disables the tools interaction abilities entirely",
-  "recipe.tconstruct.modifier.offhanded.level_2": "Nohanded requires offhanded to apply",
 
 
   "_comment": "Durability",
@@ -1733,9 +1742,6 @@
   "modifier.tconstruct.haste.5": "Hastiestest",
   "modifier.tconstruct.haste.flavor": "Science!",
   "modifier.tconstruct.haste.description": "Magic red dust makes tool mine faster!",
-  "modifier.tconstruct.haste_armor": "Haste",
-  "modifier.tconstruct.haste_armor.flavor": "Science!",
-  "modifier.tconstruct.haste_armor.description": "Magic red dust makes all held tools mine faster!",
 
   "modifier.tconstruct.blasting": "Blasting",
   "modifier.tconstruct.blasting.flavor": "Explosive Mining!",
@@ -1753,7 +1759,7 @@
   "_comment": "Weapon",
   "modifier.tconstruct.knockback": "Knockback",
   "modifier.tconstruct.knockback.flavor": "Weeeeee!",
-  "modifier.tconstruct.knockback.description": "Hitting things makes them go flying further!",
+  "modifier.tconstruct.knockback.description": "Hitting things in melee makes them go flying further!",
   "modifier.tconstruct.padded": "Padded",
   "modifier.tconstruct.padded.flavor": "Floof!",
   "modifier.tconstruct.padded.description": "Reduces the knockback of the tool, to stop your enemies from escaping",
@@ -1828,8 +1834,8 @@
   "modifier.tconstruct.punch.flavor": "The classic boxing glove arrow",
   "modifier.tconstruct.punch.description": "Makes arrows apply additional knockback",
   "modifier.tconstruct.impaling": "Impaling",
-  "modifier.tconstruct.impaling.flavor": "The power within becomes the power without",
-  "modifier.tconstruct.impaling.description": "Boosts damage of arrows",
+  "modifier.tconstruct.impaling.flavor": "Just keeps on going and going and going",
+  "modifier.tconstruct.impaling.description": "Arrows keep moving after hitting a target, potentially hitting more targets",
   "modifier.tconstruct.trueshot": "Trueshot",
   "modifier.tconstruct.trueshot.flavor": "This bow will always aim true",
   "modifier.tconstruct.trueshot.description": "Increases the accuracy of the weapon",
@@ -1867,7 +1873,7 @@
   "modifier.tconstruct.knockback_resistance.description": "Anvils are heavy, so it should keep you from being knocked back, right?",
   "modifier.tconstruct.golden": "Golden",
   "modifier.tconstruct.golden.flavor": "Good as gold",
-  "modifier.tconstruct.golden.description": "Gives your armor extra golden bling, piglins love it!",
+  "modifier.tconstruct.golden.description": "Gives your armor extra golden bling, adds another option for repair and piglins love it!",
   "modifier.tconstruct.ricochet": "Ricochet",
   "modifier.tconstruct.ricochet.flavor": "Extra bouncy",
   "modifier.tconstruct.ricochet.description": "Bounce away further when attacked, for effective escapes",
@@ -1952,9 +1958,6 @@
   "modifier.tconstruct.item_frame.description": "Adds inventory slots to the helmet for items to observe. Perfect for clocks and compasses",
 
   "_comment": "Armor - chestplate",
-  "modifier.tconstruct.knockback_armor": "Knockback",
-  "modifier.tconstruct.knockback_armor.flavor": "Wolololo!",
-  "modifier.tconstruct.knockback_armor.description": "Hitting things with any weapon makes them go flying further!",
   "modifier.tconstruct.armor_power": "Power",
   "modifier.tconstruct.armor_power.flavor": "Can you feel the power flowing through you?",
   "modifier.tconstruct.armor_power.description": "Makes your weapons stronger",
@@ -2007,6 +2010,9 @@
   "modifier.tconstruct.lightspeed_armor": "Lightspeed",
   "modifier.tconstruct.lightspeed_armor.flavor": "Brighter is faster!",
   "modifier.tconstruct.lightspeed_armor.description": "Moves faster in well lit areas",
+  "modifier.tconstruct.depth_strider": "Depth Strider",
+  "modifier.tconstruct.depth_strider.flavor": "Splish Splash",
+  "modifier.tconstruct.depth_strider.description": "Increases movement speed underwater",
   "modifier.tconstruct.double_jump": "Double Jump",
   "modifier.tconstruct.double_jump.double": "Double Jump",
   "modifier.tconstruct.double_jump.triple": "Triple Jump",
@@ -2064,8 +2070,6 @@
   "modifier.tconstruct.looting": "Looting",
   "modifier.tconstruct.looting.flavor": "Luck of the Mobs!",
   "modifier.tconstruct.looting.description": "Gives you more nice things when killing mobs!",
-  "recipe.tconstruct.modifier.looting.level_2": "Looting II requires a different recipe for the first level",
-  "recipe.tconstruct.modifier.looting.level_3": "Looting III requires a different recipe for the first two levels",
 
   "_comment": "Expanders",
   "modifier.tconstruct.expanded": "Expanded",
@@ -2108,6 +2112,9 @@
   "modifier.tconstruct.harvest": "Harvest",
   "modifier.tconstruct.harvest.flavor": "Swish!",
   "modifier.tconstruct.harvest.description": "Tool can be used on crops to harvest and replant them",
+  "modifier.tconstruct.blocking": "Blocking",
+  "modifier.tconstruct.blocking.flavor": "The non-cube type",
+  "modifier.tconstruct.blocking.description": "Interacting with the tool will allow blocking incoming damage",
   "_comment": "Fluids",
   "modifier.tconstruct.melting": "Melting",
   "modifier.tconstruct.melting.flavor": "The power of a Melter on a stick!",
@@ -2138,6 +2145,7 @@
   "modifier.tconstruct.stat_override.multipliers": "Multipliers:",
 
   "__comment": "Free Modifiers",
+  "modifier.tconstruct.extra_modifier.type_format": "%s (%s)",
   "modifier.tconstruct.writable": "Writable",
   "modifier.tconstruct.writable.flavor": "Intellectual!",
   "modifier.tconstruct.writable.description": "More words. More upgrade. It's only logical!",
@@ -2156,6 +2164,9 @@
   "modifier.tconstruct.draconic": "Draconic",
   "modifier.tconstruct.draconic.flavor": "Conquered the End!",
   "modifier.tconstruct.draconic.description": "The head of the great beast allows your tool a second ability slot!",
+  "modifier.tconstruct.rebalanced": "Rebalanced",
+  "modifier.tconstruct.rebalanced.flavor": "The scales of balance on your tool",
+  "modifier.tconstruct.rebalanced.description": "Grants your tool an additional slot type of your choice. Penalizes choice of the most powerful type.",
 
   "__comment": "Three more +1 upgrade modifiers for modpacks",
   "modifier.tconstruct.red_extra_upgrade": "Red Extra Upgrade",
@@ -2248,7 +2259,7 @@
   "modifier.tconstruct.crystalbound.description": "Tool gains bonus velocity, but arrow angle is restricted",
   "modifier.tconstruct.lightweight": "Lightweight",
   "modifier.tconstruct.lightweight.flavor": "Like a Shardblade!",
-  "modifier.tconstruct.lightweight.description": "Tool is incredibly light for its size, allowing you to attack and mine faster",
+  "modifier.tconstruct.lightweight.description": "Tool is incredibly light for its size, allowing you to attack, mine, and launch projectiles faster",
   "modifier.tconstruct.tasty": "Tasty",
   "modifier.tconstruct.tasty.flavor": "Om Nom Nom",
   "modifier.tconstruct.tasty.description": "Smells so good, you cannot resist taking a few bites of your tool",
@@ -2428,6 +2439,11 @@
   "modifier.tconstruct.the_one_probe.flavor": "Sciency!",
   "modifier.tconstruct.the_one_probe.description": "Shows information about the targeted block when held or on a helmet.",
 
+  "_comment": "Internal modifiers",
+  "modifier.tconstruct.fast_use_item": "Fast Use Item",
+  "modifier.tconstruct.overslime_friend": "Overslime Friend",
+
+
   "_comment": "Internal effects",
   "effect.tconstruct.bleeding": "Bleeding",
   "effect.tconstruct.magnetic": "Magnetic",
@@ -2507,6 +2523,11 @@
   "stat.tconstruct.extra": "Binding",
   "stat.tconstruct.bowstring": "Bowstring",
   "tool_stat.tconstruct.extra.no_stats": "No stats",
+
+  "tool_stat.tconstruct.block_amount": "Block Amount: ",
+  "tool_stat.tconstruct.block_amount.description": "Maximum amount of damage blocked by this shield per attack.",
+  "tool_stat.tconstruct.block_angle": "Block Angle: ",
+  "tool_stat.tconstruct.block_angle.description": "Angle in degrees on either side this shield protects. Any attacks from an angle beyond this are not blocked.",
 
   "stat.tconstruct.repair_kit": "Repair Kit",
   "stat.tconstruct.skull": "Slimeskull",
@@ -2607,11 +2628,32 @@
   "recipe.tconstruct.invisible_modifiers.removing.title": "Visible Ink",
   "recipe.tconstruct.invisible_modifiers.removing.description": "Select a hidden modifier to make it show in the tool's model agin",
 
+  "modifier.tconstruct.attack_toggled": "%s (Attack)",
+  "recipe.tconstruct.attack_modifiers.adding.title": "Toggle Interaction Modifier",
+  "recipe.tconstruct.attack_modifiers.adding.description": "Switches an interaction modifier from activating on interaction to attack",
+  "recipe.tconstruct.attack_modifiers.removing.title": "Toggle Interaction Modifier",
+  "recipe.tconstruct.attack_modifiers.removing.description": "Switches an interaction modifier back to activating on interaction",
+
+  "recipe.tconstruct.extract_modifier.title": "Extract Modifier",
+  "recipe.tconstruct.extract_modifier.description": "Select a modifier to extract onto a modifier crystal, slots will be returned but any item cost is lost.",
+  "recipe.tconstruct.extract_modifier.no_modifiers": "Tool does not have any extractable modifiers",
+
+  "recipe.tconstruct.enchantment_converting.upgrades.title": "Extract Upgrade",
+  "recipe.tconstruct.enchantment_converting.slotless.title": "Extract Slotless",
+  "recipe.tconstruct.enchantment_converting.abilities.title": "Extract Ability",
+  "recipe.tconstruct.enchantment_converting.defense.title": "Extract Defense",
+  "recipe.tconstruct.enchantment_converting.modifiers.title": "Extract Modifier",
+  "recipe.tconstruct.enchantment_converting.description.lost": "Select a modifier of the given type from the enchanted book to extract as a modifier crystal. The enchanted item will be lost.",
+  "recipe.tconstruct.enchantment_converting.description.keep": "Select a modifier of the given type from the enchanted book to extract as a modifier crystal. The item will be returned unenchanted.",
+  "recipe.tconstruct.enchantment_converting.no_enchantments": "Item does not have any applicable enchantments",
+  "recipe.tconstruct.enchantment_converting.too_few": "Need to provide more inputs to convert an enchantment of a higher level",
+
   "recipe.tconstruct.part_swapping.too_many_parts": "Table is too small to swap parts on this tool",
 
   "recipe.tconstruct.modifier.not_enough_slot": "Need at least 1 %s slot to add this modifier",
   "recipe.tconstruct.modifier.not_enough_slots": "Need at least %s %s slots to add this modifier",
   "recipe.tconstruct.modifier.validate_slots": "This change leaves the tool with too few %s slots",
+  "recipe.tconstruct.modifier.min_level": "This recipe requires the tool to have at least %s level %s to apply",
   "recipe.tconstruct.modifier.max_level": "%s level cannot be above %s",
   "recipe.tconstruct.modifier.requirements_error": "Tool state invalid for one of the modifiers. Contact your modpack maker and request a more descriptive error.",
 
