@@ -254,7 +254,7 @@
   "item.tconstruct.modifier_crystal": "强化水晶",
   "item.tconstruct.modifier_crystal.format": "%s水晶",
   "item.tconstruct.modifier_crystal.missing": "定义强化类型的NBT缺失或无效",
-  "item.tconstruct.modifier_crystal.tooltip": "加持于工具后对应强化等级增加1级并消耗相应的强化槽。",
+  "item.tconstruct.modifier_crystal.tooltip": "加持于工具后对应强化等级增加1级并消耗相应的强化槽",
 
   "item.tconstruct.creative_slot": "创造强化槽",
   "item.tconstruct.creative_slot.upgrades": "创造升级槽",
@@ -775,7 +775,7 @@
   "_comment": "Tinkers Gadgets",
 
   "block.tconstruct.punji": "尖竹钉",
-  "block.tconstruct.punji.tooltip": "很尖锐！还能钉在墙上",
+  "block.tconstruct.punji.tooltip": "很尖锐！还能钉在墙上。",
 
   "item.tconstruct.clear_item_frame": "通透玻璃物品展示框",
   "item.tconstruct.gold_item_frame": "金物品展示框",
@@ -785,7 +785,7 @@
   "item.tconstruct.netherite_item_frame": "下界合金物品展示框",
 
   "item.tconstruct.glow_ball": "荧光球",
-  "item.tconstruct.glow_ball.tooltip": "不宜食用。",
+  "item.tconstruct.glow_ball.tooltip": "不宜食用",
   "item.tconstruct.efln_ball": "EFLN",
   "item.tconstruct.efln_ball.tooltip": "爆破！一种安全的采矿方式",
 
@@ -814,16 +814,16 @@
   "item.tconstruct.piggy_backpack.tooltip": "对生物使用来驮起它们",
   "effect.tconstruct.carry": "背负",
 
-  "block.tconstruct.blaze_head": "烈焰人头颅",
-  "block.tconstruct.enderman_head": "末影人头颅",
+  "block.tconstruct.blaze_head": "烈焰人的头",
+  "block.tconstruct.enderman_head": "末影人的头",
   "block.tconstruct.stray_head": "流浪者头颅",
-  "block.tconstruct.husk_head": "尸壳头颅",
-  "block.tconstruct.drowned_head": "溺尸头颅",
-  "block.tconstruct.spider_head": "蜘蛛头颅",
-  "block.tconstruct.cave_spider_head": "洞穴蜘蛛头颅",
-  "block.tconstruct.piglin_head": "猪灵头颅",
-  "block.tconstruct.piglin_brute_head": "猪灵蛮兵头颅",
-  "block.tconstruct.zombified_piglin_head": "僵尸猪灵头颅",
+  "block.tconstruct.husk_head": "尸壳的头",
+  "block.tconstruct.drowned_head": "溺尸的头",
+  "block.tconstruct.spider_head": "蜘蛛的头",
+  "block.tconstruct.cave_spider_head": "洞穴蜘蛛的头",
+  "block.tconstruct.piglin_head": "猪灵的头",
+  "block.tconstruct.piglin_brute_head": "猪灵蛮兵的头",
+  "block.tconstruct.zombified_piglin_head": "僵尸猪灵的头",
 
 
   "_comment": "Tinkers Tables",
@@ -992,7 +992,7 @@
   "gui.tconstruct.melting.fuel.no_tank": "结构内缺少储罐",
   "gui.tconstruct.melting.fuel.empty": "缺少燃料",
   "gui.tconstruct.melting.fuel.solid": "固体燃料",
-  "gui.tconstruct.melting.fuel.temperature": "温度：%s ℃",
+  "gui.tconstruct.melting.fuel.temperature": "温度：%s °C",
   "gui.tconstruct.melting.fuel.invalid": "无效的熔炼燃料！",
 
   "gui.tconstruct.duct": "输导孔",
@@ -1054,7 +1054,7 @@
   "block.tconstruct.seared_glass_pane.tooltip": "无法用于构造冶炼炉",
 
   "block.tconstruct.seared_ladder": "焦黑梯子",
-  "block.tconstruct.seared_ladder.tooltip": "可供攀爬的冶炼炉建材。",
+  "block.tconstruct.seared_ladder.tooltip": "可供攀爬的冶炼炉建材",
 
   "block.tconstruct.seared_fuel_tank": "焦黑燃料储罐",
   "block.tconstruct.seared_fuel_tank.tooltip": "冶炼炉的心脏\n被破坏时仍能保留其中的液体",
@@ -1155,7 +1155,7 @@
   "block.tconstruct.scorched_channel.tooltip": "将上方浇注口中流下的流体进行分流",
 
   "block.tconstruct.scorched_alloyer": "焦褐合金炉",
-  "block.tconstruct.scorched_alloyer.tooltip": "简单的合金制造机器。\n将其安放在储罐或焦黑加热器的上方来接受热源",
+  "block.tconstruct.scorched_alloyer.tooltip": "简单的合金制造机器\n将其安放在储罐或焦黑加热器的上方来接受热源",
   "gui.tconstruct.alloyer": "合金炉",
 
   "block.tconstruct.foundry_controller": "熔铸炉控制器",
@@ -1452,7 +1452,7 @@
 
   "material.tconstruct.seared_stone": "焦黑石",
   "material.tconstruct.seared_stone.flavor": "……赴汤蹈火在所不辞！",
-  "material.tconstruct.seared_stone.encyclopedia": "挖掘可以在冶炼炉中熔化的方块时每级+6采掘速度。",
+  "material.tconstruct.seared_stone.encyclopedia": "挖掘可以在冶炼炉中熔化的方块时，每级采掘速度+6。",
 
   "material.tconstruct.scorched_stone": "焦褐石",
   "material.tconstruct.scorched_stone.flavor": "焦黑石（创始人典藏版）",
@@ -1499,7 +1499,7 @@
   "__comment": "Tier 3 Materials",
   "material.tconstruct.slimesteel": "黏钢",
   "material.tconstruct.slimesteel.flavor": "你要把钢黏到一起才能获得黏钢",
-  "material.tconstruct.slimesteel.encyclopedia": "黏液覆层+25，每级增加最大值的50%。",
+  "material.tconstruct.slimesteel.encyclopedia": "黏液覆层+25点，每级增加最大值的50%。",
 
   "material.tconstruct.nahuatl": "纳瓦特尔",
   "material.tconstruct.nahuatl.flavor": "这真的不是黑曜石，如果是的话它的名字就会叫做“黑曜石”了",
@@ -1512,7 +1512,7 @@
 
   "material.tconstruct.pig_iron": "生铁",
   "material.tconstruct.pig_iron.flavor": "这是最强材料，不接受反驳",
-  "material.tconstruct.pig_iron.encyclopedia": "可以吃，每级增加1点饥饿值和0.1饱和度恢复值。",
+  "material.tconstruct.pig_iron.encyclopedia": "可以吃，每级增加1点饥饿值和0.1点饱和度恢复值。",
   "material.tconstruct.pig_iron.skull_flavor": "惹恼我可没有好下场！",
   "material.tconstruct.pig_iron.skull_encyclopedia": "受到来自其他生物的伤害时获得15秒力量效果。",
 
@@ -1651,7 +1651,7 @@
   "material.tconstruct.constantan": "康铜",
   "material.tconstruct.constantan.flavor": "诶，康铜！我还从来没见过呢。都起开，让我“康康”！",
   "material.tconstruct.constantan.encyclopedia": "在极冷环境下采掘速度+7.5，极热环境下则双倍增加。",
-  "material.tconstruct.constantan.ranged": "在极冷环境下+0.15初速度，极热环境下则双倍增加。",
+  "material.tconstruct.constantan.ranged": "在极冷环境下初速度+0.15，极热环境下则双倍增加。",
 
   "material.tconstruct.invar": "殷钢",
   "material.tconstruct.invar.flavor": "它能抵御温度，还能避免追捕",
@@ -1874,7 +1874,7 @@
   "modifier.tconstruct.golden": "金质",
   "modifier.tconstruct.golden.flavor": "好似金子",
   "modifier.tconstruct.golden.description": "不仅让你的盔甲金光灿灿，还为其增加了一种新的修复方式，而且猪灵很喜欢它！",
-  "modifier.tconstruct.ricochet": "反弹",
+  "modifier.tconstruct.ricochet": "弹退",
   "modifier.tconstruct.ricochet.flavor": "额外的弹力",
   "modifier.tconstruct.ricochet.description": "受到攻击时反弹的更远，十分有利于逃跑",
   "modifier.tconstruct.revitalizing": "振作",
@@ -1925,8 +1925,11 @@
   "modifier.tconstruct.dragonborn.resistance": "空中抗性",
   "modifier.tconstruct.shulking": "潜影壳",
   "modifier.tconstruct.shulking.flavor": "这个壳是我的家",
-  "modifier.tconstruct.shulking.description": "潜行时提升抗性，但也减少攻击力",
+  "modifier.tconstruct.shulking.description": "潜行时提升抗性，但同时减少攻击力",
   "modifier.tconstruct.shulking.resistance": "外壳抗性",
+  "modifier.tconstruct.boundless": "无垠",
+  "modifier.tconstruct.boundless.flavor": "提升上限！",
+  "modifier.tconstruct.boundless.description": "提升所有来源的保护加成上限",
 
   "_comment": "Armor - counterattack",
   "modifier.tconstruct.thorns": "荆棘",
@@ -2004,6 +2007,10 @@
   "modifier.tconstruct.feather_falling.flavor": "呼呼呼",
   "modifier.tconstruct.feather_falling.description": "软着陆能减少伤害",
   "modifier.tconstruct.feather_falling.resistance": "摔落抗性",
+  "modifier.tconstruct.long_fall": "远距防摔",
+  "modifier.tconstruct.long_fall.flavor": "腿部装甲靴！",
+  "modifier.tconstruct.long_fall.description": "抵消所有摔落伤害",
+  "recipe.tconstruct.modifier.long_fall": "“远距防摔”需要“摔落保护 IV”作为前置",
   "modifier.tconstruct.soulspeed": "灵魂疾行",
   "modifier.tconstruct.soulspeed.flavor": "鬼怪",
   "modifier.tconstruct.soulspeed.description": "提升灵魂沙上的移动速度",
@@ -2038,7 +2045,12 @@
   "modifier.tconstruct.flamewake.flavor": "这可真行",
   "modifier.tconstruct.flamewake.description": "在你的身后留下一条长长的火痕",
 
+  "_comment": "Armor - shields",
+  "modifier.tconstruct.reflecting": "反弹",
+  "modifier.tconstruct.reflecting.flavor": "弹性盾牌！",
+  "modifier.tconstruct.reflecting.description": "举盾后短时间内允许反弹弹射物",
 
+  
   "_comment": "Abilities",
   "modifier.tconstruct.unbreakable": "不毁",
   "modifier.tconstruct.unbreakable.flavor": "冷冻封存！",
@@ -2115,6 +2127,9 @@
   "modifier.tconstruct.blocking": "格挡",
   "modifier.tconstruct.blocking.flavor": "今天不行！明天也不行！",
   "modifier.tconstruct.blocking.description": "手持工具交互可阻挡所受到的伤害",
+  "modifier.tconstruct.parrying": "招架",
+  "modifier.tconstruct.parrying.flavor": "忍者招式！",
+  "modifier.tconstruct.parrying.description": "攻击后能短暂格挡，从而能挡开多数攻击",
   "_comment": "Fluids",
   "modifier.tconstruct.melting": "熔炼",
   "modifier.tconstruct.melting.flavor": "木棍上的熔炼之力！",
@@ -2374,7 +2389,7 @@
   "modifier.tconstruct.plague": "瘟疫",
   "modifier.tconstruct.plague.flavor": "具有极强传染性",
   "modifier.tconstruct.plague.description": "让近战目标获得所有你拥有的负面效果",
-  "modifier.tconstruct.breathtaking": "惊险",
+  "modifier.tconstruct.breathtaking": "窃息",
   "modifier.tconstruct.breathtaking.flavor": "简直太棒了",
   "modifier.tconstruct.breathtaking.description": "近战攻击时能从敌人那带走空气",
   "modifier.tconstruct.firebreath": "火息",
@@ -2404,7 +2419,7 @@
   "modifier.tconstruct.stray_disguise.flavor": "来自北方的寒冷骷髅",
   "modifier.tconstruct.stray_disguise.description": "对于流浪者来说，你和其他流浪者看起来差不多",
   "modifier.tconstruct.wither_skeleton_disguise": "凋灵骷髅伪装",
-  "modifier.tconstruct.wither_skeleton_disguise.flavor": "走向凋灵的1/3之路",
+  "modifier.tconstruct.wither_skeleton_disguise.flavor": "走向凋灵的三分之一之路",
   "modifier.tconstruct.wither_skeleton_disguise.description": "对于凋灵骷髅来说，你和其他凋灵骷髅看起来差不多",
   "modifier.tconstruct.spider_disguise": "蜘蛛伪装",
   "modifier.tconstruct.spider_disguise.flavor": "嘶嘶嘶嘶嘶嘶嘶嘶嘶嘶嘶",
@@ -2440,8 +2455,8 @@
   "modifier.tconstruct.the_one_probe.description": "当手持或者附加于头盔时，能够显示指向方块的信息",
 
   "_comment": "Internal modifiers",
-  "modifier.tconstruct.fast_use_item": "快速使用",
   "modifier.tconstruct.overslime_friend": "黏液之友",
+  "modifier.tconstruct.snow_boots": "雪地靴",
   
 
   "_comment": "Internal effects",
@@ -2487,6 +2502,8 @@
   "tool_stat.tconstruct.attack_speed.description": "攻击速度计算所依据的基准值\n大致为每秒满蓄力攻击的次数",
   "tool_stat.tconstruct.durability": "耐久度：",
   "tool_stat.tconstruct.durability.description": "耐久度计算所依据的基准值\n通常是工具整体耐久不可或缺的一部分",
+  "tool_stat.tconstruct.use_item_speed": "使用时移速：",
+  "tool_stat.tconstruct.use_item_speed.description": "使用物品（例如弓和盾牌）时移动速度的倍率",
 
   "stat.tconstruct.head": "顶端",
   "tool_stat.tconstruct.mining_speed": "采掘速度：",
@@ -2527,7 +2544,7 @@
   "tool_stat.tconstruct.block_amount": "格挡值：",
   "tool_stat.tconstruct.block_amount.description": "每次受到攻击时所阻挡伤害的最大值",
   "tool_stat.tconstruct.block_angle": "格挡角度：",
-  "tool_stat.tconstruct.block_angle.description": "此盾在其正前方两侧能提供保护的角度范围，超出该角度范围的攻击不会被阻挡",
+  "tool_stat.tconstruct.block_angle.description": "防御时前方能格挡攻击的总角度，超出该角度范围的攻击不会被阻挡",
 
   "stat.tconstruct.repair_kit": "修理件",
   "stat.tconstruct.skull": "黏液头颅",
@@ -2770,7 +2787,7 @@
 
   "_comment": "JEI Strings",
   "jei.tconstruct.time": "%s秒",
-  "jei.tconstruct.temperature": "%s℃",
+  "jei.tconstruct.temperature": "%s°C",
   "jei.tconstruct.modifier_ingredient": "%s强化",
 
   "jei.tconstruct.casting.basin": "铸造盆",
@@ -2868,7 +2885,7 @@
   "advancements.tconstruct.foundry.plate_armor.title": "镶板盔甲",
   "advancements.tconstruct.foundry.plate_armor.description": "制作全套的镶板盔甲",
   "advancements.tconstruct.foundry.manyullyn_lanterns.title": "饱和光照",
-  "advancements.tconstruct.foundry.manyullyn_lanterns.description": "制作一整组装满熔融玛玉灵的焦黑/焦褐灯笼",
+  "advancements.tconstruct.foundry.manyullyn_lanterns.description": "制作一整组装满熔融玛玉灵的焦黑或焦褐灯笼",
   "advancements.tconstruct.foundry.encyclopedia.title": "百科全书",
   "advancements.tconstruct.foundry.encyclopedia.description": "将你从书中得来的所有知识凝练成一本《工匠大百科》",
 

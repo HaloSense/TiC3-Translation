@@ -66,7 +66,7 @@
   "block.tconstruct.magenta_clear_stained_glass": "Clear Magenta Stained Glass",
   "block.tconstruct.light_blue_clear_stained_glass": "Clear Light Blue Stained Glass",
   "block.tconstruct.yellow_clear_stained_glass": "Clear Yellow Stained Glass",
-  "block.tconstruct.lime_clear_stained_glass": "Clear Light Green Stained Glass",
+  "block.tconstruct.lime_clear_stained_glass": "Clear Lime Stained Glass",
   "block.tconstruct.pink_clear_stained_glass": "Clear Pink Stained Glass",
   "block.tconstruct.gray_clear_stained_glass": "Clear Gray Stained Glass",
   "block.tconstruct.light_gray_clear_stained_glass": "Clear Light Gray Stained Glass",
@@ -83,7 +83,7 @@
   "block.tconstruct.magenta_clear_stained_glass_pane": "Clear Magenta Stained Glass Pane",
   "block.tconstruct.light_blue_clear_stained_glass_pane": "Clear Light Blue Stained Glass Pane",
   "block.tconstruct.yellow_clear_stained_glass_pane": "Clear Yellow Stained Glass Pane",
-  "block.tconstruct.lime_clear_stained_glass_pane": "Clear Light Green Stained Glass Pane",
+  "block.tconstruct.lime_clear_stained_glass_pane": "Clear Lime Stained Glass Pane",
   "block.tconstruct.pink_clear_stained_glass_pane": "Clear Pink Stained Glass Pane",
   "block.tconstruct.gray_clear_stained_glass_pane": "Clear Gray Stained Glass Pane",
   "block.tconstruct.light_gray_clear_stained_glass_pane": "Clear Light Gray Stained Glass Pane",
@@ -1065,7 +1065,7 @@
   "block.tconstruct.seared_ingot_gauge": "Seared Ingot Gauge",
   "block.tconstruct.seared_ingot_gauge.tooltip": "Ideal for metals, holding 48 ingots of fluid.\nRetains liquid when broken.",
   "block.tconstruct.seared_lantern": "Seared Lantern",
-  "block.tconstruct.seared_lantern.tooltip": "Ideal for decoration, holding 100mb of fluid.\nRetains liquid when broken.",
+  "block.tconstruct.seared_lantern.tooltip": "Ideal for decoration, holding 50mb of fluid.\nRetains liquid when broken.",
 
   "block.tconstruct.seared_faucet": "Seared Faucet",
   "block.tconstruct.seared_faucet.tooltip": "Drains liquids from Smelteries and Tanks",
@@ -1927,6 +1927,9 @@
   "modifier.tconstruct.shulking.flavor": "This shell is my home",
   "modifier.tconstruct.shulking.description": "Increases resistance while sneaking, but also decreases damage",
   "modifier.tconstruct.shulking.resistance": "Shell Resistance",
+  "modifier.tconstruct.boundless": "Boundless",
+  "modifier.tconstruct.boundless.flavor": "Increasing your limits",
+  "modifier.tconstruct.boundless.description": "Increases the maximum percentage of protection from any source",
 
   "_comment": "Armor - counterattack",
   "modifier.tconstruct.thorns": "Thorns",
@@ -1990,7 +1993,7 @@
   "modifier.tconstruct.shield_strap.description": "Interacting with the leggings allows swapping the offhand item",
   "modifier.tconstruct.tool_belt": "Tool Belt",
   "modifier.tconstruct.tool_belt.flavor": "Ever wish for more hands?",
-  "modifier.tconstruct.tool_belt.description": "Interacting with the leggings whle holding control allows swapping the hotbar",
+  "modifier.tconstruct.tool_belt.description": "Interacting with the leggings while holding control allows swapping the hotbar",
   "recipe.tconstruct.modifier.tool_belt": "Tool belt recipes must be applied in order",
   "modifier.tconstruct.pocket_chain": "Pocket Chain",
   "modifier.tconstruct.pocket_chain.flavor": "One Chain to Bind Them",
@@ -2004,6 +2007,10 @@
   "modifier.tconstruct.feather_falling.flavor": "Floof",
   "modifier.tconstruct.feather_falling.description": "Softens falls causing reduced damage",
   "modifier.tconstruct.feather_falling.resistance": "Fall Resistance",
+  "modifier.tconstruct.long_fall": "Long Fall",
+  "modifier.tconstruct.long_fall.flavor": "Foot-based suit of armor",
+  "modifier.tconstruct.long_fall.description": "Neutralizes all fall damage",
+  "recipe.tconstruct.modifier.long_fall": "Long Fall requires Feather Falling IV to apply",
   "modifier.tconstruct.soulspeed": "Soulspeed",
   "modifier.tconstruct.soulspeed.flavor": "Spooky",
   "modifier.tconstruct.soulspeed.description": "Increases movement speed on soul sand",
@@ -2037,6 +2044,11 @@
   "modifier.tconstruct.flamewake": "Flamewake",
   "modifier.tconstruct.flamewake.flavor": "This is fine!",
   "modifier.tconstruct.flamewake.description": "Leave a trail of fire in your wake",
+
+  "_comment": "Armor - shields",
+  "modifier.tconstruct.reflecting": "Reflecting",
+  "modifier.tconstruct.reflecting.flavor": "Bouncy Shield",
+  "modifier.tconstruct.reflecting.description": "Allows reflecting projectiles within a short window of deploying your shield",
 
 
   "_comment": "Abilities",
@@ -2115,6 +2127,9 @@
   "modifier.tconstruct.blocking": "Blocking",
   "modifier.tconstruct.blocking.flavor": "The non-cube type",
   "modifier.tconstruct.blocking.description": "Interacting with the tool will allow blocking incoming damage",
+  "modifier.tconstruct.parrying": "Parrying",
+  "modifier.tconstruct.parrying.flavor": "Ninja reflexes",
+  "modifier.tconstruct.parrying.description": "Briefly block after attacking, allowing for deflection of many attacks",
   "_comment": "Fluids",
   "modifier.tconstruct.melting": "Melting",
   "modifier.tconstruct.melting.flavor": "The power of a Melter on a stick!",
@@ -2440,8 +2455,8 @@
   "modifier.tconstruct.the_one_probe.description": "Shows information about the targeted block when held or on a helmet.",
 
   "_comment": "Internal modifiers",
-  "modifier.tconstruct.fast_use_item": "Fast Use Item",
   "modifier.tconstruct.overslime_friend": "Overslime Friend",
+  "modifier.tconstruct.snow_boots": "Snow Boots",
 
 
   "_comment": "Internal effects",
@@ -2487,6 +2502,8 @@
   "tool_stat.tconstruct.attack_speed.description": "Base value for attack speed calculations.\nRoughly full strength attacks per second.",
   "tool_stat.tconstruct.durability": "Durability: ",
   "tool_stat.tconstruct.durability.description": "The base-value for durability calculations.\nUsually an integral part to the overall durability of a tool.",
+  "tool_stat.tconstruct.use_item_speed": "Use Item Speed: ",
+  "tool_stat.tconstruct.use_item_speed.description": "Movement speed multiplier when using an item, such as a bow or a shield.",
 
   "stat.tconstruct.head": "Head",
   "tool_stat.tconstruct.mining_speed": "Mining Speed: ",
@@ -2527,7 +2544,7 @@
   "tool_stat.tconstruct.block_amount": "Block Amount: ",
   "tool_stat.tconstruct.block_amount.description": "Maximum amount of damage blocked by this shield per attack.",
   "tool_stat.tconstruct.block_angle": "Block Angle: ",
-  "tool_stat.tconstruct.block_angle.description": "Angle in degrees on either side this shield protects. Any attacks from an angle beyond this are not blocked.",
+  "tool_stat.tconstruct.block_angle.description": "Total angle of protection in front when shielding out of a max 360 degrees. Any attacks from an angle beyond this are not blocked.",
 
   "stat.tconstruct.repair_kit": "Repair Kit",
   "stat.tconstruct.skull": "Slimeskull",
@@ -2626,12 +2643,12 @@
   "recipe.tconstruct.invisible_modifiers.adding.title": "Invisible Ink",
   "recipe.tconstruct.invisible_modifiers.adding.description": "Select a modifier to hide it from the tool's model",
   "recipe.tconstruct.invisible_modifiers.removing.title": "Visible Ink",
-  "recipe.tconstruct.invisible_modifiers.removing.description": "Select a hidden modifier to make it show in the tool's model agin",
+  "recipe.tconstruct.invisible_modifiers.removing.description": "Select a hidden modifier to make it show in the tool's model again",
 
   "modifier.tconstruct.attack_toggled": "%s (Attack)",
-  "recipe.tconstruct.attack_modifiers.adding.title": "Toggle Interaction Modifier",
+  "recipe.tconstruct.attack_modifiers.adding.title": "Toggle Interaction",
   "recipe.tconstruct.attack_modifiers.adding.description": "Switches an interaction modifier from activating on interaction to attack",
-  "recipe.tconstruct.attack_modifiers.removing.title": "Toggle Interaction Modifier",
+  "recipe.tconstruct.attack_modifiers.removing.title": "Untoggle Interaction",
   "recipe.tconstruct.attack_modifiers.removing.description": "Switches an interaction modifier back to activating on interaction",
 
   "recipe.tconstruct.extract_modifier.title": "Extract Modifier",
