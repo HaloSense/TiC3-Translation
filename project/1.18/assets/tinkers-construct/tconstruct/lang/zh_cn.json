@@ -262,7 +262,7 @@
   "item.tconstruct.creative_slot.souls": "创造灵魂槽",
   "item.tconstruct.creative_slot.defense": "创造防御槽",
   "item.tconstruct.creative_slot.missing": "定义强化槽类型的NBT缺失或无效",
-  "item.tconstruct.creative_slot.tooltip": "为工具增加一个额外的%s槽",
+  "item.tconstruct.creative_slot.tooltip": "为工具增加1个额外的%s槽",
 
   "item.tconstruct.copper_can": "铜罐",
   "item.tconstruct.copper_can.tooltip": "可堆叠的流体容器，能够盛装90mB（1锭）的流体",
@@ -852,6 +852,7 @@
 
   "_comment_on_format_": "These format allows you to have more control over separators in material names. By default we separate with space. You can use %1$s and %2$s if you wish to change the order.",
   "item.tconstruct.tool.format": "%s%s",
+  "item.tconstruct.tool.id_format": "%s（%s）",
   "item.tconstruct.tool.material_separator": "-",
 
   "item.tconstruct.pickaxe": "镐",
@@ -965,12 +966,12 @@
   "_comment": "Smeltery shared",
 
   "block.tconstruct.tank.fluid": "液体储量：%s",
-  "block.tconstruct.tank.mb": "%d mB",
+  "block.tconstruct.tank.mb": "%dmB",
   "block.tconstruct.tank.ingots": "%d锭",
-  "block.tconstruct.tank.mixed": "%d锭，%d mB",
+  "block.tconstruct.tank.mixed": "%d锭，%dmB",
 
-  "block.tconstruct.tank.drained": "输出%s mB%s",
-  "block.tconstruct.tank.filled": "输入%s mB%s",
+  "block.tconstruct.tank.drained": "输出%smB%s",
+  "block.tconstruct.tank.filled": "输入%smB%s",
 
   "block.tconstruct.channel.side.in": "将该侧面设为输入",
   "block.tconstruct.channel.side.out": "将该侧面设为输出",
@@ -1170,9 +1171,9 @@
   "block.tconstruct.scorched_chute.tooltip": "熔铸炉输入输出物品的端口",
 
 
-  "gui.tconstruct.fluid.kilobucket": "%s kB",
-  "gui.tconstruct.fluid.bucket": "%s B",
-  "gui.tconstruct.fluid.millibucket": "%s mB",
+  "gui.tconstruct.fluid.kilobucket": "%skB",
+  "gui.tconstruct.fluid.bucket": "%sB",
+  "gui.tconstruct.fluid.millibucket": "%smB",
 
   "gui.tconstruct.fluid.block": "%s块",
   "gui.tconstruct.fluid.ingot": "%s锭",
@@ -1422,7 +1423,7 @@
   "material.tconstruct.necrotic_bone.skull_flavor": "惊悚恐怖骷髅头！",
   "material.tconstruct.necrotic_bone.skull_encyclopedia": "普通攻击给予敌人凋零效果。饮用牛奶后可给予凋零II。",
 
-  "material.tconstruct.chorus": "紫颂果",
+  "material.tconstruct.chorus": "紫颂",
   "material.tconstruct.chorus.flavor": "不只是末影人，还有末影娘和末影孩",
   "material.tconstruct.chorus.encyclopedia": "防止目标瞬移，每级+5秒。",
   "material.tconstruct.chorus.ranged": "防止目标瞬移，每级+5秒，也使得箭矢能击中末影人。",
@@ -1546,8 +1547,8 @@
 
   "material.tconstruct.blazing_bone": "烈焰之骨",
   "material.tconstruct.blazing_bone.flavor": "获取下界要塞的所有力量——烈焰之力与骨之力",
-  "material.tconstruct.blazing_bone.encyclopedia": "在火焰中每秒伤害+1%，熔岩中15秒伤害至多+15%。减少火焰抗性效果的增益。",
-  "material.tconstruct.blazing_bone.ranged": "在火焰中每秒箭矢伤害+1%，熔岩中15秒伤害至多+15%。减少火焰抗性效果的增益。",
+  "material.tconstruct.blazing_bone.encyclopedia": "在火焰中每秒伤害+1%，熔岩中15秒伤害至多+15%。防火效果会减少加成。",
+  "material.tconstruct.blazing_bone.ranged": "在火焰中每秒箭矢伤害+1%，熔岩中15秒伤害至多+15%。防火效果会减少加成。",
   "material.tconstruct.blazing_bone.skull_flavor": "我给他们说了，这东西技术上来说其实是吐火，不是喷火。但是很明显，我发明的东西我却没有命名权。",
   "material.tconstruct.blazing_bone.skull_encyclopedia": "能够以火球的形式从物品栏中发射火焰弹。冷却时间5秒钟，不能在水下使用。",
 
@@ -2090,6 +2091,7 @@
   "modifier.tconstruct.reach": "长臂",
   "modifier.tconstruct.reach.flavor": "心灵促动！",
   "modifier.tconstruct.reach.description": "持握该工具时延伸触及距离，以便进行更远的采掘与攻击！",
+  
   "_comment": "Block transform",
   "modifier.tconstruct.pathing": "铺路",
   "modifier.tconstruct.pathing.flavor": "有路走遍天下！",
@@ -2104,7 +2106,7 @@
   "modifier.tconstruct.glowing.flavor": "闪闪放光芒！",
   "modifier.tconstruct.glowing.description": "持握者潜行时可放置荧光球，会消耗工具耐久度",
   "modifier.tconstruct.exchanging": "置换",
-  "modifier.tconstruct.exchanging.flavor": "！了转反",
+  "modifier.tconstruct.exchanging.flavor": "出其不意！",
   "modifier.tconstruct.exchanging.description": "若有可能，副手持握的方块将会在该工具挖掘方块后，立即填补被挖空的位置",
   "modifier.tconstruct.firestarter": "纵火",
   "modifier.tconstruct.firestarter.flavor": "熊熊火焰燃烧了我！",
@@ -2125,18 +2127,31 @@
   "modifier.tconstruct.harvest.flavor": "春耕秋获！",
   "modifier.tconstruct.harvest.description": "工具可收割并重新种植农作物",
   "modifier.tconstruct.blocking": "格挡",
-  "modifier.tconstruct.blocking.flavor": "今天不行！明天也不行！",
+  "modifier.tconstruct.blocking.flavor": "抱歉，今天不行！明天也不行！",
   "modifier.tconstruct.blocking.description": "手持工具交互可阻挡所受到的伤害",
   "modifier.tconstruct.parrying": "招架",
   "modifier.tconstruct.parrying.flavor": "忍者招式！",
   "modifier.tconstruct.parrying.description": "攻击后能短暂格挡，从而能挡开多数攻击",
+  "modifier.tconstruct.flinging": "腾跃",
+  "modifier.tconstruct.flinging.flavor": "离开地球",
+  "modifier.tconstruct.flinging.description": "蓄力，瞄准低空，离地发射！\n如果你珍爱生命，请务必加持弹跳强化。",
+  "modifier.tconstruct.springing": "飞跃",
+  "modifier.tconstruct.springing.flavor": "一飞冲天",
+  "modifier.tconstruct.springing.description": "蓄力，瞄准高空，冲入云端！",
+  "modifier.tconstruct.bonking": "重击",
+  "modifier.tconstruct.bonking.flavor": "灵浆重击",
+  "modifier.tconstruct.bonking.description": "蓄力，瞄准敌人，重击敌人！",
+  "modifier.tconstruct.warping": "折跃",
+  "modifier.tconstruct.warping.flavor": "末影传送",
+  "modifier.tconstruct.warping.description": "蓄力，瞄准墙壁，隔墙传送！",
+
   "_comment": "Fluids",
   "modifier.tconstruct.melting": "熔炼",
   "modifier.tconstruct.melting.flavor": "木棍上的熔炼之力！",
   "modifier.tconstruct.melting.description": "熔炼攻击目标及其掉落物！",
   "modifier.tconstruct.tank": "储液",
-  "modifier.tconstruct.tank.filled": "存储：%s mB %s",
-  "modifier.tconstruct.tank.capacity": "存储容量：%s mB",
+  "modifier.tconstruct.tank.filled": "存储：%smB%s",
+  "modifier.tconstruct.tank.capacity": "存储容量：%smB",
   "modifier.tconstruct.tank.flavor": "越大越好！",
   "modifier.tconstruct.tank.description": "工具拥有一个可存储流体的内部储罐",
   "modifier.tconstruct.bucketing": "装桶",
@@ -2144,10 +2159,10 @@
   "modifier.tconstruct.bucketing.description": "工具可以右键收集流体，潜行右键可以放出流体",
   "modifier.tconstruct.spilling": "泼洒",
   "modifier.tconstruct.spilling.flavor": "液体四溅！",
-  "modifier.tconstruct.spilling.description": "武器中的液体会被喷洒到近战目标上，根据液体造成不同的额外效果",
+  "modifier.tconstruct.spilling.description": "武器中的液体会被喷洒到近战目标上，根据液体种类不同，产生不同的效果",
   "modifier.tconstruct.wetting": "润湿",
   "modifier.tconstruct.wetting.flavor": "不是尿裤子那种",
-  "modifier.tconstruct.wetting.description": "在受伤时会用液体打湿自己，根据液体造成不同的效果",
+  "modifier.tconstruct.wetting.description": "在受伤时会用液体打湿自己，根据液体种类不同，产生不同的效果",
 
   "_comment": "Bonus modifier slots",
   "modifier.tconstruct.creative_slot": "创造强化",
@@ -2199,7 +2214,7 @@
 
 
   "__comment": "Tier 1 Traits",
-  "modifier.tconstruct.fake_attribute.mining_speed": "采掘速度",
+  "modifier.tconstruct.fake_attribute.mining_speed": "挖掘速度",
 
   "modifier.tconstruct.cultivated": "培植",
   "modifier.tconstruct.cultivated.flavor": "精打细算！",
@@ -2288,7 +2303,7 @@
   "modifier.tconstruct.overlord.description": "工具的部分耐久度会被视作黏液覆层",
   "modifier.tconstruct.momentum": "动力",
   "modifier.tconstruct.momentum.flavor": "勇往直前，快上加快！",
-  "modifier.tconstruct.momentum.description": "工具的采掘速度和拉弓速度会在一次无中断的采掘和发射过程中不断提升",
+  "modifier.tconstruct.momentum.description": "工具的采掘速度和拉弓速度会在一次无中断的采掘和射击过程中不断提升",
   "modifier.tconstruct.momentum.speed": "动力速度",
   "modifier.tconstruct.insatiable": "贪婪",
   "modifier.tconstruct.insatiable.flavor": "初识真味，欲望无垠！",
@@ -2326,7 +2341,7 @@
   "modifier.tconstruct.stoneshield.description": "挖掘的石头有概率保护工具免受之后的耐久度损失",
   "modifier.tconstruct.featherweight": "轻盈",
   "modifier.tconstruct.featherweight.flavor": "轻如鸿毛！",
-  "modifier.tconstruct.featherweight.description": "工具更为轻便，拉弓速度和精确度更高",
+  "modifier.tconstruct.featherweight.description": "工具更为轻便；拉弓速度和精确度更高",
   "modifier.tconstruct.holy": "神圣",
   "modifier.tconstruct.holy.flavor": "死吧，肮脏贱物！",
   "modifier.tconstruct.holy.description": "箭矢对亡灵生物造成额外伤害",
@@ -2364,7 +2379,7 @@
   "_comment": "Slimeskull traits",
   "modifier.tconstruct.self_destructive": "自毁",
   "modifier.tconstruct.self_destructive.flavor": "不太健康",
-  "modifier.tconstruct.self_destructive.description": "潜行头盔交互时有可能会爆炸",
+  "modifier.tconstruct.self_destructive.description": "潜行并按下“头盔交互”键时，有可能会发生爆炸",
   "modifier.tconstruct.enderdodging": "末影躲闪",
   "modifier.tconstruct.enderdodging.flavor": "像末影人一样敏捷",
   "modifier.tconstruct.enderdodging.description": "允许通过传送的方式躲避弹射物攻击，或在被攻击时随机传送",
@@ -2382,7 +2397,7 @@
   "modifier.tconstruct.boon_of_sssss.description": "提升正面效果时长",
   "modifier.tconstruct.mithridatism": "秘术",
   "modifier.tconstruct.mithridatism.flavor": "逐渐免疫一切",
-  "modifier.tconstruct.mithridatism.description": "对中毒效果免疫，但是对已有的中毒无效……",
+  "modifier.tconstruct.mithridatism.description": "对中毒效果免疫，但是对已有的中毒效果无效……",
   "modifier.tconstruct.wildfire": "野火",
   "modifier.tconstruct.wildfire.flavor": "火势在不断蔓延！",
   "modifier.tconstruct.wildfire.description": "如果玩家着火，延长攻击目标的着火时间",
@@ -2394,7 +2409,7 @@
   "modifier.tconstruct.breathtaking.description": "近战攻击时能从敌人那带走空气",
   "modifier.tconstruct.firebreath": "火息",
   "modifier.tconstruct.firebreath.flavor": "非常的火辣",
-  "modifier.tconstruct.firebreath.description": "使用“头盔交互”键时，能够喷射火焰",
+  "modifier.tconstruct.firebreath.description": "按下“头盔交互”键时，能够喷射火焰",
   "modifier.tconstruct.chrysophilite": "金石",
   "modifier.tconstruct.chrysophilite.flavor": "就是说你喜欢金子",
   "modifier.tconstruct.chrysophilite.description": "采矿或击杀怪物时增加金子的掉落",
@@ -2498,8 +2513,8 @@
 
   "_comment": "Stats",
 
-  "tool_stat.tconstruct.attack_speed": "攻击速度：",
-  "tool_stat.tconstruct.attack_speed.description": "攻击速度计算所依据的基准值\n大致为每秒满蓄力攻击的次数",
+  "tool_stat.tconstruct.attack_speed": "近战速度：",
+  "tool_stat.tconstruct.attack_speed.description": "近战攻击速度计算所依据的基准值\n大致为每秒满蓄力攻击的次数",
   "tool_stat.tconstruct.durability": "耐久度：",
   "tool_stat.tconstruct.durability.description": "耐久度计算所依据的基准值\n通常是工具整体耐久不可或缺的一部分",
   "tool_stat.tconstruct.use_item_speed": "使用时移速：",
@@ -2508,9 +2523,9 @@
   "stat.tconstruct.head": "顶端",
   "tool_stat.tconstruct.mining_speed": "采掘速度：",
   "tool_stat.tconstruct.mining_speed.description": "若使用该材料制作顶端，此项决定工具在采掘方块时的采掘速度\n可能受到工具其余部件的影响",
-  "tool_stat.tconstruct.harvest_tier": "采掘等级：",
+  "tool_stat.tconstruct.harvest_tier": "Mining Tier: ",
   "tool_stat.tconstruct.harvest_tier.description": "若使用该材料制作顶端，此项决定工具可采掘方块的等级范围",
-  "tool_stat.tconstruct.attack_damage": "攻击伤害：",
+  "tool_stat.tconstruct.attack_damage": "近战伤害：",
   "tool_stat.tconstruct.attack_damage.description": "工具近战攻击伤害计算所依据的基准值。\n最终数值受工具本身及其它组分的影响",
 
   "tool_stat.tconstruct.armor": "护甲值：",
@@ -2534,8 +2549,8 @@
   "tool_stat.tconstruct.velocity.description": "决定发射后箭矢的飞行速度。箭矢的速度越快，其造成的伤害越高",
   "tool_stat.tconstruct.accuracy": "精确度：",
   "tool_stat.tconstruct.accuracy.description": "决定弓瞄准点距中心点的距离",
-  "tool_stat.tconstruct.projectile_damage": "弹射物伤害：",
-  "tool_stat.tconstruct.projectile_damage.description": "决定这个武器所发射的弹射物的基础伤害",
+  "tool_stat.tconstruct.projectile_damage": "弹射物力量：",
+  "tool_stat.tconsturct.projectile_damage.description": "决定这个武器所发射的弹射物的基础伤害或力度",
 
   "stat.tconstruct.extra": "附件",
   "stat.tconstruct.bowstring": "弓弦",
@@ -2584,6 +2599,7 @@
   "tooltip.tconstruct.part.missing_material": "缺失材料：%s",
   "tooltip.tconstruct.part.missing_stats": "材料不支持%s",
   "tooltip.tconstruct.part.missing_info": "部件无数据",
+  "tooltip.tconstruct.part.material_id": "材料ID：%s",
 
   "_comment": "GUIs",
 
@@ -2601,7 +2617,7 @@
   "gui.tconstruct.part_builder.info": "在这里你能制作工具部件，从而实现你的工匠之梦。\n\n要制作一个工具部件，你需要将模具放入左侧的空槽，并选择目标部件类型。接着在右侧的槽中放入材料，即可制成对应材料的对应部件。",
   "gui.tconstruct.part_builder.material_value": "材料值：%s",
   "gui.tconstruct.part_builder.cost": "模具消耗：%s",
-  "gui.tconstruct.part_builder.trait": "属性",
+  "gui.tconstruct.part_builder.trait": "特性",
   "gui.tconstruct.part_builder.uncraftable": "无法打造",
   "gui.tconstruct.part_builder.uncraftable.tooltip": "部件制造台无法打造该材料。需使用浇注等方式进行部件成型。",
 
@@ -2616,7 +2632,7 @@
   "gui.tconstruct.tinker_station.repair.description": "制作小型或宽型工具，也可以如你所愿地强化工具。从左侧点击一个按钮来开始制作吧。",
   "gui.tconstruct.tinker_station.modifiers": "强化属性",
   "gui.tconstruct.tinker_station.upgrades": "升级与能力",
-  "gui.tconstruct.tinker_station.traits": "属性",
+  "gui.tconstruct.tinker_station.traits": "特性",
   "gui.tconstruct.tinker_station.components": "组成部件",
   "gui.tconstruct.tinker_station.info": "修复和改装你工具的主要手段。在左侧放置工具和材料即可开始。",
   "gui.tconstruct.tinker_station.no_traits": "无 :[",
@@ -2637,11 +2653,11 @@
   "recipe.tconstruct.remove_modifier.no_modifiers": "工具不具有任何可移除强化",
 
   "recipe.tconstruct.modifier_sorting.title": "强化排序",
-  "recipe.tconstruct.modifier_sorting.description": "选择一个强化以将其材质位置与在列表中的下一个强化的材质位置互换。互换时不消耗配方物品",
+  "recipe.tconstruct.modifier_sorting.description": "选择一个强化以将其纹理位置与在列表中的下一个强化的纹理位置互换。互换时不消耗配方物品",
   "recipe.tconstruct.modifier_sorting.not_enough_modifiers": "工具至少需要2种强化以排序",
 
   "recipe.tconstruct.invisible_modifiers.adding.title": "隐形墨水",
-  "recipe.tconstruct.invisible_modifiers.adding.description": "选择一个强化以将其材质从工具模型中隐藏",
+  "recipe.tconstruct.invisible_modifiers.adding.description": "选择一个强化以将其纹理从工具模型中隐藏",
   "recipe.tconstruct.invisible_modifiers.removing.title": "显形墨水",
   "recipe.tconstruct.invisible_modifiers.removing.description": "选择一个隐藏的强化以使其从工具模型中再次显形",
 
@@ -2675,8 +2691,8 @@
   "recipe.tconstruct.modifier.requirements_error": "工具的其中一个强化已使该工具状态无效，联系整合包作者以了解详细错误情况。",
 
   "recipe.tconstruct.tool_recycling": "工具回收",
-  "recipe.tconstruct.tool_recycling.info": "从构成此工具的工具部件中选择你想回收的一个。根据工具剩余的耐久度，有可能回收第2个工具部件。",
-  "recipe.tconstruct.tool_recycling.no_modifiers": "加持强化或升级的工具无法被回收，你必须先将它们移除。",
+  "recipe.tconstruct.tool_recycling.info": "从组装此工具的工具部件中选择你想回收的一个。根据工具剩余的耐久度大小，甚至有可能回收第2个工具部件。",
+  "recipe.tconstruct.tool_recycling.no_modifiers": "加持升级或能力的工具无法被回收，你必须先将它们移除。",
 
   
   "_comment": "GUIs Messages",
@@ -2706,6 +2722,7 @@
   "subtitles.tconstruct.throw.shuriken": "手里剑：飞出",
   "subtitles.tconstruct.longbow.charge": "长弓：拉弓",
   "subtitles.tconstruct.crystalshot": "箭：击中",
+  "subtitles.tconstruct.bonk": "工具：重击",
 
   "subtitles.tconstruct.necrotic_heal": "生命汲取",
   "subtitles.tconstruct.extra_jump": "实体：嗖",
@@ -2880,8 +2897,8 @@
   "advancements.tconstruct.foundry.alloyer.description": "利用合金炉、一个燃料储罐、若干材料储罐、一个铸件台、一个铸造盆和一个浇注口来部署最基础的合金工艺",
   "advancements.tconstruct.foundry.structure.title": "奇异熔铸",
   "advancements.tconstruct.foundry.structure.description": "使用合金而成的黑曜石制造一个熔铸炉控制器，在完成熔铸炉的搭建后打开其界面",
-  "advancements.tconstruct.foundry.blaze.title": "烈焰之血",
-  "advancements.tconstruct.foundry.blaze.description": "用烈焰之血装满一个储罐",
+  "advancements.tconstruct.foundry.blaze.title": "烈焰血",
+  "advancements.tconstruct.foundry.blaze.description": "用烈焰血装满一个储罐",
   "advancements.tconstruct.foundry.plate_armor.title": "镶板盔甲",
   "advancements.tconstruct.foundry.plate_armor.description": "制作全套的镶板盔甲",
   "advancements.tconstruct.foundry.manyullyn_lanterns.title": "饱和光照",
