@@ -40,7 +40,7 @@
 
   "block.tconstruct.clear_glass": "Clear Glass",
   "block.tconstruct.clear_glass_pane": "Clear Glass Pane",
-  "block.tconstruct.clear_tinted_glass": "Clear Tinted Glass",
+  "block.tconstruct.clear_tinted_glass": "Tinted Clear Glass",
 
   "block.tconstruct.obsidian_pane": "Obsidian Pane",
   "block.tconstruct.gold_bars": "Gold Bars",
@@ -96,7 +96,9 @@
   "block.tconstruct.black_clear_stained_glass_pane": "Clear Black Stained Glass Pane",
 
   "block.tconstruct.soul_glass": "Soul Glass",
+  "block.tconstruct.soul_glass.tooltip": "Acts solid, but can be walked though",
   "block.tconstruct.soul_glass_pane": "Soul Glass Pane",
+  "block.tconstruct.soul_glass_pane.tooltip": "Acts solid, but can be walked though",
 
   "block.tconstruct.glow": "Glow",
   "block.tconstruct.silky_jewel_block": "Silky Block of Jewel",
@@ -191,6 +193,9 @@
   "item.tconstruct.ichor_slime_ball": "Ichor Ball",
 
   "item.tconstruct.bacon": "Bacon",
+  "item.tconstruct.cheese_ingot": "Cheese",
+  "block.tconstruct.cheese_block": "Cheese Block",
+  "item.tconstruct.cheese.tooltip": "Removes a random effect when eaten",
 
   "item.tconstruct.earth_slime_crystal": "Earthslime Crystal",
   "block.tconstruct.earth_slime_crystal_block": "Earthslime Crystal Block",
@@ -434,6 +439,7 @@
   "fluid.tconstruct.flowing_blazing_blood": "Flowing Blazing Blood",
   "item.tconstruct.blazing_blood_bucket": "Blazing Blood Bucket",
 
+  "fluid.tconstruct.powdered_snow": "Powdered Snow",
 
   "_comment": "Food",
 
@@ -880,6 +886,7 @@
   "item.tconstruct.sky_staff": "Skyslime Staff",
   "item.tconstruct.earth_staff": "Earthslime Staff",
   "item.tconstruct.ichor_staff": "Ichor Staff",
+  "item.tconstruct.ender_staff": "Enderslime Staff",
   
   "item.tconstruct.travelers_helmet": "Traveler's Goggles",
   "item.tconstruct.travelers_chestplate": "Traveler's Vest",
@@ -1051,8 +1058,14 @@
 
   "block.tconstruct.seared_glass": "Seared Glass",
   "block.tconstruct.seared_glass.tooltip": "Part of the Smeltery.\nCannot store liquids.",
+  "block.tconstruct.seared_soul_glass": "Seared Soul Glass",
+  "block.tconstruct.seared_soul_glass.tooltip": "Part of the Smeltery.\nCannot store liquids, and can be walked though.",
+  "block.tconstruct.seared_tinted_glass": "Tinted Seared Glass",
+  "block.tconstruct.seared_tinted_glass.tooltip": "Part of the Smeltery.\nCannot store liquids, and does not let light through.",
   "block.tconstruct.seared_glass_pane": "Seared Glass Pane",
   "block.tconstruct.seared_glass_pane.tooltip": "Cannot be used in a Smeltery.",
+  "block.tconstruct.seared_soul_glass_pane": "Seared Soul Glass Pane",
+  "block.tconstruct.seared_soul_glass_pane.tooltip": "Cannot be used in a Smeltery, but can be walked though.",
 
   "block.tconstruct.seared_ladder": "Seared Ladder",
   "block.tconstruct.seared_ladder.tooltip": "Climbable Smeltery block.",
@@ -1128,8 +1141,14 @@
 
   "block.tconstruct.scorched_glass": "Scorched Glass",
   "block.tconstruct.scorched_glass.tooltip": "Part of the Foundry.\nCannot store liquids.",
+  "block.tconstruct.scorched_soul_glass": "Scorched Soul Glass",
+  "block.tconstruct.scorched_soul_glass.tooltip": "Part of the Foundry.\nCannot store liquids, and can be walked though.",
+  "block.tconstruct.scorched_tinted_glass": "Tinted Scorched Glass",
+  "block.tconstruct.scorched_tinted_glass.tooltip": "Part of the Foundry.\nCannot store liquids, and does not let light through.",
   "block.tconstruct.scorched_glass_pane": "Scorched Glass Pane",
   "block.tconstruct.scorched_glass_pane.tooltip": "Cannot be used in a Foundry.",
+  "block.tconstruct.scorched_soul_glass_pane": "Scorched Soul Glass Pane",
+  "block.tconstruct.scorched_soul_glass_pane.tooltip": "Cannot be used in a Foundry, but can be walked though.",
 
   "block.tconstruct.scorched_ladder": "Scorched Ladder",
   "block.tconstruct.scorched_ladder.tooltip": "Climbable Foundry block.",
@@ -1411,8 +1430,8 @@
 
   "material.tconstruct.bone": "Bone",
   "material.tconstruct.bone.flavor": "I am the bone of my sword",
-  "material.tconstruct.bone.encyclopedia": "Converts 0.5 damage into 1 piercing damage per level",
-  "material.tconstruct.bone.ranged": "Causes arrows to deal 1 piercing damage per level in addition to regular damage",
+  "material.tconstruct.bone.encyclopedia": "Increases melee damage by 0.5 and grants 1 armor pierce per level",
+  "material.tconstruct.bone.ranged": "Increases melee damage by 0.5 and grants 1 armor pierce per level",
   "material.tconstruct.bone.skull_flavor": "Got Milk?",
   "material.tconstruct.bone.skull_encyclopedia": "Grants resistance for 1 minute after drinking milk",
 
@@ -1780,6 +1799,9 @@
   "modifier.tconstruct.piercing.flavor": "Become the cactus!",
   "modifier.tconstruct.piercing.description": "Tool deals bonus damage which attacks through armor!",
   "modifier.tconstruct.piercing.attack_damage": "Pierce Damage",
+  "modifier.tconstruct.pierce": "Pierce",
+  "modifier.tconstruct.pierce.flavor": "Become the cactus!",
+  "modifier.tconstruct.pierce.description": "Attacks cancels out some of the target's armor!",
   "modifier.tconstruct.smite": "Smite",
   "modifier.tconstruct.smite.flavor": "Die, Foul Creature!",
   "modifier.tconstruct.smite.description": "Undead fear the might of the melon!",
@@ -2070,7 +2092,7 @@
   "modifier.tconstruct.autosmelt.flavor": "Fires of the Nether in your tool!",
   "modifier.tconstruct.autosmelt.description": "Tool automatically smelts all drops",
   "modifier.tconstruct.luck": "Luck",
-  "modifier.tconstruct.luck.1": "Luck",
+  "modifier.tconstruct.luck.1": "Lucky",
   "modifier.tconstruct.luck.2": "Luckier",
   "modifier.tconstruct.luck.3": "Luckiest",
   "modifier.tconstruct.luck.flavor": "Flashy!",
@@ -2163,6 +2185,9 @@
   "modifier.tconstruct.wetting": "Wetting",
   "modifier.tconstruct.wetting.flavor": "Not that kind of wetting",
   "modifier.tconstruct.wetting.description": "Causes you to wet yourself when damaged, applying different effects based on the contained fluid",
+  "modifier.tconstruct.spitting": "Spitting",
+  "modifier.tconstruct.spitting.flavor": "Become the better llama",
+  "modifier.tconstruct.spitting.description": "Can charge the tool to launch fluid projectiles from the tank, applying the effect to the target. Affected by bow stats.",
 
   "_comment": "Bonus modifier slots",
   "modifier.tconstruct.creative_slot": "Creative Slot",
@@ -2272,6 +2297,7 @@
   "modifier.tconstruct.airborne": "Airborne",
   "modifier.tconstruct.airborne.flavor": "Take to the skies!",
   "modifier.tconstruct.airborne.description": "Tool no longer is penalized when mining in the air and gains a projectile accuracy bonus",
+  "modifier.tconstruct.airborne.accuracy": "Airborne Accuracy",
 
   "__comment": "Tier 3 Traits",
   "modifier.tconstruct.overcast": "Overcast",
@@ -2477,6 +2503,7 @@
   "_comment": "Internal effects",
   "effect.tconstruct.bleeding": "Bleeding",
   "effect.tconstruct.magnetic": "Magnetic",
+  "effect.tconstruct.pierce": "Pierced",
   "effect.tconstruct.repulsive": "Repulsive",
   "effect.tconstruct.momentum": "Momentum",
   "effect.tconstruct.momentum_ranged": "Momentum",
@@ -2526,7 +2553,7 @@
   "tool_stat.tconstruct.harvest_tier": "Mining Tier: ",
   "tool_stat.tconstruct.harvest_tier.description": "What range of blocks a tool with a tool head of this material can mine.",
   "tool_stat.tconstruct.attack_damage": "Melee Damage: ",
-  "tool_stat.tconstruct.attack_damage.description": "Base value for melee attack calculations.\nThe end result depends on the tool itself and the other components used.",
+  "tool_stat.tconstruct.attack_damage.description": "Base value for melee attack damage calculations.\nThe end result depends on the tool itself and the other components used.",
 
   "tool_stat.tconstruct.armor": "Armor: ",
   "tool_stat.tconstruct.armor.description": "How much this protects you when worn.",
@@ -2867,6 +2894,12 @@
   "advancements.tconstruct.tools.glass_cannon.description": "Create a tool that does over 20 damage with at most 100 durability",
   "advancements.tconstruct.tools.tool_smith.title": "Tool Smith",
   "advancements.tconstruct.tools.tool_smith.description": "Create one of every default small tool",
+  "advancements.tconstruct.tools.netherite_tier.title": "Netherite Tier",
+  "advancements.tconstruct.tools.netherite_tier.description": "Create a tool with the netherite harvest tier",
+  "advancements.tconstruct.tools.perfect_aim.title": "Perfect Aim",
+  "advancements.tconstruct.tools.perfect_aim.description": "Create a bow with 1.0 accuracy",
+  "advancements.tconstruct.tools.one_shot.title": "One Shot",
+  "advancements.tconstruct.tools.one_shot.description": "Create a melee weapon that can unconditionally kill any common monsters in a single non-critical attack (21 flat damage or more)",
   "advancements.tconstruct.tools.material_master.title": "Material Master",
   "advancements.tconstruct.tools.material_master.description": "Use each default material at least once",
 

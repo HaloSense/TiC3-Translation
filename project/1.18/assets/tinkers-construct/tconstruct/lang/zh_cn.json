@@ -40,7 +40,7 @@
 
   "block.tconstruct.clear_glass": "通透玻璃",
   "block.tconstruct.clear_glass_pane": "通透玻璃板",
-  "block.tconstruct.clear_tinted_glass": "通透遮光玻璃",
+  "block.tconstruct.clear_tinted_glass": "遮光通透玻璃",
 
   "block.tconstruct.obsidian_pane": "黑曜石板",
   "block.tconstruct.gold_bars": "金栏杆",
@@ -96,7 +96,9 @@
   "block.tconstruct.black_clear_stained_glass_pane": "黑色染色通透玻璃板",
 
   "block.tconstruct.soul_glass": "灵魂玻璃",
+  "block.tconstruct.soul_glass.tooltip": "与普通方块相似，但是可以从中穿过",
   "block.tconstruct.soul_glass_pane": "灵魂玻璃板",
+  "block.tconstruct.soul_glass_pane.tooltip": "与普通方块相似，但是可以从中穿过",
 
   "block.tconstruct.glow": "荧光球",
   "block.tconstruct.silky_jewel_block": "裹绸宝石块",
@@ -191,6 +193,9 @@
   "item.tconstruct.ichor_slime_ball": "灵浆球",
 
   "item.tconstruct.bacon": "培根",
+  "item.tconstruct.cheese_ingot": "奶酪",
+  "block.tconstruct.cheese_block": "奶酪块",
+  "item.tconstruct.cheese.tooltip": "食用后随机移除身上的一种状态效果",
 
   "item.tconstruct.earth_slime_crystal": "大地黏液水晶",
   "block.tconstruct.earth_slime_crystal_block": "大地黏液水晶块",
@@ -434,6 +439,7 @@
   "fluid.tconstruct.flowing_blazing_blood": "流动的烈焰血",
   "item.tconstruct.blazing_blood_bucket": "烈焰血桶",
 
+  "fluid.tconstruct.powdered_snow": "细雪",
 
   "_comment": "Food",
 
@@ -462,7 +468,7 @@
 
   "fluid.tconstruct.potion": "药水",
 
-  "item.tconstruct.potion_bucket": "无法制作的药水桶",
+  "item.tconstruct.potion_bucket": "不可合成的药水桶",
   "item.tconstruct.potion_bucket.effect.water": "药水桶",
   "item.tconstruct.potion_bucket.contents": "%s桶",
 
@@ -880,6 +886,7 @@
   "item.tconstruct.sky_staff": "碧空黏液手杖",
   "item.tconstruct.earth_staff": "大地黏液手杖",
   "item.tconstruct.ichor_staff": "灵浆手杖",
+  "item.tconstruct.ender_staff": "末影黏液手杖",
   
   "item.tconstruct.travelers_helmet": "旅行者护目镜",
   "item.tconstruct.travelers_chestplate": "旅行者背心",
@@ -993,7 +1000,7 @@
   "gui.tconstruct.melting.fuel.no_tank": "结构内缺少储罐",
   "gui.tconstruct.melting.fuel.empty": "缺少燃料",
   "gui.tconstruct.melting.fuel.solid": "固体燃料",
-  "gui.tconstruct.melting.fuel.temperature": "温度：%s °C",
+  "gui.tconstruct.melting.fuel.temperature": "温度：%s°C",
   "gui.tconstruct.melting.fuel.invalid": "无效的熔炼燃料！",
 
   "gui.tconstruct.duct": "输导孔",
@@ -1050,9 +1057,15 @@
   "block.tconstruct.seared_triangle_bricks.tooltip": "构造冶炼炉的建材",
 
   "block.tconstruct.seared_glass": "焦黑玻璃",
-  "block.tconstruct.seared_glass.tooltip": "构造冶炼炉的建材\n不能储存液体",
+  "block.tconstruct.seared_glass.tooltip": "构造冶炼炉的建材\n无法储存液体",
+  "block.tconstruct.seared_soul_glass": "焦黑灵魂玻璃",
+  "block.tconstruct.seared_soul_glass.tooltip": "构造冶炼炉的建材\n无法储存液体，但可以从中穿过。",
+  "block.tconstruct.seared_tinted_glass": "焦黑遮光玻璃",
+  "block.tconstruct.seared_tinted_glass.tooltip": "构造冶炼炉的建材\n无法存储流体，且无法透光。",
   "block.tconstruct.seared_glass_pane": "焦黑玻璃板",
   "block.tconstruct.seared_glass_pane.tooltip": "无法用于构造冶炼炉",
+  "block.tconstruct.seared_soul_glass_pane": "焦黑灵魂玻璃板",
+  "block.tconstruct.seared_soul_glass_pane.tooltip": "无法用于构造冶炼炉，但可以从中穿过。",
 
   "block.tconstruct.seared_ladder": "焦黑梯子",
   "block.tconstruct.seared_ladder.tooltip": "可供攀爬的冶炼炉建材",
@@ -1128,9 +1141,15 @@
 
   "block.tconstruct.scorched_glass": "焦褐玻璃",
   "block.tconstruct.scorched_glass.tooltip": "构造熔铸炉的建材\n无法存储流体",
+  "block.tconstruct.scorched_soul_glass": "焦褐灵魂玻璃",
+  "block.tconstruct.scorched_soul_glass.tooltip": "构造熔铸炉的建材\n无法存储流体，但可以从中穿过。",
+  "block.tconstruct.scorched_tinted_glass": "焦褐遮光玻璃",
+  "block.tconstruct.scorched_tinted_glass.tooltip": "构造熔铸炉的建材\n无法存储流体，且无法透光。",
   "block.tconstruct.scorched_glass_pane": "焦褐玻璃板",
   "block.tconstruct.scorched_glass_pane.tooltip": "无法用于构造熔铸炉",
-
+  "block.tconstruct.scorched_soul_glass_pane": "焦褐灵魂玻璃板",
+  "block.tconstruct.scorched_soul_glass_pane.tooltip": "无法用于构造熔铸炉，但可以从中穿过。",
+  
   "block.tconstruct.scorched_ladder": "焦褐梯子",
   "block.tconstruct.scorched_ladder.tooltip": "可供攀爬的冶炼炉建材",
 
@@ -1148,9 +1167,9 @@
   "block.tconstruct.scorched_faucet": "焦褐浇注口",
   "block.tconstruct.scorched_faucet.tooltip": "从熔铸炉或储罐中输出流体",
   "block.tconstruct.scorched_basin": "焦褐铸造盆",
-  "block.tconstruct.scorched_basin.tooltip": "利用熔铸炉中的熔融材料铸造物品，在铸造时需要一个铸模或是平台以成型",
+  "block.tconstruct.scorched_basin.tooltip": "利用熔铸炉中的熔融材料铸造物品，在铸造时需要一个铸模或是金平台以成型",
   "block.tconstruct.scorched_table": "焦褐铸件台",
-  "block.tconstruct.scorched_table.tooltip": "利用熔铸炉中的熔融材料铸造物品，在铸造时需要一个铸模或是平台以成型",
+  "block.tconstruct.scorched_table.tooltip": "利用熔铸炉中的熔融材料铸造物品，在铸造时需要一个铸模或是金栏杆以成型",
 
   "block.tconstruct.scorched_channel": "焦褐浇注道",
   "block.tconstruct.scorched_channel.tooltip": "将上方浇注口中流下的流体进行分流",
@@ -1411,8 +1430,8 @@
 
   "material.tconstruct.bone": "骨头",
   "material.tconstruct.bone.flavor": "吾为所持剑之骨",
-  "material.tconstruct.bone.encyclopedia": "每级将0.5点伤害转换为1点穿刺伤害。",
-  "material.tconstruct.bone.ranged": "箭矢每级额外造成1点穿刺伤害。",
+  "material.tconstruct.bone.encyclopedia": "每级近战伤害+0.5，穿透护甲值+1",
+  "material.tconstruct.bone.ranged": "每级近战伤害+0.5，穿透护甲值+1",
   "material.tconstruct.bone.skull_flavor": "来点牛奶么？",
   "material.tconstruct.bone.skull_encyclopedia": "饮用牛奶后获得1分钟抗性提升。",
 
@@ -1780,6 +1799,9 @@
   "modifier.tconstruct.piercing.flavor": "变身仙人掌！",
   "modifier.tconstruct.piercing.description": "工具会无视护甲造成额外伤害！",
   "modifier.tconstruct.piercing.attack_damage": "穿刺伤害",
+  "modifier.tconstruct.pierce": "穿刺",
+  "modifier.tconstruct.pierce.flavor": "变身仙人掌！",
+  "modifier.tconstruct.pierce.description": "攻击会抵消目标的部分护甲值！",
   "modifier.tconstruct.smite": "亡灵杀手",
   "modifier.tconstruct.smite.flavor": "死吧，贱种！",
   "modifier.tconstruct.smite.description": "哪只亡灵不惧怕这金光闪闪的西瓜！",
@@ -2163,6 +2185,9 @@
   "modifier.tconstruct.wetting": "润湿",
   "modifier.tconstruct.wetting.flavor": "不是尿裤子那种",
   "modifier.tconstruct.wetting.description": "在受伤时会用液体打湿自己，根据液体种类不同，产生不同的效果",
+  "modifier.tconstruct.spitting": "喷洒",
+  "modifier.tconstruct.spitting.flavor": "成为更厉害的羊驼",
+  "modifier.tconstruct.spitting.description": "蓄力后工具可从储罐中喷出流体，并对目标造成效果。受弓的数值影响。",
 
   "_comment": "Bonus modifier slots",
   "modifier.tconstruct.creative_slot": "创造强化",
@@ -2264,14 +2289,15 @@
   "modifier.tconstruct.raging": "愤怒",
   "modifier.tconstruct.raging.flavor": "破釜沉舟，背水一战！",
   "modifier.tconstruct.raging.description": "当生命值低时工具伤害更高，拉弓速度更快",
-  "modifier.tconstruct.raging.attack_damage": "低生命值时伤害",
-  "modifier.tconstruct.raging.draw_speed": "低生命值时拉弓速度",
+  "modifier.tconstruct.raging.attack_damage": "低生命值伤害",
+  "modifier.tconstruct.raging.draw_speed": "低生命值拉弓速度",
   "modifier.tconstruct.enhanced": "增强",
   "modifier.tconstruct.enhanced.flavor": "闪闪放光芒！",
   "modifier.tconstruct.enhanced.description": "玫瑰金极佳地容纳了更多的升级槽！",
   "modifier.tconstruct.airborne": "悬空",
   "modifier.tconstruct.airborne.flavor": "搏击天空！",
   "modifier.tconstruct.airborne.description": "在空中采掘时不再受到挖掘速度影响，且会使弹射物精确度上升",
+  "modifier.tconstruct.airborne.accuracy": "悬空精确度",
 
   "__comment": "Tier 3 Traits",
   "modifier.tconstruct.overcast": "厚积",
@@ -2477,6 +2503,7 @@
   "_comment": "Internal effects",
   "effect.tconstruct.bleeding": "流血",
   "effect.tconstruct.magnetic": "磁性",
+  "effect.tconstruct.pierce": "穿刺",
   "effect.tconstruct.repulsive": "排斥",
   "effect.tconstruct.momentum": "动力",
   "effect.tconstruct.momentum_ranged": "动力",
@@ -2854,9 +2881,9 @@
   "advancements.tconstruct.tools.make_part.title": "工具部件",
   "advancements.tconstruct.tools.make_part.description": "在部件制造台中按一定的样式来排布材料，并打造出你的第一个工具部件",
   "advancements.tconstruct.tools.tinker_station.title": "工匠站",
-  "advancements.tconstruct.tools.tinker_station.description": "做一个工匠站，将部件组装成工具",
+  "advancements.tconstruct.tools.tinker_station.description": "制造一个工匠站，将部件组装成工具",
   "advancements.tconstruct.tools.tinker_tool.title": "工匠学徒",
-  "advancements.tconstruct.tools.tinker_tool.description": "创造你的第一件匠魂工具",
+  "advancements.tconstruct.tools.tinker_tool.description": "打造你的第一件匠魂工具",
   "advancements.tconstruct.tools.travelers_gear.title": "旅行者",
   "advancements.tconstruct.tools.travelers_gear.description": "制作出全套的旅行者套装",
   "advancements.tconstruct.tools.modified.title": "修缮强化",
@@ -2867,6 +2894,12 @@
   "advancements.tconstruct.tools.glass_cannon.description": "打造一件攻击伤害大于20但耐久度不超过100的工具",
   "advancements.tconstruct.tools.tool_smith.title": "工具精匠",
   "advancements.tconstruct.tools.tool_smith.description": "打造出每一件默认的小型工具",
+  "advancements.tconstruct.tools.netherite_tier.title": "挖掘等级：下界合金",
+  "advancements.tconstruct.tools.netherite_tier.description": "打造出一件挖掘等级为下界合金的工具",
+  "advancements.tconstruct.tools.perfect_aim.title": "夺命之箭",
+  "advancements.tconstruct.tools.perfect_aim.description": "打造一把精确度为1.0的弓",
+  "advancements.tconstruct.tools.one_shot.title": "一击毙命",
+  "advancements.tconstruct.tools.one_shot.description": "打造一把能在正常情况下一击击杀任何生物（造成21点伤害及以上）的近战武器。",
   "advancements.tconstruct.tools.material_master.title": "材料大师",
   "advancements.tconstruct.tools.material_master.description": "使用每种默认材料至少一次",
 
@@ -2918,7 +2951,7 @@
   "advancements.tconstruct.world.blood_island.title": "黏血岛",
   "advancements.tconstruct.world.blood_island.description": "在下界的熔岩海上找到一座黏血岛",
   "advancements.tconstruct.world.ender_island.title": "末影黏液岛",
-  "advancements.tconstruct.world.ender_island.description": "在末地外域找到一座末影黏液岛",
+  "advancements.tconstruct.world.ender_island.description": "在末地外岛找到一座末影黏液岛",
   "advancements.tconstruct.world.slimesuit.title": "黏液套装",
   "advancements.tconstruct.world.slimesuit.description": "制作出全套的黏液套装",
   "advancements.tconstruct.world.slimeskull.title": "头颅收藏家",
